@@ -515,7 +515,7 @@ ul ul span.sf-arrow {
 
 /* Theming the menu */
 ul#nav { 
-  float: left;
+  float: right;
 }
 
 ul#nav ul { 
