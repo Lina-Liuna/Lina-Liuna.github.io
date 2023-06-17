@@ -188,7 +188,7 @@ header {
 nav { 
   height: 44px;
   width: 928px;
-  float: left;
+  float: right;
   margin: -20px auto 20px auto;
   color: #222;
   background: #333; /* Show a solid color for older browsers */
