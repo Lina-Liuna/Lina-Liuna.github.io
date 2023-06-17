@@ -415,20 +415,13 @@ ul img {
 }
 
 
-
-
-/**
-Stylesheet for SooperFish by www.SooperThemes.com
-Author: Jurriaan Roelofs
-**/
-
 /* Configuration of menu width */
 html body ul.sf-menu ul,html body ul.sf-menu ul li { 
-  width: 220px;
+  width: 110px;
 }
 
 html body ul.sf-menu ul ul { 
-  margin: 0 0 0 220px;
+  margin: 0 0 0 110px;
 }
 
 /* Framework for proper showing/hiding/positioning */
