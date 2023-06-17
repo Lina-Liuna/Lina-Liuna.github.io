@@ -417,11 +417,11 @@ ul img {
 
 /* Configuration of menu width */
 html body ul.sf-menu ul,html body ul.sf-menu ul li { 
-  width: 110px;
+  width: 130px;
 }
 
 html body ul.sf-menu ul ul { 
-  margin: 0 0 0 110px;
+  margin: 0 0 0 130px;
 }
 
 /* Framework for proper showing/hiding/positioning */
