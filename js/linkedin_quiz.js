@@ -64,3 +64,5 @@ submitButton.addEventListener("click", checkAnswer);
 
 // Display the first question when the page loads
 displayQuestion();
+checkAnswer();
+displayResult();
