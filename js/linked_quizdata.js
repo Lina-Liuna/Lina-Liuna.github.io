@@ -3,10210 +3,10210 @@
 let questions = [
     {
     numb: 1,
-    question: "zoology [zoh—ol—uh-jee]",
+    question: "zoology [zoh—ol—uh-jee]:zo, animal life",
     answer: "— study of animals",
     options: [
       "— study of animals",
-      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
-      " — a motor vehicle that pullsthings",
-      "a yellowish gem,橄榄石",
+      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
+      "a book written by hand",
+      "— respect foryourself",
     ]
   },
     {
     numb: 2,
-    question: "zooid [zoh—oid]",
+    question: "zooid [zoh—oid]:zo, animal life",
     answer: "- any animal organism capableof separate existence",
     options: [
-      "- an output of original researchwith a specific view",
-      "— an instrumentattached to a vehicle to measure the distancetraversed",
-      "not changing",
+      "the study of people, the science of vital and social statistics",
+      "no longer working or alive",
+      " — a device used tosee over a distance",
       "- any animal organism capableof separate existence",
     ]
   },
     {
     numb: 3,
-    question: "zooplankton [zoh—uh-plangk-tuh n]",
+    question: "zooplankton [zoh—uh-plangk-tuh n]:zo, animal life",
     answer: " — minutefloating aquatic animals, animal-like organisms",
     options: [
-      "to remove bugs from software program",
-      "- any animal organism capableof separate existence",
-      "the highest ranking bishop(主教),大主教",
+      "- an actual or constructivesitting of a body",
+      "— the love of wisdom",
+      "— an element whichproduces a red solution",
       " — minutefloating aquatic animals, animal-like organisms",
     ]
   },
     {
     numb: 4,
-    question: "xylocarp [zahy—luh-karp]",
+    question: "xylocarp [zahy—luh-karp]:xyl, wood",
     answer: " —- a fruit, such as acoconut, having a hard woody pericarp",
     options: [
-      "to use the mind, think or think about,脑洞大开",
       " —- a fruit, such as acoconut, having a hard woody pericarp",
-      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
-      "- a clever but misleadingargument",
+      "— the human spirit or soul",
+      "having equal or constant temperature, A fridge works isothermally",
+      "- to put underwater",
     ]
   },
     {
     numb: 5,
-    question: "xylophone [zahy-luh—fohn]",
+    question: "xylophone [zahy-luh—fohn]:xyl, wood",
     answer: " — a musicalinstrument with graduated series of woodenbars",
     options: [
-      "to shout and make noise, a loud uproar,叫嚣, a clamor outside woke them in the night",
       " — a musicalinstrument with graduated series of woodenbars",
-      "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
-      "common protein in muscle tissue,肌球蛋白",
+      "- the combined total of everything",
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      "— between the stars",
     ]
   },
     {
     numb: 6,
-    question: "xerophyte [zeer—uh—fahyt]",
+    question: "xerophyte [zeer—uh—fahyt]:xer, dry",
     answer: "- a plant that growsin dry climate",
     options: [
-      "without water",
+      "the transmission of disease to other parts of the body转移,",
       "- a plant that growsin dry climate",
-      " — maintenance ofpublic health and cleanliness",
-      "an outgoing person, 性格外向的, extrovert personality",
+      " — having a spontaneousurge to do something",
+      "a disposition性情 or bent, a liking or preference,意向，my own inclination would be to look for another job",
     ]
   },
     {
     numb: 7,
-    question: "xerography [zi-rog—ruh—fee]",
+    question: "xerography [zi-rog—ruh—fee]:xer, dry",
     answer: "— a dryphotocopying process",
     options: [
-      " — a substancethat helps prevent body odor",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
+      " — aconversation where discussion turned againsteach other",
+      "- to make fun of someone",
       "— a dryphotocopying process",
-      " — the ability todiscipline yourself",
+      "- to picture mentally,especially some future event",
     ]
   },
     {
     numb: 8,
-    question: "xeric [zeer—ik]",
+    question: "xeric [zeer—ik]:xer, dry",
     answer: "— requiring small amounts ofmoisture",
     options: [
-      "- contribution of one's thinking.",
-      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
-      "of or involving two sides, two-sided",
+      "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
       "— requiring small amounts ofmoisture",
+      "- the combined total of everything",
+      "a treasurer, especially of a college or university,大学财务主管",
     ]
   },
     {
     numb: 9,
-    question: "xenophobic [zen—uh—foh—bik]",
+    question: "xenophobic [zen—uh—foh—bik]:xen, foreign",
     answer: " - afraid offoreigners",
     options: [
-      "发光性",
+      "the act of moving",
+      "the process of moving to another place移民",
       " - afraid offoreigners",
-      "an abnormally low glucose(葡萄糖) in the blood低血糖",
-      "— something new (for anitem or thing)",
+      "— a man who rules agroup",
     ]
   },
     {
     numb: 10,
-    question: "xenogenesis [zen—uh-foh-bik]",
+    question: "xenogenesis [zen—uh-foh-bik]:xen, foreign",
     answer: " — the creation ofoffspring that is different from either parent",
     options: [
-      "— the study ofcity life or social life and its problems",
+      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
       " — the creation ofoffspring that is different from either parent",
-      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
-      "a measure of storage capacity equal to bytes,GB，",
+      "to set free",
+      "self-centered, 自我中心的, babies are entirely egocentric",
     ]
   },
     {
     numb: 11,
-    question: "xenophile [zen—uh-—fahyl]",
+    question: "xenophile [zen—uh-—fahyl]:xen, foreign",
     answer: " — attracted toforeigners",
     options: [
-      "— a portion of a writtendocument that presents a distinct idea",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
       " — attracted toforeigners",
-      " — a device used tosee over a distance",
-      "- inferior toaccepted standards, less than adequate",
+      " — desiring or eatingfood in great quantities",
+      "- relating to birth",
     ]
   },
     {
     numb: 12,
-    question: "xanthoma [zan—thoh-muh]",
+    question: "xanthoma [zan—thoh-muh]:xanth, yellow",
     answer: " — a yellow papule ornodule in the skin, containing lipid deposits",
     options: [
-      "one of the commonest minerals, calcium carbonate,方解石",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
       " — a yellow papule ornodule in the skin, containing lipid deposits",
-      "the love of mankind",
-      " — not shortened",
+      "- eating all foods",
     ]
   },
     {
     numb: 13,
-    question: "xanthochromia [zan—tho-kro myuh]",
+    question: "xanthochromia [zan—tho-kro myuh]:xanth, yellow",
     answer: " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
     options: [
-      "— to show approval ofespecially by clapping the hands",
-      "a word that joins parts of sentences",
-      "a word formed from the first letters of a word, 首字母缩略词",
+      "very small or trivial details细节, the minutiae of everyday life",
+      "earth's surface inhabited by living things生态环境",
+      "— the study ofcity life or social life and its problems",
       " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
     ]
   },
     {
     numb: 14,
-    question: "carnivorous [kahr—niv—er—uh s]",
+    question: "carnivorous [kahr—niv—er—uh s]:vor, eat",
     answer: "— meat—eating",
     options: [
+      "the surface of the moon",
+      "a place equipped to conduct work or experiments, 实验室,",
       "— meat—eating",
-      "- feeling sleepy",
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
-      " — a supporter of therights of people",
+      "— wise aboutthe ways of the world",
     ]
   },
     {
     numb: 15,
-    question: "voracious [vaw-rey-shuh s]",
+    question: "voracious [vaw-rey-shuh s]:vor, eat",
     answer: " — desiring or eatingfood in great quantities",
     options: [
+      "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
       " — desiring or eatingfood in great quantities",
-      " — a response, areverse movement or tendency",
-      " — a device used tosee over a distance",
-      "— respect foryourself",
+      " — a motor vehicle that pullsthings",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
     ]
   },
     {
     numb: 16,
-    question: "devour [dih—vou-uh r]",
+    question: "devour [dih—vou-uh r]:vor, eat",
     answer: "- to eat quickly and withgreat fervor",
     options: [
-      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-      "- acrossthe continent",
-      "an abnormal fear of women女性恐惧症",
+      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
       "- to eat quickly and withgreat fervor",
+      "a female airplane pilot女飞行员",
     ]
   },
     {
     numb: 17,
-    question: "benevolent [buh—nev—uh-luh nt]",
+    question: "benevolent [buh—nev—uh-luh nt]:vol, wish, will",
     answer: " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
     options: [
-      "— poisonous",
-      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
+      "— to drive someone out of aplace",
+      "发光性",
+      "- relating to time,enduring for a time only",
       " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
     ]
   },
     {
     numb: 18,
-    question: "voluntary [vol-uh n-ter-ee]",
+    question: "voluntary [vol-uh n-ter-ee]:vol, wish, will",
     answer: " — acting from yourown free will",
     options: [
       " — acting from yourown free will",
-      "unit of frequency,Ghz, 十亿赫兹",
-      "— an athletic contestthat includes five events",
-      "disagreement, 争议, the new movie is a subject of controversy",
+      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
+      "- to be against something",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     ]
   },
     {
     numb: 19,
-    question: "advocate [ad-vuh-keyt]",
+    question: "advocate [ad-vuh-keyt]:voc, voice, call",
     answer: " — to speak in favor of,support or urge by argument",
     options: [
-      "- to picture mentally,especially some future event",
+      " -person in his or her eighties",
+      " — lying outside ofthe center",
       " — to speak in favor of,support or urge by argument",
-      "— an element whichproduces a red solution",
-      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+      "a place equipped to conduct work or experiments, 实验室,",
     ]
   },
     {
     numb: 20,
-    question: "equivocate [ih-kwiv—uh-keyt]",
+    question: "equivocate [ih-kwiv—uh-keyt]:voc, voice, call",
     answer: " — unclearexpressions, usually to avoid commitment andmislead",
     options: [
-      " — caused by light,forming an attractive subject for photography",
-      "- group involving fourvoices or instruments",
+      "art of public speaking，演说, I need more training in order to improve my elocution",
+      "dating events by studying growth rings in trees,树龄学",
       " — unclearexpressions, usually to avoid commitment andmislead",
-      " —- a fruit, such as acoconut, having a hard woody pericarp",
+      " — a single, excretory unit inthe kidney",
     ]
   },
     {
     numb: 21,
-    question: "vocalize [voh—kuh-lahyz]",
+    question: "vocalize [voh—kuh-lahyz]:voc, voice, call",
     answer: " — to produce with yourvoice, utter, articulate, sing",
     options: [
-      "- inflammation ofthe lungs",
+      "— the remembering ofpast events",
+      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
+      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
       " — to produce with yourvoice, utter, articulate, sing",
-      "- actions of a government orpolitical party",
-      "— marked as worthy ofattention",
     ]
   },
     {
     numb: 22,
-    question: "revival [ri-vahy—vuh |]",
+    question: "revival [ri-vahy—vuh |]:viv, live, life",
     answer: "- the act of bringing backto life",
     options: [
-      "self-centered, 自我中心的, babies are entirely egocentric",
-      "- the transmissionof programming, in the form of still or video",
       "- the act of bringing backto life",
-      "the surface of the moon",
+      "— the act of rubbingtogether or wearing down",
+      "study of nature and reality形而上学，玄学, metaphysics-stanford encyclopedia of philosophy",
+      "— one fourth",
     ]
   },
     {
     numb: 23,
-    question: "vital [vahyt-I]",
+    question: "vital [vahyt-I]:viv, live, life",
     answer: "- pertaining to life, being the seator source of life",
     options: [
       "- pertaining to life, being the seator source of life",
-      "a shady area formed by trees,凉亭",
-      "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
-      "- to eat quickly and withgreat fervor",
+      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
+      "— studyof ancient fossils",
+      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
     ]
   },
     {
     numb: 24,
-    question: "vivacious [vi-vey—shuh s]",
+    question: "vivacious [vi-vey—shuh s]:viv, live, life",
     answer: "— high-spirited and fullof life, lively",
     options: [
-      "— decided byonly one person or nation",
-      "- protection fromfalling",
+      "- a place keptfor a person",
+      "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
       "— high-spirited and fullof life, lively",
-      "the study of mankind",
+      "- a list personswho have recently died",
     ]
   },
     {
     numb: 25,
-    question: "vision [vizh—uh n]",
+    question: "vision [vizh—uh n]:vis, see or seen, visible",
     answer: "- the ability to see, power ofanticipating",
     options: [
       "- the ability to see, power ofanticipating",
-      "— between the stars",
-      "- to name someonefor election or to designate",
-      "hostile, ready to fight, given to waging war,好战的，交战的, he was belligerent",
+      " — the smallest possible unit oflight",
+      "- an output of original researchwith a specific view",
+      "peculiar to a particular language",
     ]
   },
     {
     numb: 26,
-    question: "envision [en—vizh-uh n]",
+    question: "envision [en—vizh-uh n]:vis, see or seen, visible",
     answer: "- to picture mentally,especially some future event",
     options: [
-      "删节",
-      " — cannibalism",
       "- to picture mentally,especially some future event",
-      " — loud,unpleasant sounds",
+      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
+      "an extensive flood, complete deluge,灾难，剧变",
+      "measurement, pertaining to the meter",
     ]
   },
     {
     numb: 27,
-    question: "evident [ev—i—-duh nt]",
+    question: "evident [ev—i—-duh nt]:vis, see or seen, visible",
     answer: "- clearly visible, clear tothe sight or understanding",
     options: [
-      " -— surgery ofthe nose",
-      " — to identifysomeone or something seen before",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "- to write letters or wordson a surface",
       "- clearly visible, clear tothe sight or understanding",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "- talking in yoursleep",
     ]
   },
     {
     numb: 28,
-    question: "convince [kuh n-vins]",
+    question: "convince [kuh n-vins]:vince, conquer",
     answer: "— to win someone over,persuade",
     options: [
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      "— a doctor for thefeet",
+      "in the shape of a tree, treelike form，树枝状,",
       "— to win someone over,persuade",
-      "— decided byonly one person or nation",
-      "a pipeline for water,沟渠",
+      "underlying framework of a system",
     ]
   },
     {
     numb: 29,
-    question: "invincible [in—vin—suh—buh |]",
+    question: "invincible [in—vin—suh—buh |]:vince, conquer",
     answer: "— not able to beconquered, insurmountable",
     options: [
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
-      "the tumor of the liver",
+      "- to find something outat the end of an investigation",
+      "skull of vertebrates,颅骨,what does cranium do?",
       "— not able to beconquered, insurmountable",
-      "- clearly visible, clear tothe sight or understanding",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
     ]
   },
     {
     numb: 30,
-    question: "victory [vik—tuh-ree]",
+    question: "victory [vik—tuh-ree]:vince, conquer",
     answer: "- the conquest of anenemy, success or triumph",
     options: [
+      " — the pure andconcentrated essence of a substance",
+      "- a variation of an original,to turn it as another translation",
+      "- to build",
       "- the conquest of anenemy, success or triumph",
-      "— relating tosomething in the past",
-      "a chemical used to kill insects",
-      "— abnormal digestion",
     ]
   },
     {
     numb: 31,
-    question: "vice-president [vahys prez—i—duh nt]",
+    question: "vice-president [vahys prez—i—duh nt]:vice, acting in place of, next in rank",
     answer: " — theperson next in rank to the president",
     options: [
-      "art of public speaking，演说, I need more training in order to improve my elocution",
-      " — a mixture that forms asmooth solid covering for walls",
-      "— a product ofdisintegration or wearing away",
+      "- to break into aconversation or event, to disturb",
+      "- an edible root of the mustardfamily",
+      "flesh-eating,食肉的, Lions and tigers are carnivores",
       " — theperson next in rank to the president",
     ]
   },
     {
     numb: 32,
-    question: "reverse [ri-vurs]",
+    question: "reverse [ri-vurs]:vers, turn",
     answer: "- to turn around",
     options: [
-      "— the remembering ofpast events",
-      "opposing social norm, 反社会的",
-      "- belief inone god",
+      "- an edible root of the mustardfamily",
+      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
       "- to turn around",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
     ]
   },
     {
     numb: 33,
-    question: "introvert [in-truh—vurt]",
+    question: "introvert [in-truh—vurt]:vers, turn",
     answer: "— being turned towardsown thoughts, a shy person",
     options: [
-      "- to picture mentally,especially some future event",
+      "to fill with light,照亮,解释,",
+      "a person who resists any authority,造反，反叛，叛逆",
       "— being turned towardsown thoughts, a shy person",
-      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
-      "- relating to a city, living in acity",
+      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
     ]
   },
     {
     numb: 34,
-    question: "version [vur—zhuh n]",
+    question: "version [vur—zhuh n]:vers, turn",
     answer: "- a variation of an original,to turn it as another translation",
     options: [
-      " — a dentistthat straightens teeth",
-      "something announced offically in public, 公告,city of orlando proclamation format example",
-      "worst enemy",
+      " — aconversation where discussion turned againsteach other",
+      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
       "- a variation of an original,to turn it as another translation",
     ]
   },
     {
     numb: 35,
-    question: "controversy [kon-truh-vur-see]",
+    question: "controversy [kon-truh-vur-see]:vers, turn",
     answer: " — aconversation where discussion turned againsteach other",
     options: [
-      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
-      "a chemical used to kill insects",
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
+      "— an athletic contestthat includes five events",
+      "unit measuring light, 光通量单位",
       " — aconversation where discussion turned againsteach other",
+      "to work out the details精心制作的,she drew an elaborate design",
     ]
   },
     {
     numb: 36,
-    question: "verbalize [vur—buh-lahyz]",
+    question: "verbalize [vur—buh-lahyz]:verb, word",
     answer: "- to put into words",
     options: [
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      " — somethingthat is the first made or also living portion of aCell",
       "- to put into words",
-      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
-      " — a person who rules onbehalf of a king or queen",
+      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
+      "someone working with trees,树艺师",
     ]
   },
     {
     numb: 37,
-    question: "adverb [ad-vurb]",
+    question: "adverb [ad-vurb]:verb, word",
     answer: "- a word relating to a verb",
     options: [
-      "an instrument that measures hearing acuteness",
-      "color of sea water海洋的碧绿色,aquamarine stone",
-      "a person traveling to the stars and for spaceflight",
+      "flat tongue-shaped pasta扁面条,",
+      "- pull out at the roots",
       "- a word relating to a verb",
+      "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
     ]
   },
     {
     numb: 38,
-    question: "proverb [prov—erb]",
+    question: "proverb [prov—erb]:verb, word",
     answer: "— a wise saying or precept; adidactic sentence",
     options: [
-      " — a verystrong urge",
+      "- doing better than",
+      "a measure of storage capacity equal to bytes,GB，",
       "— a wise saying or precept; adidactic sentence",
-      "operated by force created by a liquid or water液压,equipment such as cranes, forklifts, jacks, pumps and fall arrest safety harnesses use hydraulics to lift and lower objects.",
-      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
+      "a word that joins parts of sentences",
     ]
   },
     {
     numb: 39,
-    question: "veracious [vuh-rey—shuh s]",
+    question: "veracious [vuh-rey—shuh s]:ver, truth",
     answer: "- truthful, honest",
     options: [
-      "— to place out into the openfor all to see",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
       "- truthful, honest",
-      " — inflammation of thekidneys",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     ]
   },
     {
     numb: 40,
-    question: "veracity [vuh-ras—i—-tee]",
+    question: "veracity [vuh-ras—i—-tee]:ver, truth",
     answer: "- the truth, conformityto truth or fact; accuracy",
     options: [
-      "a fiber optics instrument used to see inside a joint,关节镜",
-      "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
       "- the truth, conformityto truth or fact; accuracy",
-      "middle america",
+      "- affecting the sense oftouch",
+      "inflammation炎 of the skin",
+      "the tumor of the liver",
     ]
   },
     {
     numb: 41,
-    question: "verify [ver—uh—fahy]",
+    question: "verify [ver—uh—fahy]:ver, truth",
     answer: "- to make sure thatsomething is true",
     options: [
-      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
-      "- to put into words",
       "- to make sure thatsomething is true",
-      " — the study ofthe mind",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
+      "resembling a human",
+      " — obsessionwith and usually erotic interest on corpses",
     ]
   },
     {
     numb: 42,
-    question: "veritas [ver—i-tas]",
+    question: "veritas [ver—i-tas]:ver, truth",
     answer: "- truth",
     options: [
-      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
-      "— reddish pigment inbile",
-      "- sixfold",
+      "associated with abnormally high levels of suger in the blood糖尿病",
+      "- hard to understand, notclear or plain; ambiguous",
       "- truth",
+      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
     ]
   },
     {
     numb: 43,
-    question: "circumvent [sur—kuh m-vent]",
+    question: "circumvent [sur—kuh m-vent]:ven, come",
     answer: " — to come aroundor bypass restrictions",
     options: [
-      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "the universe,宇宙,the cosmos is another name for the universe",
       " — to come aroundor bypass restrictions",
-      "- to put underwater",
-      "resulting from heart disease,心源性的,",
+      " — instrument formeasuring hardness",
     ]
   },
     {
     numb: 44,
-    question: "convention [kuh n—ven-shuh n]",
+    question: "convention [kuh n—ven-shuh n]:ven, come",
     answer: " — to come in agathering or assembly of people",
     options: [
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      "to remove bugs from software program",
-      "existing or occuring within the boundaries of a state",
+      " — the act ofresistance or action against",
+      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
+      "- a four—footedanimal",
       " — to come in agathering or assembly of people",
     ]
   },
     {
     numb: 45,
-    question: "intervene [in-ter-veen]",
+    question: "intervene [in-ter-veen]:ven, come",
     answer: "— to come between",
     options: [
-      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
-      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
-      "- to make fun of someone",
+      "the killing of one human being by another, 杀人",
+      "— to get ready in advance",
+      "— relating to the eyes",
       "— to come between",
     ]
   },
     {
     numb: 46,
-    question: "invent [in-vent]",
+    question: "invent [in-vent]:ven, come",
     answer: " — to come with a product ofone's own ingenuity",
     options: [
-      "— to disagree with whatanother person thinks",
-      "— to come between",
-      "conversation between two people",
+      "— concerned only with your owninterests",
+      "— a product ofdisintegration or wearing away",
+      "- lasting throughmany years",
       " — to come with a product ofone's own ingenuity",
     ]
   },
     {
     numb: 47,
-    question: "evacuate [ih-vak—yoo-eyt]",
+    question: "evacuate [ih-vak—yoo-eyt]:vac, empty",
     answer: "- to empty adangerous place",
     options: [
-      "study of the earth's surface,地理,",
-      "- to declare in public numerous [noo-mer-uh s",
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
+      "someone who beautifies, 美学家, give your esthetician resume a refined look",
       "- to empty adangerous place",
+      "— a composition for fivevoices or instruments",
+      "half a line of poetry半行,",
     ]
   },
     {
     numb: 48,
-    question: "vacant [vey—kuh nt]",
+    question: "vacant [vey—kuh nt]:vac, empty",
     answer: "- empty, not occupied",
     options: [
-      "the structure as visible when cut up for analysis,解刨学",
+      "easy to break",
+      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
+      "— a revival ofclassic form",
       "- empty, not occupied",
-      "- a statementforetelling the future",
-      "a machine noting strength and duration of earthquakes,地震仪",
     ]
   },
     {
     numb: 49,
-    question: "vacation [vey—-key—shuh n]",
+    question: "vacation [vey—-key—shuh n]:vac, empty",
     answer: "- a time withoutwork, empty of duty or release from duty",
     options: [
-      "the inn is accessible by train and bus, it is a fascinating and accessible book",
-      "a verse诗 measured in six六部格诗",
-      "- to put into words",
       "- a time withoutwork, empty of duty or release from duty",
+      "— a group of seven musicians",
+      "scieence of symbols and icons",
+      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
     ]
   },
     {
     numb: 50,
-    question: "suburb [suhb-urb]",
+    question: "suburb [suhb-urb]:urb, city",
     answer: "— residential area on the edgeof a city",
     options: [
-      "— not able to beconquered, insurmountable",
+      "— combining twoideas that sharply contradict each other",
+      "— a relatively mild disordertypified by excessive anxiety",
+      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
       "— residential area on the edgeof a city",
-      "- standing still, notmoving",
-      "— a man who rules agroup",
     ]
   },
     {
     numb: 51,
-    question: "urban [ur—buh n]",
+    question: "urban [ur—buh n]:urb, city",
     answer: "- relating to a city, living in acity",
     options: [
-      " — the study ofbones",
-      " —- a fruit, such as acoconut, having a hard woody pericarp",
-      "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
       "- relating to a city, living in acity",
+      "- to put off doingsomething",
+      "- to speak ordeclare something clearly",
+      "an instrument that measures hearing acuteness",
     ]
   },
     {
     numb: 52,
-    question: "urbanology [ur—buh-nol—uh-—jee]",
+    question: "urbanology [ur—buh-nol—uh-—jee]:urb, city",
     answer: "— the study ofcity life or social life and its problems",
     options: [
-      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
       "— the study ofcity life or social life and its problems",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
-      "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
+      "object made by a person's skill, 人工制品,15 examples of cultural artifact",
+      "one's insanity as related to the moon",
+      "— decided byonly one person or nation",
     ]
   },
     {
     numb: 53,
-    question: "unicycle [yoo—nuh-sahy-kuh |]",
+    question: "unicycle [yoo—nuh-sahy-kuh |]:uni, one, single",
     answer: "— a vehicle withone wheel",
     options: [
-      "— pain along a nerve",
+      "— half a circle",
       "— a vehicle withone wheel",
-      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
-      "a doctor for the skin",
+      "an organism that has undergone change突变体, common mutation include down syndrome...",
+      "— a person fluent in manylanguages",
     ]
   },
     {
     numb: 54,
-    question: "unilateral [yoo—nuh-lat—er—uh |]",
+    question: "unilateral [yoo—nuh-lat—er—uh |]:uni, one, single",
     answer: "— decided byonly one person or nation",
     options: [
+      " — maintenance ofpublic health and cleanliness",
       "— decided byonly one person or nation",
-      "the study of the heart and its functions in health and disease,心脏病学",
-      "- to stimulate or animate",
-      "on the side, on or to one side, he took her aside to speak to her privately",
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      "freedom",
     ]
   },
     {
     numb: 55,
-    question: "unique [yoo—neek]",
+    question: "unique [yoo—neek]:uni, one, single",
     answer: "— the only one of its kind",
     options: [
-      "—the process of removing poisons",
-      "— a composition orgroup of six",
-      " — obsessionwith and usually erotic interest on corpses",
+      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
+      "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
       "— the only one of its kind",
+      " — a supporter of therights of people",
     ]
   },
     {
     numb: 56,
-    question: "unison [yoo—nuh-suh n]",
+    question: "unison [yoo—nuh-suh n]:uni, one, single",
     answer: "— as one voice",
     options: [
+      "- to declare in public numerous [noo-mer-uh s",
+      " — a supporter of therights of people",
+      "peculiar to a particular language",
       "— as one voice",
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
-      " — a single, excretory unit inthe kidney",
-      "— to come between",
     ]
   },
     {
     numb: 57,
-    question: "unabridged [uhn-uh-brijd]",
+    question: "unabridged [uhn-uh-brijd]:un, not, opposite of, lacking",
     answer: " — not shortened",
     options: [
-      "— used to be theseventh month in the Roman calendar",
-      "a disconnection, the state of being disjoined",
-      "— used to be theseventh month in the Roman calendar",
+      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
       " — not shortened",
+      "- the truth, conformityto truth or fact; accuracy",
+      "art of public speaking，演说, I need more training in order to improve my elocution",
     ]
   },
     {
     numb: 58,
-    question: "unfair [uhn—fair]",
+    question: "unfair [uhn—fair]:un, not, opposite of, lacking",
     answer: "— opposite of fair",
     options: [
-      "— something new (for anitem or thing)",
-      "optical device with two lenses,双筒望远镜",
-      "kg, ont thousand grams",
+      " — somethingthat is the first made or also living portion of aCell",
+      "white, glowing, or luminous with intense heat，白织灯",
       "— opposite of fair",
+      "— muscular tubethat carries food to the stomachanthropophagy",
     ]
   },
     {
     numb: 59,
-    question: "unfriendly [unn—frend-lee]",
+    question: "unfriendly [unn—frend-lee]:un, not, opposite of, lacking",
     answer: " — lackingfriendliness, not friendly",
     options: [
-      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
-      "- outside",
+      "a message sent by telegraph",
+      "— opposite of fair",
+      "a mature white blood cell白细胞",
       " — lackingfriendliness, not friendly",
-      "to fail to work correctly故障",
     ]
   },
     {
     numb: 60,
-    question: "ultrahigh [uhl-truh—hahy]",
+    question: "ultrahigh [uhl-truh—hahy]:ultra, beyond, extreme, more than",
     answer: "- extremely high",
     options: [
-      "a part of element of a larger whole,分数,",
+      "inflammation of a joint,关节炎",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
+      "- to end",
       "- extremely high",
-      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
-      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
     ]
   },
     {
     numb: 61,
-    question: "ultramodern [uhl-truh—-mod-ern]",
+    question: "ultramodern [uhl-truh—-mod-ern]:ultra, beyond, extreme, more than",
     answer: "- veryadvanced in ideas, design, or techniques",
     options: [
       "- veryadvanced in ideas, design, or techniques",
-      " — cannibalism",
-      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
-      "a life story written by another person",
+      "— an element whichproduces a red solution",
+      "optical device with two lenses,双筒望远镜",
+      " — image made onlight-sensitive film",
     ]
   },
     {
     numb: 62,
-    question: "ultrasonic [uhl-truh—son-ik]",
+    question: "ultrasonic [uhl-truh—son-ik]:ultra, beyond, extreme, more than",
     answer: "— sound wavesbeyond human hearing",
     options: [
-      "pertaining to the middle age中shiji",
-      "— a person fluent in manylanguages",
+      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+      "the ability to move objects with you mind",
       "— sound wavesbeyond human hearing",
-      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
     ]
   },
     {
     numb: 63,
-    question: "triangle [trahy—ang-guh |]",
+    question: "triangle [trahy—ang-guh |]:tri, three, once in every three, third",
     answer: "- a figure with threesides and three angles",
     options: [
-      "- clearly visible, clear tothe sight or understanding",
-      "a short speech delivered after a play, 结语， how to write an epilogue?",
       "- a figure with threesides and three angles",
-      " — somethingthat is the first made or also living portion of aCell",
+      "the study of handwriting,笔迹学",
+      "- the act of bringing backto life",
+      "- to speak ordeclare something clearly",
     ]
   },
     {
     numb: 64,
-    question: "triathlon [trahy—ath—luh n]",
+    question: "triathlon [trahy—ath—luh n]:tri, three, once in every three, third",
     answer: "- an athletic contestwith three events",
     options: [
-      "a class of animals with very thick skin(elephant, rhinoceros)",
-      "this colledge is a mediocrity's catpital平庸之都",
       "- an athletic contestwith three events",
-      "an official order, the law mandates that every car have seat belts",
+      "only of medium or inferior quality平庸",
+      "- to go or climb down",
+      "one over one hundred of a meter",
     ]
   },
     {
     numb: 65,
-    question: "tricycle [trahy—si—kuh |]",
+    question: "tricycle [trahy—si—kuh |]:tri, three, once in every three, third",
     answer: " — a three—wheeledmotorcycle",
     options: [
-      "not changing",
-      "abnormal in crease of white blood cells in the blood白血病",
-      " — a list orcatalog of books put in arrangement",
       " — a three—wheeledmotorcycle",
+      " — the study ofbones",
+      "变明亮",
+      "to work out the details精心制作的,she drew an elaborate design",
     ]
   },
     {
     numb: 66,
-    question: "transcontinental [trans—kon-tn—en-tl]",
+    question: "transcontinental [trans—kon-tn—en-tl]:trans, across, beyond, through",
     answer: "- acrossthe continent",
     options: [
+      "- a person who fitseyeglassesautopsylaw-top—see",
       "- acrossthe continent",
-      " — the act ofresistance or action against",
-      " — cannibalism",
-      "a state of dark emotions忧郁的, she was in melancholy mood",
+      "not changing",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
     ]
   },
     {
     numb: 67,
-    question: "transfer [trans—fer]",
+    question: "transfer [trans—fer]:trans, across, beyond, through",
     answer: "— to move from one place toanother",
     options: [
-      "flowerlike",
       "— to move from one place toanother",
-      "- a list personswho have recently died",
-      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      " — usesmanipulation of the skeleton to restore health",
+      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
+      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
     ]
   },
     {
     numb: 68,
-    question: "transport [trans—pawrt]",
+    question: "transport [trans—pawrt]:trans, across, beyond, through",
     answer: "- to carry, move, orconvey from one place to another",
     options: [
-      "an organism that has undergone change突变体, common mutation include down syndrome...",
-      "— an act of exposingsomething as invalid or baseless",
+      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
+      "—existing at the same time",
       "- to carry, move, orconvey from one place to another",
-      "happending at the same time",
+      "the tumor of the liver",
     ]
   },
     {
     numb: 69,
-    question: "attract [uh—-trakt]",
+    question: "attract [uh—-trakt]:tract, pull, drag",
     answer: "- to pull objects nearer, allure,invite",
     options: [
-      "having equal or constant temperature, A fridge works isothermally",
-      "- an all-aroundview",
+      "— to reply to, usually in a sharpor retaliatory way",
+      "— be stationed",
       "- to pull objects nearer, allure,invite",
-      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      "one of the commonest minerals, calcium carbonate,方解石",
     ]
   },
     {
     numb: 70,
-    question: "distract [dih-strakt]",
+    question: "distract [dih-strakt]:tract, pull, drag",
     answer: "- to drag attention awayfrom something",
     options: [
-      "— used to be theseventh month in the Roman calendar",
-      "发光性",
       "- to drag attention awayfrom something",
-      " — a yellow papule ornodule in the skin, containing lipid deposits",
+      "— one whowalks",
+      "— a person whoplaces him/herself against an action",
+      "— mentally healthy",
     ]
   },
     {
     numb: 71,
-    question: "tractor [trak—ter]",
+    question: "tractor [trak—ter]:tract, pull, drag",
     answer: " — a motor vehicle that pullsthings",
     options: [
+      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
       " — a motor vehicle that pullsthings",
-      "a person who loves and collects books,图书搜藏者",
-      "- worshipingmore than one god or many gods",
-      "- the study ofpoisons",
+      "-person in his/her sixties",
+      "- involving the sun",
     ]
   },
     {
     numb: 72,
-    question: "detoxification [dee—tok—suh—fi-key—shuh n]",
+    question: "detoxification [dee—tok—suh—fi-key—shuh n]:tox, poison",
     answer: "—the process of removing poisons",
     options: [
-      "— a large city",
       "—the process of removing poisons",
-      "- at a standstill,fixed",
-      "- worshipingmore than one god or many gods",
+      "— not able to beconquered, insurmountable",
+      "— a group of seven musicians",
+      "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
     ]
   },
     {
     numb: 73,
-    question: "toxic [tok—sik]",
+    question: "toxic [tok—sik]:tox, poison",
     answer: "— poisonous",
     options: [
-      "replacing an offensive word with an inoffensive one委婉语, we have to let you go, tyler, this is a euphemism means fire you",
+      "not in its correct historical time, 不合时宜，",
+      "— an act of exposingsomething as invalid or baseless",
+      "- a liquid isolated out ofanother",
       "— poisonous",
-      "不道德的",
-      "muscle fatigue or weakness肌无力,",
     ]
   },
     {
     numb: 74,
-    question: "toxicology [tok—-si-kol—uh-jee]",
+    question: "toxicology [tok—-si-kol—uh-jee]:tox, poison",
     answer: "- the study ofpoisons",
     options: [
-      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
       "- the study ofpoisons",
-      "- to carry goods out of aplace to another",
-      "— an element whichproduces a red solution",
+      "swelling of the blood vessels船只，痔疮,",
+      "no longer working or alive",
+      "— reddish pigment inbile",
     ]
   },
     {
     numb: 75,
-    question: "intoxicated [in-tok—si-key-tid]",
+    question: "intoxicated [in-tok—si-key-tid]:tox, poison",
     answer: "— influenced bydrugs or alcohol",
     options: [
+      "— decided byonly one person or nation",
+      "a boat that carries passengers,渡船, The cars were ferried across the river.",
       "— influenced bydrugs or alcohol",
-      "a verse诗 measured in six六部格诗",
-      " — to come with a product ofone's own ingenuity",
-      "- relating to cleanlinessand health",
+      "— the love of wisdom",
     ]
   },
     {
     numb: 76,
-    question: "contortion [kuh n-tawr—shuh n]",
+    question: "contortion [kuh n-tawr—shuh n]:tort, twist",
     answer: "— a twistedshape or position",
     options: [
-      "— a break in somethingSAN TO ZYGO",
+      "- a newborn child,especially the first few weeks",
+      "- outside",
+      "— to name anumber of items on a list",
       "— a twistedshape or position",
-      "- to place or dropsomething",
-      "— respect foryourself",
     ]
   },
     {
     numb: 77,
-    question: "distort [dih-stawrt]",
+    question: "distort [dih-stawrt]:tort, twist",
     answer: "- to give a false, perverted,or disproportionate meaning to",
     options: [
+      "science that deals with the aging and problems of old people，老年学",
+      "- to build",
+      "— one wholoves humanity",
       "- to give a false, perverted,or disproportionate meaning to",
-      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
-      "— a wise saying or precept; adidactic sentence",
-      "— a doctorconcerned with the proper alignment of thebones",
     ]
   },
     {
     numb: 78,
-    question: "retort [ri-tawrt]",
+    question: "retort [ri-tawrt]:tort, twist",
     answer: "— to reply to, usually in a sharpor retaliatory way",
     options: [
-      "- the systematic arrangementof words",
-      "— combining twoideas that sharply contradict each other",
-      "— to drive someone out of aplace",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
       "— to reply to, usually in a sharpor retaliatory way",
+      "a person who resists any authority,造反，反叛，叛逆",
+      "- shape having fiveangles and five sides",
     ]
   },
     {
     numb: 79,
-    question: "thermal [thur—muh I]",
+    question: "thermal [thur—muh I]:therm, heat",
     answer: "- relating to heat",
     options: [
+      "— above average,better in quality",
       "- relating to heat",
-      "— reddish pigment inbile",
-      "- to say it didn't happen",
-      "heavy particle such as proton, neutron, or any elementary particle重子",
+      " — the ability todiscipline yourself",
+      "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
     ]
   },
     {
     numb: 80,
-    question: "thermos [thur—muh s]",
+    question: "thermos [thur—muh s]:therm, heat",
     answer: "- an insulated jar thatkeeps heat in",
     options: [
-      "- to force someone to act",
+      "of or involving two sides, two-sided",
+      "art of public speaking，演说, I need more training in order to improve my elocution",
       "- an insulated jar thatkeeps heat in",
-      "a small dash used in place of an omitted letter,撇号",
-      "- at a standstill,fixed",
+      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
     ]
   },
     {
     numb: 81,
-    question: "thermostat [thur-muh-stat]",
+    question: "thermostat [thur-muh-stat]:therm, heat",
     answer: "- a device thatcontrols heat",
     options: [
-      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
-      "clotting凝血 of the blood,出血,",
-      "a waiting room",
       "- a device thatcontrols heat",
+      "a part of element of a larger whole,分数,",
+      "- doing better than",
+      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
     ]
   },
     {
     numb: 82,
-    question: "monotheism [mon—uh-thee-—iz—uh m]",
+    question: "monotheism [mon—uh-thee-—iz—uh m]:the, god",
     answer: "- belief inone god",
     options: [
-      "- to go or climb down",
-      " — the act ofresistance or action against",
       "- belief inone god",
-      "a scientific observer of the celestial(天上的) bodies,天文学家",
+      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
+      " — inflammation of thekidneys",
     ]
   },
     {
     numb: 83,
-    question: "polytheism [pol—ee-thee-iz—uh m]",
+    question: "polytheism [pol—ee-thee-iz—uh m]:the, god",
     answer: "- worshipingmore than one god or many gods",
     options: [
-      "the science of people and races,民族学",
+      "— to get ready in advance",
       "- worshipingmore than one god or many gods",
-      "— combining twoideas that sharply contradict each other",
-      " — rule oftechnology where the system of government isbased",
+      "put into power, to enable or permit",
+      " —working at home remotely via virtual devices",
     ]
   },
     {
     numb: 84,
-    question: "theology [thee—ol—uh-jee]",
+    question: "theology [thee—ol—uh-jee]:the, god",
     answer: "- the study ofreligion, god, etc.",
     options: [
       "- the study ofreligion, god, etc.",
-      "- relating to time,enduring for a time only",
-      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
-      "- to write letters or wordson a surface",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
+      " — inflammation of thekidneys",
+      "-person in his/her sixties",
     ]
   },
     {
     numb: 85,
-    question: "bibliotheca [bib—lee—uh-thee-kuh]",
+    question: "bibliotheca [bib—lee—uh-thee-kuh]:the, put",
     answer: " — a list orcatalog of books put in arrangement",
     options: [
-      "缩减",
+      " — desiring or eatingfood in great quantities",
+      "- every halfof a year",
+      "— a wise saying or precept; adidactic sentence",
       " — a list orcatalog of books put in arrangement",
-      "flowerlike",
-      " — surgicalincision of a kidney",
     ]
   },
     {
     numb: 86,
-    question: "theme [theem]",
+    question: "theme [theem]:the, put",
     answer: "- a proposition for discussion orput an unifying view",
     options: [
-      "one who studies languages, he was already a good linguist, understanding 4 languages",
-      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
-      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "- every halfof a year",
+      "— moreconfident than is appropriate",
+      "- to be against something",
       "- a proposition for discussion orput an unifying view",
     ]
   },
     {
     numb: 87,
-    question: "thesis [thee-sis]",
+    question: "thesis [thee-sis]:the, put",
     answer: "- an output of original researchwith a specific view",
     options: [
+      " — a substancethat helps prevent body odor",
+      "— to come between",
       "— a groupof stars that forms a pattern",
-      "- a variation of an original,to turn it as another translation",
       "- an output of original researchwith a specific view",
-      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
     ]
   },
     {
     numb: 88,
-    question: "tetrapod [te-truh—pod]",
+    question: "tetrapod [te-truh—pod]:tetra, four",
     answer: "- having four legs orlimbs",
     options: [
-      "to remove from power, remove from any position",
       "- having four legs orlimbs",
-      "- a word relating to a verb",
-      "— the love of wisdom",
+      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "disease spreading among people in a region,瘟疫,what is the difference between epidemic and pandemic",
     ]
   },
     {
     numb: 89,
-    question: "tetrarchy [te—trahrky]",
+    question: "tetrarchy [te—trahrky]:tetra, four",
     answer: "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
     options: [
-      "— a doctorconcerned with the proper alignment of thebones",
-      "not in its correct historical time, 不合时宜，",
       "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
-      "- to drag attention awayfrom something",
+      "optical device with two lenses,双筒望远镜",
+      "to cause air to circulate,通气，to aerate sth is to put air into it",
+      "— a vehicle withone wheel",
     ]
   },
     {
     numb: 90,
-    question: "extraterrestrial [ek—struh—tuh—-res—tree—-uh I]",
+    question: "extraterrestrial [ek—struh—tuh—-res—tree—-uh I]:terr, land, earth",
     answer: " —existing outside the earth",
     options: [
-      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
-      "to dip something completely into  water,淹没，the town was submerged by the flood.",
+      "a place equipped to conduct work or experiments, 实验室,",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
+      "a semicircular structure半圆",
       " —existing outside the earth",
-      "- the combined total of everything",
     ]
   },
     {
     numb: 91,
-    question: "terrain [tuh-reyn]",
+    question: "terrain [tuh-reyn]:terr, land, earth",
     answer: " — ground or land",
     options: [
-      " — a lookingback at past things",
-      "to give an advance warning of something bad, be an omen 预示,",
-      "- a person who is new at a job",
       " — ground or land",
+      "- to eat quickly and withgreat fervor",
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      "- the highest point or top",
     ]
   },
     {
     numb: 92,
-    question: "territory [ter—i-tawr—ee]",
+    question: "territory [ter—i-tawr—ee]:terr, land, earth",
     answer: "- any tract of land;region or district",
     options: [
-      " — a deviceused to see tiny things",
+      "a dead body, the actor had to play a corpse laying in a morgue",
       "- any tract of land;region or district",
-      "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
-      "- to go or climb down",
+      " —existing outside the earth",
+      "— doctorspecializing in the nerves",
     ]
   },
     {
     numb: 93,
-    question: "determine [dih—tur—min]",
+    question: "determine [dih—tur—min]:term, end, limit",
     answer: "- to find something outat the end of an investigation",
     options: [
-      " — having aterribly bad smell",
-      "— a person who seesan event",
+      "on fire, aflame, the whole mill was afire ",
+      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
       "- to find something outat the end of an investigation",
-      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
+      " — the smallest possible unit oflight",
     ]
   },
     {
     numb: 94,
-    question: "terminate [tur-muh-neyt]",
+    question: "terminate [tur-muh-neyt]:term, end, limit",
     answer: "- to end",
     options: [
-      "self-centered, 自我中心的, babies are entirely egocentric",
+      " — a musicalinstrument with graduated series of woodenbars",
+      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
       "- to end",
-      "- a word relating to a verb",
-      "匿名的",
     ]
   },
     {
     numb: 95,
-    question: "exterminate [ik—stur-muh-neyt]",
+    question: "exterminate [ik—stur-muh-neyt]:term, end, limit",
     answer: " — to destroy orget rid of completely",
     options: [
-      "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
-      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      "a yellowish gem,橄榄石",
+      "-— ability to understandanother's feelings",
+      "- a purple pigment inthe retina that is needed for vision",
       " — to destroy orget rid of completely",
-      "- the transmissionof programming, in the form of still or video",
     ]
   },
     {
     numb: 96,
-    question: "attrition [uh—trish—uh n]",
+    question: "attrition [uh—trish—uh n]:trit, rub",
     answer: "— the act of rubbingtogether or wearing down",
     options: [
       "— the act of rubbingtogether or wearing down",
-      "no longer working or alive",
-      "— abnormallyexcessive bowel movement",
-      "— influenced bydrugs or alcohol",
+      "- to find something outat the end of an investigation",
+      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      " — the smallest possible unit oflight",
     ]
   },
     {
     numb: 97,
-    question: "detritus [dih—trahy—tuh s]",
+    question: "detritus [dih—trahy—tuh s]:trit, rub",
     answer: "— a product ofdisintegration or wearing away",
     options: [
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "excessive or extreme emotional tensseness，ususally means high blood pressure.",
       "— a product ofdisintegration or wearing away",
-      " - afraid offoreigners",
-      " — to speak in favor of,support or urge by argument",
-      "- hard to understand, notclear or plain; ambiguous",
+      "—the process of removing poisons",
     ]
   },
     {
     numb: 98,
-    question: "trite [trahyt]",
+    question: "trite [trahyt]:trit, rub",
     answer: "- used so often as to have lostinterest, freshness, or force",
     options: [
-      "measurement, pertaining to the meter",
+      " — hardening of the arterial walls",
+      "without color, achromatic colors are all shades of black, white and grey",
       "- used so often as to have lostinterest, freshness, or force",
-      "— sound wavesbeyond human hearing",
-      "— the only one of its kind",
+      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
     ]
   },
     {
     numb: 99,
-    question: "continence[kon-tn-uh ns]",
+    question: "continence[kon-tn-uh ns]:ten, hold",
     answer: "- self—restraint orabstinence, in regard to sexual activity",
     options: [
-      "— a person whoplaces him/herself against an action",
-      "变明亮",
+      "not in its correct historical time, 不合时宜，",
       "- self—restraint orabstinence, in regard to sexual activity",
-      "an instrument that measures time",
+      "a treasurer, especially of a college or university,大学财务主管",
+      "affecting one side or involving one side only单方面, examples of unilateral contract example",
     ]
   },
     {
     numb: 100,
-    question: "detention[din—ten—shuh n]",
+    question: "detention[din—ten—shuh n]:ten, hold",
     answer: "- the act or fact ofdetaining, putting somebody on hold",
     options: [
-      " — theperson next in rank to the president",
+      "- worshipingmore than one god or many gods",
+      "one's insanity as related to the moon",
+      "— reddish pigment inbile",
       "- the act or fact ofdetaining, putting somebody on hold",
-      "- period offour years",
-      "- to cause tooccur at the same time",
     ]
   },
     {
     numb: 101,
-    question: "tenacious[tuh—ney—shuh s]",
+    question: "tenacious[tuh—ney—shuh s]:ten, hold",
     answer: "— having parts orelements strongly holding to each other",
     options: [
+      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
       "— having parts orelements strongly holding to each other",
-      " — of affecting asingle eye",
-      "缩减",
-      "to stop or interrupt, x intercept轴, y intercept formula,",
+      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
+      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
     ]
   },
     {
     numb: 102,
-    question: "contemporary [kuh n—tem—puh-rer-ee]",
+    question: "contemporary [kuh n—tem—puh-rer-ee]:temp , tempor, time",
     answer: "—existing at the same time",
     options: [
-      "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
-      "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
-      " —a false pregnancy",
+      "a pipeline for water,沟渠",
+      "— requiring small amounts ofmoisture",
       "—existing at the same time",
+      "the act of moving",
     ]
   },
     {
     numb: 103,
-    question: "temporal [tem-—per-uh I]",
+    question: "temporal [tem-—per-uh I]:temp , tempor, time",
     answer: "- relating to time,enduring for a time only",
     options: [
-      "— having parts orelements strongly holding to each other",
+      "- an electron tube with ananode, a cathode, and a control grid",
       "- relating to time,enduring for a time only",
-      "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
-      " —existing outside the earth",
+      "— an electronicthinking device",
+      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
     ]
   },
     {
     numb: 104,
-    question: "temporary [tem—puh-rer-—ee]",
+    question: "temporary [tem—puh-rer-—ee]:temp , tempor, time",
     answer: "- lasting for alimited time",
     options: [
-      "the science of female reproductive health妇科",
-      "the science of people and races,民族学",
       "- lasting for alimited time",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      "abnormal in crease of white blood cells in the blood白血病",
+      "- to empty adangerous place",
+      "happending at the same time",
     ]
   },
     {
     numb: 105,
-    question: "telephone [tel-uh—fohn]",
+    question: "telephone [tel-uh—fohn]:tel , tele, far, distant, complete",
     answer: "- a device to talk to adistant person",
     options: [
-      "— wise aboutthe ways of the world",
-      "— muscular tubethat carries food to the stomachanthropophagy",
-      "a list of books used as sources, a list of materials,参考书目",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
+      "- an insulated jar thatkeeps heat in",
+      "- a feeling of greatdislike",
       "- a device to talk to adistant person",
     ]
   },
     {
     numb: 106,
-    question: "telescope [tel-uh—skohp]",
+    question: "telescope [tel-uh—skohp]:tel , tele, far, distant, complete",
     answer: " — a device used tosee over a distance",
     options: [
+      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+      "— with no specialcharacteristics",
+      "a chemical used to kill insects",
       " — a device used tosee over a distance",
-      "abnormally low body temperature",
-      "one thousandth of a meter毫米,",
-      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
     ]
   },
     {
     numb: 107,
-    question: "television [tel-uh—vizh-uh n]",
+    question: "television [tel-uh—vizh-uh n]:tel , tele, far, distant, complete",
     answer: "- the transmissionof programming, in the form of still or video",
     options: [
-      " - the best somethingcould be",
-      "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      "— a person who writes outdocuments",
+      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
       "- the transmissionof programming, in the form of still or video",
+      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
     ]
   },
     {
     numb: 108,
-    question: "telecommuting [tel-i-kuh—myoo-ting]",
+    question: "telecommuting [tel-i-kuh—myoo-ting]:tel , tele, far, distant, complete",
     answer: " —working at home remotely via virtual devices",
     options: [
-      "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
+      "a person seeking protection, a person who flees for refuge or safety.",
       " —working at home remotely via virtual devices",
-      "-person in his/her sixties",
-      "not changing",
+      " -outgrowth; consequence; implication to branchout",
+      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
     ]
   },
     {
     numb: 109,
-    question: "technology [tek—nol—uh-jee]",
+    question: "technology [tek—nol—uh-jee]:techno, technique, skill",
     answer: " — the practicalapplication of knowledge",
     options: [
-      "- a five—pointed starformerly used as a symbolic figure in magic",
-      "a king or queen, a person that holds a dominant position,君主",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
       " — the practicalapplication of knowledge",
+      "someone who destroys religious images and trditional beliefs",
+      "taking hold of, to attract and hold the attention,迷人的, her voice was absolutely captivating",
+      " — indirect control by a foreign power",
     ]
   },
     {
     numb: 110,
-    question: "technocracy[tek—nok-ruh-see]",
+    question: "technocracy[tek—nok-ruh-see]:techno, technique, skill",
     answer: " — rule oftechnology where the system of government isbased",
     options: [
-      "study of the working environment, human enginering,人体工程学， nomics经济学",
-      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
-      "— producing loud, full,rich sounds",
+      "- the total,highest amount",
+      "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
+      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
       " — rule oftechnology where the system of government isbased",
     ]
   },
     {
     numb: 111,
-    question: "technological [tek—nuh-loj—i-kuh |]",
+    question: "technological [tek—nuh-loj—i-kuh |]:techno, technique, skill",
     answer: " — relating totechnology; relating to science and industry",
     options: [
-      "a semicircular structure半圆",
       " — relating totechnology; relating to science and industry",
-      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
-      " - a rock that forms sheets,similar to slate",
+      "common protein in muscle tissue,肌球蛋白",
+      " — aftersomeone's death",
+      "— to force back",
     ]
   },
     {
     numb: 112,
-    question: "syntax [sin—taks]",
+    question: "syntax [sin—taks]:tax, arrangement",
     answer: "- the systematic arrangementof words",
     options: [
-      "- an athletic contestwith three events",
-      " — the study ofthe mind",
-      "a king or queen, a person that holds a dominant position,君主",
+      "an insane person疯子,a person suffering from mania",
+      "speak out loud for another person to write down听写,主宰, the way they dress is dictated by very rigid fashion rules",
+      "— respect foryourself",
       "- the systematic arrangementof words",
     ]
   },
     {
     numb: 113,
-    question: "taxonomy [tak—son—uh—mee]",
+    question: "taxonomy [tak—son—uh—mee]:tax, arrangement",
     answer: "- the science ofClassification",
     options: [
-      "— to name anumber of items on a list",
-      "— a flowerwith red/pink flowers",
-      "- to cut into two equal parts",
+      "on fire, aflame, the whole mill was afire ",
       "- the science ofClassification",
+      "- to make somethinglike new again",
+      "— an athletic contestthat includes five events",
     ]
   },
     {
     numb: 114,
-    question: "ataxia [un—tak—see—uh]",
+    question: "ataxia [un—tak—see—uh]:tax, arrangement",
     answer: "- loss of the ability tocoordinate muscle action",
     options: [
-      "a shy person who keeps within himself or herself, signs of an introvert personality",
-      "a measure of storage capacity equal to bytes,GB，",
-      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
       "- loss of the ability tocoordinate muscle action",
+      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
+      "resulting from heart disease,心源性的,",
     ]
   },
     {
     numb: 115,
-    question: "contact [kon-takt]",
+    question: "contact [kon-takt]:tact, touch",
     answer: "- a state in which two thingstouch",
     options: [
-      "one over one hundred of a meter",
-      " — appealing to a lot ofpeople",
-      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
+      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
+      "- a clever but misleadingargument",
       "- a state in which two thingstouch",
+      "to remove bugs from software program",
     ]
   },
     {
     numb: 116,
-    question: "tactile [tak —tahyl]",
+    question: "tactile [tak —tahyl]:tact, touch",
     answer: "- affecting the sense oftouch",
     options: [
-      " — fivefold",
-      "— people who work for thegovt. to maintain order in a city",
+      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
+      "— wise aboutthe ways of the world",
+      "缩减",
       "- affecting the sense oftouch",
-      "— to force back",
     ]
   },
     {
     numb: 117,
-    question: "tangible [tan—juh—buh I]",
+    question: "tangible [tan—juh—buh I]:tact, touch",
     answer: "- able to be touched",
     options: [
+      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "- a performance done by oneperson alone",
       "- able to be touched",
-      "- to build",
-      "- to cut into two equal parts",
-      "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
+      " — to come with a product ofone's own ingenuity",
     ]
   },
     {
     numb: 118,
-    question: "intact [in—takt]",
+    question: "intact [in—takt]:tact, touch",
     answer: "— with nothing missing",
     options: [
-      " — having aquarrelsome or aggressive nature",
       "art of public speaking，演说, I need more training in order to improve my elocution",
-      "— a vehicle withone wheel",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
       "— with nothing missing",
+      "— a person who foretells thefuture",
     ]
   },
     {
     numb: 119,
-    question: "symmetry [sim-i-tree]",
+    question: "symmetry [sim-i-tree]:sy, together, with, same",
     answer: "- similarity in size, formor arrangement",
     options: [
-      "relating to the heart",
       "- similarity in size, formor arrangement",
-      "- to certify a signatureon a legal document",
-      "— corrode a surface",
+      "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
+      " — to come in agathering or assembly of people",
+      "drawing that explains something such as the parts etc，",
     ]
   },
     {
     numb: 120,
-    question: "synergy [sin—er—jee]",
+    question: "synergy [sin—er—jee]:sy, together, with, same",
     answer: "— the combined effect",
     options: [
-      "- to go or climb down",
-      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
+      "having six legs, an insect，昆虫,hexapod is six-legged insects",
+      "- a variation of an original,to turn it as another translation",
+      "a word formed from the first letters of a word, 首字母缩略词",
       "— the combined effect",
-      "a sharp tooth for cutting food, 门牙",
     ]
   },
     {
     numb: 121,
-    question: "synchronize [sing—kruh—nahyz]",
+    question: "synchronize [sing—kruh—nahyz]:sy, together, with, same",
     answer: "- to cause tooccur at the same time",
     options: [
-      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
       "- to cause tooccur at the same time",
-      " flowers with golden/yellow color streaks or center,菊花",
-      "- relating to a city, living in acity",
+      "- to pull objects nearer, allure,invite",
+      "- pull out at the roots",
+      " — piercing smell",
     ]
   },
     {
     numb: 122,
-    question: "Super Bowl [soo-per bohl]",
+    question: "Super Bowl [soo-per bohl]:super, higher in quality or quantity",
     answer: "- the final annualfootball game",
     options: [
-      "in the shape of a tree, treelike form，树枝状,",
-      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
+      "intention to feel like another person",
+      "a woman head of a household女族长,",
       "- the final annualfootball game",
-      "— as one voice",
+      " —working at home remotely via virtual devices",
     ]
   },
     {
     numb: 123,
-    question: "superior [suh—peer—ee-er]",
+    question: "superior [suh—peer—ee-er]:super, higher in quality or quantity",
     answer: "— above average,better in quality",
     options: [
-      "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
-      "someone who beautifies, 美学家, give your esthetician resume a refined look",
+      "- able to be touched",
+      "- a liquid isolated out ofanother",
+      "the structure as visible when cut up for analysis,解刨学",
       "— above average,better in quality",
-      " — obsessionwith and usually erotic interest on corpses",
     ]
   },
     {
     numb: 124,
-    question: "supersonic [soo—per-son-ik]",
+    question: "supersonic [soo—per-son-ik]:super, higher in quality or quantity",
     answer: "— faster thansound",
     options: [
-      "belief as to the truth of something,信任,you people have lost your credence with me",
+      "— corrode a surface",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
+      "flesh-eating,食肉的, Lions and tigers are carnivores",
       "— faster thansound",
-      "an abnormal fear of women女性恐惧症",
-      "— the combined effect",
     ]
   },
     {
     numb: 125,
-    question: "sum [suhm]",
+    question: "sum [suhm]:sum, highest",
     answer: "- the combined total of everything",
     options: [
+      "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
+      "science of secret codes, 密码学",
+      " — an eye doctor",
       "- the combined total of everything",
-      "- group involving fourvoices or instruments",
-      "to fill with light,照亮,解释,",
-      "变明亮",
     ]
   },
     {
     numb: 126,
-    question: "summation [suh—mey-shuh n]",
+    question: "summation [suh—mey-shuh n]:sum, highest",
     answer: "- the total,highest amount",
     options: [
       "- the total,highest amount",
-      "— relating tosomething in the past",
-      "— having parts orelements strongly holding to each other",
-      " — inflammation of thekidneys",
+      "— to add remarks",
+      " — a mixture that forms asmooth solid covering for walls",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
     ]
   },
     {
     numb: 127,
-    question: "summit [suhm-it]",
+    question: "summit [suhm-it]:sum, highest",
     answer: "- the highest point or top",
     options: [
-      " — a deviceused to see tiny things",
-      "pertaining to pressure, esp. of the atmosphere气压",
-      "any instrument that measures atomospheric pressure气压表",
+      "associated with abnormally high levels of suger in the blood糖尿病",
       "- the highest point or top",
+      " — relating totechnology; relating to science and industry",
+      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
     ]
   },
     {
     numb: 128,
-    question: "submarine [suhb—muh-reen]",
+    question: "submarine [suhb—muh-reen]:sub, under, lower than, inferior to",
     answer: "— an underwaterboat",
     options: [
-      "— something new (for anitem or thing)",
-      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "— a flowerwith red/pink flowers",
+      "- to stimulate or animate",
+      "— meat—eating",
       "— an underwaterboat",
     ]
   },
     {
     numb: 129,
-    question: "submerge [suh b—murj]",
+    question: "submerge [suh b—murj]:sub, under, lower than, inferior to",
     answer: "- to put underwater",
     options: [
-      "a word formed from the first letters of a word, 首字母缩略词",
+      "- the combined total of everything",
+      "- a small platform tostand on",
       "- to put underwater",
-      "— a wise saying or precept; adidactic sentence",
-      "to shout and make noise, a loud uproar,叫嚣, a clamor outside woke them in the night",
+      "ten years",
     ]
   },
     {
     numb: 130,
-    question: "substandard [suhb-stan-derd]",
+    question: "substandard [suhb-stan-derd]:sub, under, lower than, inferior to",
     answer: "- inferior toaccepted standards, less than adequate",
     options: [
-      "- to put underwater",
-      "— a doctorconcerned with the proper alignment of thebones",
-      " — piercing smell",
       "- inferior toaccepted standards, less than adequate",
+      "— a revival ofclassic form",
+      "arranged in the order of time, 按时间顺序",
+      "发光体",
     ]
   },
     {
     numb: 131,
-    question: "construct [kon-struhkt]",
+    question: "construct [kon-struhkt]:struct, build",
     answer: "- to build",
     options: [
-      "- to cut apart piece by piece",
-      "- a cure for alldiseases or problems",
-      "malignant dark tumor of the skin",
       "- to build",
+      "- the transmissionof programming, in the form of still or video",
+      " — to come in agathering or assembly of people",
+      "the primitive layer of cells from the segmentation of the ovum,胚层",
     ]
   },
     {
     numb: 132,
-    question: "destruction [dih—struhk—shuh n]",
+    question: "destruction [dih—struhk—shuh n]:struct, build",
     answer: "- the act ofdestroying something that was built",
     options: [
-      "one's insanity as related to the moon",
-      "— a portion of a writtendocument that presents a distinct idea",
-      "— aiding to normalize digestion",
+      "a person who resists any authority,造反，反叛，叛逆",
+      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
+      "- the truth, conformityto truth or fact; accuracy",
       "- the act ofdestroying something that was built",
     ]
   },
     {
     numb: 133,
-    question: "structure [struhk—cher]",
+    question: "structure [struhk—cher]:struct, build",
     answer: "— something built orconstructed, as a building, bridge, or dam",
     options: [
-      "a Russian astronaut",
-      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
+      " - the best somethingcould be",
       "— something built orconstructed, as a building, bridge, or dam",
-      "a person seeking protection, a person who flees for refuge or safety.",
+      "someone working with trees,树艺师",
+      "lasting through many years,多年生, perennial plants",
     ]
   },
     {
     numb: 134,
-    question: "infrastructure [in—fruh—strunk—cher]",
+    question: "infrastructure [in—fruh—strunk—cher]:struct, build",
     answer: "- underlyingframework of a system",
     options: [
-      " — a device used tosee over a distance",
-      "a chemical used to kill insects",
+      "situated or directed toward the head,头部的",
+      "any instrument that measures atomospheric pressure气压表",
       "- underlyingframework of a system",
-      "scieence of symbols and icons",
+      "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
     ]
   },
     {
     numb: 135,
-    question: "constellation [kon—stuh—ley—shuh n]",
+    question: "constellation [kon—stuh—ley—shuh n]:stell, star",
     answer: "— a groupof stars that forms a pattern",
     options: [
-      "— to come between",
-      " — rule oftechnology where the system of government isbased",
-      "the surface of the moon",
+      "the custom to marry within one's clan氏族, tirbe,同族通婚",
+      "- to represent withwords or pictures",
       "— a groupof stars that forms a pattern",
+      "related to remembering a person or event纪念馆,memorial park in san ramon",
     ]
   },
     {
     numb: 136,
-    question: "interstellar [in—ter—stel—er]",
+    question: "interstellar [in—ter—stel—er]:stell, star",
     answer: "— between the stars",
     options: [
-      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
       "— between the stars",
-      "- a person who is new at a job",
-      "to undergo a change变异,how to use mutate function in R",
+      "— knowing all things",
+      "a life story written by another person",
+      "a Russian astronaut",
     ]
   },
     {
     numb: 137,
-    question: "stellar [stel-er]",
+    question: "stellar [stel-er]:stell, star",
     answer: "— relating to stars",
     options: [
-      "- to delay something",
-      "related to remembering a person or event纪念馆,memorial park in san ramon",
-      "- pertaining to life, being the seator source of life",
+      "a person's own signature, 签名",
+      "- outside",
+      " — hardening of the arterial walls",
       "— relating to stars",
     ]
   },
     {
     numb: 138,
-    question: "stable [stey—buh |]",
+    question: "stable [stey—buh |]:sta, stand",
     answer: "— standing steady and firm",
     options: [
-      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      " — to produce with yourvoice, utter, articulate, sing",
       "— standing steady and firm",
-      "- a time withoutwork, empty of duty or release from duty",
-      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
+      "- loss of the ability tocoordinate muscle action",
+      "the killing of one human being by another, 杀人",
     ]
   },
     {
     numb: 139,
-    question: "stagnant [stag—nuh nt]",
+    question: "stagnant [stag—nuh nt]:sta, stand",
     answer: "- standing still, notmoving",
     options: [
-      "— a doctor for thefeet",
-      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
-      "- to make sure thatsomething is true",
       "- standing still, notmoving",
+      "to undergo a change变异,how to use mutate function in R",
+      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
+      "—- fatherhood",
     ]
   },
     {
     numb: 140,
-    question: "stationary [stey—shuh—ner-ee]",
+    question: "stationary [stey—shuh—ner-ee]:sta, stand",
     answer: "- at a standstill,fixed",
     options: [
+      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
+      " — a substancethat helps prevent body odor",
       "- at a standstill,fixed",
-      " — to continue through for along time",
-      "process of acquiring knowledge, preception, 认知, 31 examples of cognition",
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
     ]
   },
     {
     numb: 141,
-    question: "inspire [in-spahyuh r]",
+    question: "inspire [in-spahyuh r]:spir, breathe",
     answer: "- to stimulate or animate",
     options: [
-      "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
-      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
+      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
+      "- to move on, over, orthrough water, air, or land in a ship",
+      "- lastingthroughout all time",
       "- to stimulate or animate",
-      "intention to feel like another person",
     ]
   },
     {
     numb: 142,
-    question: "transpire [tran—spahyuh r]",
+    question: "transpire [tran—spahyuh r]:spir, breathe",
     answer: "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
     options: [
       "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
-      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
-      " —to spring back again",
-      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
+      "the middle muscle of the heart心机, ",
+      " — all of thepeople who live in a particular area",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     ]
   },
     {
     numb: 143,
-    question: "biosphere [bahy—uh-sfeer]",
+    question: "biosphere [bahy—uh-sfeer]:sphere, ball",
     answer: "— the whole roundsurface of the earth",
     options: [
+      "inflammation炎 of the skin",
+      "to dip something completely into  water,淹没，the town was submerged by the flood.",
+      "outside the earth, extraterrestrial life",
       "— the whole roundsurface of the earth",
-      "abnormally low body temperature",
-      "-person in his/her sixties",
-      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
     ]
   },
     {
     numb: 144,
-    question: "hemisphere [hem-—i-sfeer]",
+    question: "hemisphere [hem-—i-sfeer]:sphere, ball",
     answer: "- half the earthspherically shaped like a ball",
     options: [
-      "a blue-white metallic chemical element,铬",
+      " — to come with a product ofone's own ingenuity",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
+      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
       "- half the earthspherically shaped like a ball",
-      "— an athletic contestthat includes five events",
-      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
     ]
   },
     {
     numb: 145,
-    question: "circumspect [sur—kuh m—spekt]",
+    question: "circumspect [sur—kuh m—spekt]:spec, see, look",
     answer: " — cautious,looking all around",
     options: [
+      " — to someone out",
+      "- to sailaround a place",
       " — cautious,looking all around",
-      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
-      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
-      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
+      "- a performance done by oneperson alone",
     ]
   },
     {
     numb: 146,
-    question: "retrospective [re-truh—spek-tiv]",
+    question: "retrospective [re-truh—spek-tiv]:spec, see, look",
     answer: " — a lookingback at past things",
     options: [
-      "— sound wavesbeyond human hearing",
+      "an official order, the law mandates that every car have seat belts",
+      "motion picture making",
+      "— an athletic contestthat includes five events",
       " — a lookingback at past things",
-      "— corrode a surface",
-      "- underlyingframework of a system",
     ]
   },
     {
     numb: 147,
-    question: "spectator [spek—tey—ter]",
+    question: "spectator [spek—tey—ter]:spec, see, look",
     answer: "— a person who seesan event",
     options: [
-      "a large enclosure for birds, 大鸟笼，鸟舍",
       "— a person who seesan event",
-      "heavy particle such as proton, neutron, or any elementary particle重子",
-      "relating to water, take place or practiced on or in water",
+      " — the smallest possible unit oflight",
+      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
+      "-— ability to understandanother's feelings",
     ]
   },
     {
     numb: 148,
-    question: "philosopher [fi-los—uh—fer]",
+    question: "philosopher [fi-los—uh—fer]:soph, wise",
     answer: " — a wise person",
     options: [
-      "a water container for fish",
+      "put into power, to enable or permit",
+      "— muscular tubethat carries food to the stomachanthropophagy",
       " — a wise person",
-      "unit of electric power（one billion watts）千兆瓦,",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      "an undersea boat",
     ]
   },
     {
     numb: 149,
-    question: "sophisticated [suh—fis—ti-key—tid]",
+    question: "sophisticated [suh—fis—ti-key—tid]:soph, wise",
     answer: "— wise aboutthe ways of the world",
     options: [
-      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "measurement, pertaining to the meter",
       "— wise aboutthe ways of the world",
-      " — a person in his/her seventies",
-      "- group involving fourvoices or instruments",
+      "- to stimulate or animate",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
     ]
   },
     {
     numb: 150,
-    question: "sophism [sof-iz—uh m]",
+    question: "sophism [sof-iz—uh m]:soph, wise",
     answer: "- a clever but misleadingargument",
     options: [
-      "the surface of the moon",
-      "— meaning no orexpressing refusal",
-      "— relating to the eyes",
+      "to burn with a hot instrument,烙，灼烧",
       "- a clever but misleadingargument",
+      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
     ]
   },
     {
     numb: 151,
-    question: "consonant [kon-suh-nuh nt]",
+    question: "consonant [kon-suh-nuh nt]:son, sound",
     answer: "- a speech sound",
     options: [
-      "— a doctor for thefeet",
+      "a shape with six angles or sides",
       "- a speech sound",
-      " umbrella protecting fromthe sun",
-      " — indirect control by a foreign power",
+      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
+      " — acting from yourown free will",
     ]
   },
     {
     numb: 152,
-    question: "sonorous [suh—nawr-uh s]",
+    question: "sonorous [suh—nawr-uh s]:son, sound",
     answer: "— producing loud, full,rich sounds",
     options: [
+      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
       "— producing loud, full,rich sounds",
-      "— unable to pay becauseyou are broke",
-      " — a yellow papule ornodule in the skin, containing lipid deposits",
-      "— a twistedshape or position",
+      "on the side, on or to one side, he took her aside to speak to her privately",
+      "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
     ]
   },
     {
     numb: 153,
-    question: "insomnia [in-som-nee-uh]",
+    question: "insomnia [in-som-nee-uh]:son, sound",
     answer: "- inability to fallasleep",
     options: [
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
       "- inability to fallasleep",
-      "related to remembering a person or event纪念馆,memorial park in san ramon",
-      "- a feeling of greatdislike",
+      "- the study ofreligion, god, etc.",
+      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
+      " — a species ofanimals with a big horn on the snout",
     ]
   },
     {
     numb: 154,
-    question: "somniloquy [som-ni-lo—quy]",
+    question: "somniloquy [som-ni-lo—quy]:son, sound",
     answer: "- talking in yoursleep",
     options: [
-      "- silly, causinglaughter",
       "- talking in yoursleep",
-      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
-      "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
-    ]
-  },
-    {
-    numb: 155,
-    question: "somnolent [som—nuh-luh nt]",
-    answer: "- feeling sleepy",
-    options: [
-      "science of secret codes, 密码学",
-      " — a mixture that forms asmooth solid covering for walls",
-      "- feeling sleepy",
-      "the custom to marry within one's clan氏族, tirbe,同族通婚",
-    ]
-  },
-    {
-    numb: 156,
-    question: "solar [soh-ler]",
-    answer: "- involving the sun",
-    options: [
-      "- involving the sun",
-      "- to carry goods out of aplace to another",
-      "—the process of removing poisons",
-      " — caused by light,forming an attractive subject for photography",
-    ]
-  },
-    {
-    numb: 157,
-    question: "parasol! [par—-uh—saw]",
-    answer: " umbrella protecting fromthe sun",
-    options: [
-      " umbrella protecting fromthe sun",
-      "- the ability to see, power ofanticipating",
-      "— something built orconstructed, as a building, bridge, or dam",
-      "— reddish pigment inbile",
-    ]
-  },
-    {
-    numb: 158,
-    question: "solarium [suh-lair-ee—uh m]",
-    answer: " — a room whereone is exposed to sun light",
-    options: [
-      "the study of people, the science of vital and social statistics",
-      "someone working with trees,树艺师",
-      " — a room whereone is exposed to sun light",
-      "— the whole roundsurface of the earth",
-    ]
-  },
-    {
-    numb: 159,
-    question: "desolate [des—uh-lit]",
-    answer: "- lonely, dismal, gloomy",
-    options: [
-      "- lonely, dismal, gloomy",
-      "- contribution of one's thinking.",
-      "— to come between",
-      "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
-    ]
-  },
-    {
-    numb: 160,
-    question: "solitary [sol—-i-ter—-ee]",
-    answer: "—- done alone, by yourself",
-    options: [
-      "the quality of being able to move",
-      "a shady area formed by trees,凉亭",
-      "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
-      "—- done alone, by yourself",
-    ]
-  },
-    {
-    numb: 161,
-    question: "solo [soh-loh]",
-    answer: "- a performance done by oneperson alone",
-    options: [
-      " — the smallest possible unit oflight",
-      "- a performance done by oneperson alone",
-      "an undersea boat",
-      "- the place wheresomeone is",
-    ]
-  },
-    {
-    numb: 162,
-    question: "sextet or sextette [seks—tet]",
-    answer: "— a composition orgroup of six",
-    options: [
-      " — a person who rules onbehalf of a king or queen",
-      "— concerned only with your owninterests",
-      "— a composition orgroup of six",
-      "ten years",
-    ]
-  },
-    {
-    numb: 163,
-    question: "sextuple [seks—too—puh I]",
-    answer: "- sixfold",
-    options: [
-      "- sixfold",
-      " - a rock that forms sheets,similar to slate",
-      "one's insanity as related to the moon",
-      "fear of height恐高症",
-    ]
-  },
-    {
-    numb: 164,
-    question: "sexagenarian [sek—suh—juh-nair—ee—uh n]",
-    answer: "-person in his/her sixties",
-    options: [
-      "to dip something completely into  water,淹没，the town was submerged by the flood.",
-      "-person in his/her sixties",
-      " — having aterribly bad smell",
-      "scieence of symbols and icons",
-    ]
-  },
-    {
-    numb: 165,
-    question: "conserve [kuh n-surv]",
-    answer: "- to save or keepsomething safe",
-    options: [
-      "- to save or keepsomething safe",
-      "— meat—eating",
-      "— loving books",
-      "— pain along a nerve",
-    ]
-  },
-    {
-    numb: 166,
-    question: "preserve [pri—zurv]",
-    answer: "- to save something",
-    options: [
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
-      "- to save something",
-      "the quality of being able to move",
-      " — of or going to the root ororigin; fundamental",
-    ]
-  },
-    {
-    numb: 167,
-    question: "reservation [rez—er-vey—shuh n]",
-    answer: "- a place keptfor a person",
-    options: [
-      "- a place keptfor a person",
-      "to fail to work correctly故障",
-      "an instrument that measures hearing acuteness",
-      "a certificate,literally a letter folded double 文凭",
-    ]
-  },
-    {
-    numb: 168,
-    question: "September [sep—tem-ber]",
-    answer: "— used to be theseventh month in the Roman calendar",
-    options: [
-      "— a relatively mild disordertypified by excessive anxiety",
-      " — to come aroundor bypass restrictions",
-      "a pipeline for water,沟渠",
-      "— used to be theseventh month in the Roman calendar",
-    ]
-  },
-    {
-    numb: 169,
-    question: "septet [sep—tet]",
-    answer: "— a group of seven musicians",
-    options: [
-      "— a group of seven musicians",
-      "- theoriespresumed without proof of a scientific nature",
-      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
+      "a waiting room",
+      "— a person who tells astory",
       " — unclearexpressions, usually to avoid commitment andmislead",
     ]
   },
     {
+    numb: 155,
+    question: "somnolent [som—nuh-luh nt]:somn, sleep",
+    answer: "- feeling sleepy",
+    options: [
+      "— more excitedthan one should be",
+      "- feeling sleepy",
+      "on the side, on or to one side, he took her aside to speak to her privately",
+      " — having aterribly bad smell",
+    ]
+  },
+    {
+    numb: 156,
+    question: "solar [soh-ler]:somn, sleep",
+    answer: "- involving the sun",
+    options: [
+      "the group of spectators at a public event",
+      "- involving the sun",
+      " — to spread or branch out",
+      " — distasteful,offensive or revolting",
+    ]
+  },
+    {
+    numb: 157,
+    question: "parasol! [par—-uh—saw]:somn, sleep",
+    answer: " umbrella protecting fromthe sun",
+    options: [
+      "— sound wavesbeyond human hearing",
+      "- a four—footedanimal",
+      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
+      " umbrella protecting fromthe sun",
+    ]
+  },
+    {
+    numb: 158,
+    question: "solarium [suh-lair-ee—uh m]:sol, Latin",
+    answer: " — a room whereone is exposed to sun light",
+    options: [
+      "intense fear of water，",
+      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
+      "— a twistedshape or position",
+      " — a room whereone is exposed to sun light",
+    ]
+  },
+    {
+    numb: 159,
+    question: "desolate [des—uh-lit]:sol, Latin",
+    answer: "- lonely, dismal, gloomy",
+    options: [
+      "clotting凝血 of the blood,出血,",
+      "an undersea boat",
+      "— a prediction of whatwill happen",
+      "- lonely, dismal, gloomy",
+    ]
+  },
+    {
+    numb: 160,
+    question: "solitary [sol—-i-ter—-ee]:sol, Latin",
+    answer: "—- done alone, by yourself",
+    options: [
+      "study of nature and reality形而上学，玄学, metaphysics-stanford encyclopedia of philosophy",
+      "—- done alone, by yourself",
+      "- an edible root of the mustardfamily",
+      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
+    ]
+  },
+    {
+    numb: 161,
+    question: "solo [soh-loh]:sol, alone",
+    answer: "- a performance done by oneperson alone",
+    options: [
+      "— the place orpoint where two things cross each other",
+      " — loud,unpleasant sounds",
+      "- a performance done by oneperson alone",
+      " —working at home remotely via virtual devices",
+    ]
+  },
+    {
+    numb: 162,
+    question: "sextet or sextette [seks—tet]:sol, alone",
+    answer: "— a composition orgroup of six",
+    options: [
+      "- every halfof a year",
+      "— a story",
+      "— a composition orgroup of six",
+      " — to apply a rule",
+    ]
+  },
+    {
+    numb: 163,
+    question: "sextuple [seks—too—puh I]:sol, alone",
+    answer: "- sixfold",
+    options: [
+      "— a composition orgroup of six",
+      "- sixfold",
+      "- standing still, notmoving",
+      "relating to plants or herbs",
+    ]
+  },
+    {
+    numb: 164,
+    question: "sexagenarian [sek—suh—juh-nair—ee—uh n]:sex, six",
+    answer: "-person in his/her sixties",
+    options: [
+      "- to picture mentally,especially some future event",
+      " — the outer boundaryof an area",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+      "-person in his/her sixties",
+    ]
+  },
+    {
+    numb: 165,
+    question: "conserve [kuh n-surv]:sex, six",
+    answer: "- to save or keepsomething safe",
+    options: [
+      "- to formally break away from",
+      "a warm blooded animal, therm热量，恒温动物，poeple and mamals are endotherms",
+      "- to save or keepsomething safe",
+      "— studyof ancient fossils",
+    ]
+  },
+    {
+    numb: 166,
+    question: "preserve [pri—zurv]:sex, six",
+    answer: "- to save something",
+    options: [
+      "- to save something",
+      "- a small platform tostand on",
+      "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
+      "the group of spectators at a public event",
+    ]
+  },
+    {
+    numb: 167,
+    question: "reservation [rez—er-vey—shuh n]:serv, save, keep",
+    answer: "- a place keptfor a person",
+    options: [
+      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      "- a place keptfor a person",
+      "lasting through many years,多年生, perennial plants",
+      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
+    ]
+  },
+    {
+    numb: 168,
+    question: "September [sep—tem-ber]:serv, save, keep",
+    answer: "— used to be theseventh month in the Roman calendar",
+    options: [
+      "— used to be theseventh month in the Roman calendar",
+      " — a person in his/her seventies",
+      " —a false pregnancy",
+      "— something new (for anitem or thing)",
+    ]
+  },
+    {
+    numb: 169,
+    question: "septet [sep—tet]:serv, save, keep",
+    answer: "— a group of seven musicians",
+    options: [
+      "— the studyof ancient forms of writing",
+      "— a group of seven musicians",
+      "- to put underwater",
+      "ten years",
+    ]
+  },
+    {
     numb: 170,
-    question: "septuagenarian [sep—choo—uh-—juh—nair—ee—uhn]",
+    question: "septuagenarian [sep—choo—uh-—juh—nair—ee—uhn]:sept, seven",
     answer: " — a person in his/her seventies",
     options: [
-      "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
-      " — a list orcatalog of books put in arrangement",
-      "- an electron tube having twoelectrodes, a cathode and an anode",
+      "a female airplane pilot女飞行员",
       " — a person in his/her seventies",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "— studyof ancient fossils",
     ]
   },
     {
     numb: 171,
-    question: "semiannual [sem—ee—an—yoo-uh ]",
+    question: "semiannual [sem—ee—an—yoo-uh ]:sept, seven",
     answer: "- every halfyear",
     options: [
+      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
+      " — to identifysomeone or something seen before",
+      "inside or into a vein(静脉),静脉,intravenous injection",
       "- every halfyear",
-      " — having a spontaneousurge to do something",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
-      "pertaining有关的 to the stomach,胃，he suffered from diabetes and gastric ulcers(溃疡)",
     ]
   },
     {
     numb: 172,
-    question: "semicircle [sem—i—sur—kuh |]",
+    question: "semicircle [sem—i—sur—kuh |]:sept, seven",
     answer: "— half a circle",
     options: [
-      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
-      "the process of moving to another place移民",
-      "— reddish pigment inbile",
+      " — having aquarrelsome or aggressive nature",
+      "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
       "— half a circle",
+      "发光体",
     ]
   },
     {
     numb: 173,
-    question: "semiconscious [sem—ee—kon-shuh s]",
+    question: "semiconscious [sem—ee—kon-shuh s]:semi, half, partial",
     answer: "— partlyconscious",
     options: [
-      "- to move on, over, orthrough water, air, or land in a ship",
-      "the study or science of skull characteristics，颅骨学",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      " — a motor vehicle that pullsthings",
       "— partlyconscious",
+      " — cautious,looking all around",
+      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
     ]
   },
     {
     numb: 174,
-    question: "semiannual [sem—ee—an—yoo-uh |]",
+    question: "semiannual [sem—ee—an—yoo-uh |]:semi, half, partial",
     answer: "- every halfof a year",
     options: [
+      "— a passage before themain part",
+      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
       "- every halfof a year",
-      "the surface of the moon",
-      "optical device with two lenses,双筒望远镜",
-      "- relating to a navy or warships",
+      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
     ]
   },
     {
     numb: 175,
-    question: "self-discipline [self—dis—uh—plin]",
+    question: "self-discipline [self—dis—uh—plin]:semi, half, partial",
     answer: " — the ability todiscipline yourself",
     options: [
-      "— used to be theseventh month in the Roman calendar",
+      "science of secret codes, 密码学",
+      "warlike, aggressively hostile,好战的",
+      "— more excitedthan one should be",
       " — the ability todiscipline yourself",
-      "— decided byonly one person or nation",
-      " — a motor vehicle that pullsthings",
     ]
   },
     {
     numb: 176,
-    question: "self-respect [self—ri-spekt]",
+    question: "self-respect [self—ri-spekt]:semi, half, partial",
     answer: "— respect foryourself",
     options: [
-      "- to make somethinglike new again",
-      "— a portion of a writtendocument that presents a distinct idea",
       "— respect foryourself",
-      " — to identifysomeone or something seen before",
+      "- to represent withwords or pictures",
+      "middle america",
+      "- to certify a signatureon a legal document",
     ]
   },
     {
     numb: 177,
-    question: "selfish [sel-fish]",
+    question: "selfish [sel-fish]:self, of, for, or by itself",
     answer: "— concerned only with your owninterests",
     options: [
-      "— cosmetic treatment offeet and toes",
-      "— a story",
-      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
+      "- half the earthspherically shaped like a ball",
       "— concerned only with your owninterests",
+      "someone working with flowers,  a grower of flowers",
+      "any instrument that measures atomospheric pressure气压表",
     ]
   },
     {
     numb: 178,
-    question: "reside [ri-zahyd]",
+    question: "reside [ri-zahyd]:self, of, for, or by itself",
     answer: "— be stationed",
     options: [
+      " - the best somethingcould be",
       "— be stationed",
-      " — rule oftechnology where the system of government isbased",
-      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
-      "process of acquiring knowledge, preception, 认知, 31 examples of cognition",
+      "- hard to understand, notclear or plain; ambiguous",
+      "a person who loves and collects books,图书搜藏者",
     ]
   },
     {
     numb: 179,
-    question: "sediment [sed—uh-muh nt]",
+    question: "sediment [sed—uh-muh nt]:self, of, for, or by itself",
     answer: "- the matter thatsettles to the bottom of a liquid",
     options: [
-      "situated or directed toward the head,头部的",
-      "color of sea water海洋的碧绿色,aquamarine stone",
+      "缩减",
+      "dating events by studying growth rings in trees,树龄学",
+      "- lasting throughmany years",
       "- the matter thatsettles to the bottom of a liquid",
-      " — relating totechnology; relating to science and industry",
     ]
   },
     {
     numb: 180,
-    question: "session [sesh-uh n]",
+    question: "session [sesh-uh n]:sed, sit",
     answer: "- an actual or constructivesitting of a body",
     options: [
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
       "- an actual or constructivesitting of a body",
-      "- to name someonefor election or to designate",
-      "— decided byonly one person or nation",
-      "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
+      " — a list orcatalog of books put in arrangement",
+      "a hard to ignore order",
     ]
   },
     {
     numb: 181,
-    question: "dissect [dih-sekt]",
+    question: "dissect [dih-sekt]:sed, sit",
     answer: "- to cut apart piece by piece",
     options: [
-      "— study of animals",
       "- to cut apart piece by piece",
-      " — a beginner, startingto grow",
-      "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
+      "- inability to fallasleep",
+      " — the straightor correct way of writing",
+      "- a four—footedanimal",
     ]
   },
     {
     numb: 182,
-    question: "intersection [in—ter-sek—shuh n]",
+    question: "intersection [in—ter-sek—shuh n]:sed, sit",
     answer: "— the place orpoint where two things cross each other",
     options: [
-      "- feeling sleepy",
-      "a person who moves to a new country to settle",
-      "— the love of words",
       "— the place orpoint where two things cross each other",
+      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      "arranged in the order of time, 按时间顺序",
+      "— more excitedthan one should be",
     ]
   },
     {
     numb: 183,
-    question: "bisectL[bahy—sekt]",
+    question: "bisectL[bahy—sekt]:sect, cut",
     answer: "- to cut into two equal parts",
     options: [
+      "- a first draft fromwhich a document is prepared",
+      "— using the force of air",
       "- to cut into two equal parts",
-      "protein used as to combat pathogen causing infection,抗体",
-      "- feeling sleepy",
-      "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
+      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
     ]
   },
     {
     numb: 184,
-    question: "secede [si-seed]",
+    question: "secede [si-seed]:sect, cut",
     answer: "- to formally break away from",
     options: [
-      "to give an advance warning of something bad, be an omen 预示,",
-      "on the shore, we shall put you ashore on the first island that we see",
       "- to formally break away from",
-      "a chemical used to kill insects",
+      "without water",
+      "relating to teeth",
+      "happending at the same time",
     ]
   },
     {
     numb: 185,
-    question: "seclude [si—klood]",
+    question: "seclude [si—klood]:sect, cut",
     answer: "— to keep away from",
     options: [
-      "skull of vertebrates,颅骨,what does cranium do?",
+      "- a fourth of a gallon",
+      "a large enclosure for birds, 大鸟笼，鸟舍",
+      "arranged in the order of time, 按时间顺序",
       "— to keep away from",
-      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
-      "particle with a mass between an electron and a proton中子",
     ]
   },
     {
     numb: 186,
-    question: "serum [seer—uh m]",
+    question: "serum [seer—uh m]:se, apart",
     answer: "- a liquid isolated out ofanother",
     options: [
+      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
+      "- lastingthroughout all time",
+      "disagreement, 争议, the new movie is a subject of controversy",
       "- a liquid isolated out ofanother",
-      "— relating to someone whohas supernatural mental abilities",
-      "- able to be carried",
-      "- an output of original researchwith a specific view",
     ]
   },
     {
     numb: 187,
-    question: "inscribe [in—skrahyb]",
+    question: "inscribe [in—skrahyb]:se, apart",
     answer: "- to write letters or wordson a surface",
     options: [
-      "- every halfof a year",
-      "someone working with flowers,  a grower of flowers",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "发光性",
+      "- open space withbuildings on four sides",
       "- to write letters or wordson a surface",
+      "a dead body, the actor had to play a corpse laying in a morgue",
     ]
   },
     {
     numb: 188,
-    question: "scribe [skrahyb]",
+    question: "scribe [skrahyb]:se, apart",
     answer: "— a person who writes outdocuments",
     options: [
       "— a person who writes outdocuments",
-      "- a figure with eight sidesand eight angles",
-      "- relating to a navy or warships",
-      " — all of thepeople who live in a particular area",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
+      "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
     ]
   },
     {
     numb: 189,
-    question: "describe [dih—skrahyb]",
+    question: "describe [dih—skrahyb]:scrib, write, written",
     answer: "- to represent withwords or pictures",
     options: [
-      "the early developmental stage of an animal,囊胚",
-      " — a room whereone is exposed to sun light",
-      "a message sent by telegraph",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
       "- to represent withwords or pictures",
+      "a substraction of an amount, 扣除, 10 popular tax deductions",
     ]
   },
     {
     numb: 190,
-    question: "microscope [mahy-kruh-skohp]",
+    question: "microscope [mahy-kruh-skohp]:scrib, write, written",
     answer: " — a deviceused to see tiny things",
     options: [
-      "to stop from moving",
-      "person who moves from place to place",
-      " — fivefold",
+      "- able to be carried",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
+      "- to cause tooccur at the same time",
       " — a deviceused to see tiny things",
     ]
   },
     {
     numb: 191,
-    question: "periscope [per—uh—skohp]",
+    question: "periscope [per—uh—skohp]:scrib, write, written",
     answer: " — a seeinginstrument on a submarine",
     options: [
-      "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
-      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
+      "- the transmissionof programming, in the form of still or video",
       " — a seeinginstrument on a submarine",
-      "resulting from heart disease,心源性的,",
+      "a governing body consisting of old people,老人政治,",
+      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
     ]
   },
     {
     numb: 192,
-    question: "arteriosclerosis [ahr—teer-ee—oh—skluh—roh—sis]",
+    question: "arteriosclerosis [ahr—teer-ee—oh—skluh—roh—sis]:scop, see, examine, observe",
     answer: " — hardening of the arterial walls",
     options: [
-      "easy to break",
-      "- an insulated jar thatkeeps heat in",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "— wise aboutthe ways of the world",
       " — hardening of the arterial walls",
-      "make larger放大, the lens magnified the image 100 times",
+      " — usesmanipulation of the skeleton to restore health",
     ]
   },
     {
     numb: 193,
-    question: "multiplesclerosis [muhl—tuh—puh I- skluh—roh-sis]",
+    question: "multiplesclerosis [muhl—tuh—puh I- skluh—roh-sis]:scop, see, examine, observe",
     answer: " — disease which causes the tissue of thebrain and spinal cord to harden",
     options: [
-      "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
+      "a machine noting strength and duration of earthquakes,地震仪",
+      "- to end",
       " — disease which causes the tissue of thebrain and spinal cord to harden",
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
-      " — to identifysomeone or something seen before",
+      "inflammation炎 of the skin",
     ]
   },
     {
     numb: 194,
-    question: "sclerometer [skli-rom—i—ter]",
+    question: "sclerometer [skli-rom—i—ter]:scop, see, examine, observe",
     answer: " — instrument formeasuring hardness",
     options: [
-      "— studyof ancient fossils",
-      " — to someone out",
+      "- viruses thatare causing the common cold",
       "an instrument that measures hearing acuteness",
+      " — to destroy orget rid of completely",
       " — instrument formeasuring hardness",
     ]
   },
     {
     numb: 195,
-    question: "conscience [kon-shuh ns]",
+    question: "conscience [kon-shuh ns]:scler, hard",
     answer: "- sense of knowingright from wrong",
     options: [
-      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
-      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
+      "- a feeling of greatdislike",
       "- sense of knowingright from wrong",
-      " — the smallest possible unit oflight",
+      "an extreme love of books, 藏书狂",
+      "- more supplies than isdesirable",
     ]
   },
     {
     numb: 196,
-    question: "conscious[kon-shuh s]",
+    question: "conscious[kon-shuh s]:scler, hard",
     answer: "— knowing what ishappeningomniscient {om-nish—uh nt",
     options: [
-      "- a feeling of greatdislike",
-      " — a list orcatalog of books put in arrangement",
       "— knowing what ishappeningomniscient {om-nish—uh nt",
-      "- a word relating to a verb",
+      "a doctor for the skin",
+      "— a portion of a writtendocument that presents a distinct idea",
+      "the act of moving",
     ]
   },
     {
     numb: 197,
-    question: "ascend [uh-send]",
+    question: "ascend [uh-send]:scler, hard",
     answer: "- to climb upwardcrescendolkri-shen—doh",
     options: [
       "- to climb upwardcrescendolkri-shen—doh",
-      "— half a circle",
-      "- to make sure thatsomething is true",
-      "- the worship ofall gods",
+      " — a person in his/her seventies",
+      "- to sailaround a place",
+      "— a portion of a writtendocument that presents a distinct idea",
     ]
   },
     {
     numb: 198,
-    question: "descend [dih-send]",
+    question: "descend [dih-send]:sci, know",
     answer: "- to go or climb down",
     options: [
-      "- the final annualfootball game",
-      "- relating to heat",
-      "a yellowish gem,橄榄石",
+      "medical care for feet足病学,what do podiatrists do?",
+      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
       "- to go or climb down",
+      "- a device thatcontrols heat",
     ]
   },
     {
     numb: 199,
-    question: "sane [seyn]",
+    question: "sane [seyn]:sci, know",
     answer: "— mentally healthy",
     options: [
-      "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
-      "- the ability to see, power ofanticipating",
+      "- the matter thatsettles to the bottom of a liquid",
       "— mentally healthy",
-      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
+      "excessive or extreme emotional tensseness，ususally means high blood pressure.",
     ]
   },
     {
     numb: 200,
-    question: "sanitary [san—i-ter—ee]",
+    question: "sanitary [san—i-ter—ee]:scend, climb, go",
     answer: "- relating to cleanlinessand health",
     options: [
-      "a fiber optics instrument used to see inside a joint,关节镜",
-      " — a three—wheeledmotorcycle",
       "- relating to cleanlinessand health",
-      "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
+      "showing romantic love, especially sexual love",
+      "to sail around, to go or maneuver around, the ship circumnavigate the world",
+      " — a supporter of therights of people",
     ]
   },
     {
     numb: 201,
-    question: "sanitation [san—i—tey—shuh n]",
+    question: "sanitation [san—i—tey—shuh n]:scend, climb, go",
     answer: " — maintenance ofpublic health and cleanliness",
     options: [
-      "excessive or extreme emotional tensseness，ususally means high blood pressure.",
-      " — obsessionwith and usually erotic interest on corpses",
-      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
+      "- a figure with threesides and three angles",
+      "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
       " — maintenance ofpublic health and cleanliness",
+      " — the pure andconcentrated essence of a substance",
     ]
   },
     {
     numb: 202,
-    question: "bankrupt [bangk-—ruhpt]",
+    question: "bankrupt [bangk-—ruhpt]:san, health",
     answer: "— unable to pay becauseyou are broke",
     options: [
       "— unable to pay becauseyou are broke",
-      "medical care for feet足病学,what do podiatrists do?",
-      "to sail around, to go or maneuver around, the ship circumnavigate the world",
-      "someone working with flowers,  a grower of flowers",
+      "- to find something outat the end of an investigation",
+      "- a newborn child,especially the first few weeks",
+      "- to put off doingsomething",
     ]
   },
     {
     numb: 203,
-    question: "interrupt [in-tuh—-ruhpt]",
+    question: "interrupt [in-tuh—-ruhpt]:san, health",
     answer: "- to break into aconversation or event, to disturb",
     options: [
+      "pertaining to pressure, esp. of the atmosphere气压",
       "- to break into aconversation or event, to disturb",
-      "— a composition orgroup of six",
-      "— to come between",
-      " — to speak in favor of,support or urge by argument",
+      "relating to motherhood母亲的,Her faelings towards him were almost maternal",
+      "- the transmissionof programming, in the form of still or video",
     ]
   },
     {
     numb: 204,
-    question: "rupture [ruhp-cher]",
+    question: "rupture [ruhp-cher]:san, health",
     answer: "— a break in somethingSAN TO ZYGO",
     options: [
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-      "belief as to the truth of something,信任,you people have lost your credence with me",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
       "— a break in somethingSAN TO ZYGO",
-      " —existing outside the earth",
+      "this colledge is a mediocrity's catpital平庸之都",
+      "person who moves from place to place",
     ]
   },
     {
     numb: 205,
-    question: "ruby [roo—bee]",
+    question: "ruby [roo—bee]:rupt, break, burst",
     answer: "— deep red color and a preciousstone of the same color",
     options: [
-      "not in its correct historical time, 不合时宜，",
+      "a doctor for the skin",
+      "loud enough to be heard, actually heard",
+      "disease spreading among people in a region,瘟疫,what is the difference between epidemic and pandemic",
       "— deep red color and a preciousstone of the same color",
-      "- the matter thatsettles to the bottom of a liquid",
-      "this colledge is a mediocrity's catpital平庸之都",
     ]
   },
     {
     numb: 206,
-    question: "rubella [roo—bel-uh]",
+    question: "rubella [roo—bel-uh]:rupt, break, burst",
     answer: "— measles",
     options: [
-      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
+      "a generator of energy,发电机",
+      "— being turned towardsown thoughts, a shy person",
       "— measles",
-      "having many trees, of or relating to trees, an arborous roof",
-      "an extensive flood, complete deluge,灾难，剧变",
+      "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
     ]
   },
     {
     numb: 207,
-    question: "bilirubin [bil-uh—roo—bin]",
+    question: "bilirubin [bil-uh—roo—bin]:rupt, break, burst",
     answer: "— reddish pigment inbile",
     options: [
-      "- similarity in size, formor arrangement",
-      "the universe,宇宙,the cosmos is another name for the universe",
-      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
+      "a dead body, the actor had to play a corpse laying in a morgue",
+      "muscle fatigue or weakness肌无力,",
       "— reddish pigment inbile",
+      " — a response, areverse movement or tendency",
     ]
   },
     {
     numb: 208,
-    question: "diarrhea [dahy—uh-ree-uh]",
+    question: "diarrhea [dahy—uh-ree-uh]:rub, red",
     answer: "— abnormallyexcessive bowel movement",
     options: [
+      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
       "— abnormallyexcessive bowel movement",
-      "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
-      "- open space withbuildings on four sides",
-      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
+      "- a clever but misleadingargument",
+      "— loving books",
     ]
   },
     {
     numb: 209,
-    question: "hemorrhage [hem-er-ij]",
+    question: "hemorrhage [hem-er-ij]:rub, red",
     answer: "— heavy blood flow",
     options: [
+      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
+      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
       "— heavy blood flow",
-      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
-      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
-      " — the creation ofoffspring that is different from either parent",
+      " — a musicalinstrument with graduated series of woodenbars",
     ]
   },
     {
     numb: 210,
-    question: "catarrh [kuh—tahr]",
+    question: "catarrh [kuh—tahr]:rub, red",
     answer: "- inflammation of a mucousmembrane of the nose and throat",
     options: [
-      " — a person who rules onbehalf of a king or queen",
-      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "the transmission of disease to other parts of the body转移,",
+      "— feeding onwood",
       "- inflammation of a mucousmembrane of the nose and throat",
-      "an official order, the law mandates that every car have seat belts",
+      "— half a circle",
     ]
   },
     {
     numb: 211,
-    question: "deride [dih-rahyd]",
+    question: "deride [dih-rahyd]:rrh, rrhea, flow, discharge",
     answer: "- to make fun of someone",
     options: [
+      "— loving books",
+      "someone working with trees,树艺师",
+      " — to spread or branch out",
       "- to make fun of someone",
-      "relating to sound and vision视听, make a audiovisual presentation",
-      "of or involving two sides, two-sided",
-      "— having parts orelements strongly holding to each other",
     ]
   },
     {
     numb: 212,
-    question: "ridicule [rid-i-kyool]",
+    question: "ridicule [rid-i-kyool]:rrh, rrhea, flow, discharge",
     answer: "- to make fun or mock",
     options: [
-      "a person who resists any authority,造反，反叛，叛逆",
+      "— the studyof ancient forms of writing",
+      "turning for the worst, a substantial disaster,灾难",
       "- to make fun or mock",
-      "- able to be touched",
-      " — a substancethat helps prevent body odor",
+      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
     ]
   },
     {
     numb: 213,
-    question: "ridiculous [ri—dik—yuh-luh s]",
+    question: "ridiculous [ri—dik—yuh-luh s]:rrh, rrhea, flow, discharge",
     answer: "- silly, causinglaughter",
     options: [
-      "- a state in which two thingstouch",
-      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      "- standing still, notmoving",
+      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
       "- silly, causinglaughter",
-      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
+      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
     ]
   },
     {
     numb: 214,
-    question: "rhododendron [roh—duh—-den-—druh n]",
+    question: "rhododendron [roh—duh—-den-—druh n]:rid, laugh",
     answer: "— a flowerwith red/pink flowers",
     options: [
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      "an abnormally low glucose(葡萄糖) in the blood低血糖",
-      "- a doctor, one who isskilled in the science of healing the body",
+      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
       "— a flowerwith red/pink flowers",
+      "- shape having fiveangles and five sides",
+      "- a stand or frame with threelegs",
     ]
   },
     {
     numb: 215,
-    question: "rhodium [roh—-dee—uh m]",
+    question: "rhodium [roh—-dee—uh m]:rid, laugh",
     answer: "— an element whichproduces a red solution",
     options: [
       "— an element whichproduces a red solution",
-      "a king or queen, a person that holds a dominant position,君主",
-      "— knowing all things",
-      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
+      "the love of mankind",
+      " — ground or land",
+      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
     ]
   },
     {
     numb: 216,
-    question: "rhodopsin [roh—dop-sin]",
+    question: "rhodopsin [roh—dop-sin]:rid, laugh",
     answer: "- a purple pigment inthe retina that is needed for vision",
     options: [
-      "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
+      "— to drive someone out of aplace",
+      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
       "- a purple pigment inthe retina that is needed for vision",
-      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
-      " — without sense",
     ]
   },
     {
     numb: 217,
-    question: "rhinoceros [rahy—nos—er-uh s]",
+    question: "rhinoceros [rahy—nos—er-uh s]:rhod, red",
     answer: " — a species ofanimals with a big horn on the snout",
     options: [
-      "warlike, aggressively hostile,好战的",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
+      "feeling of well being, 快感, I was in a state of euphoria all day",
       " — a species ofanimals with a big horn on the snout",
-      " — minutefloating aquatic animals, animal-like organisms",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
     ]
   },
     {
     numb: 218,
-    question: "rhinoplasty [rahy—nuh-plas—tee]",
+    question: "rhinoplasty [rahy—nuh-plas—tee]:rhod, red",
     answer: " -— surgery ofthe nose",
     options: [
-      "one's insanity as related to the moon",
-      "- any animal organism capableof separate existence",
-      "— a doctorconcerned with the proper alignment of thebones",
+      "- the death of tissuedue to disease or injury",
+      "- to make fun of someone",
+      " — the pure andconcentrated essence of a substance",
       " -— surgery ofthe nose",
     ]
   },
     {
     numb: 219,
-    question: "rhinovirus [rahy-noh—vahy-ruh s]",
+    question: "rhinovirus [rahy-noh—vahy-ruh s]:rhod, red",
     answer: "- viruses thatare causing the common cold",
     options: [
+      "— to force back",
+      "a person traveling to the stars and for spaceflight",
       "- viruses thatare causing the common cold",
-      "- a person who is new at a job",
-      "— the act of rubbingtogether or wearing down",
-      "删节",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
     ]
   },
     {
     numb: 220,
-    question: "retroactive [re—troh—ak-tiv]",
+    question: "retroactive [re—troh—ak-tiv]:rhin, nose",
     answer: "— relating tosomething in the past",
     options: [
-      "- relating to the body",
-      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
+      "the ability to move objects with you mind",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
       "— relating tosomething in the past",
-      "- to write letters or wordson a surface",
     ]
   },
     {
     numb: 221,
-    question: "retrogress [re—truh—gres]",
+    question: "retrogress [re—truh—gres]:rhin, nose",
     answer: "— to go back to anearlier condition",
     options: [
-      "- to carry goods out of aplace to another",
-      "- to certify a signatureon a legal document",
-      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
       "— to go back to anearlier condition",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
+      "a blue-white metallic chemical element,铬",
+      "— to reply to, usually in a sharpor retaliatory way",
     ]
   },
     {
     numb: 222,
-    question: "retrospect [re-truh—spekt]",
+    question: "retrospect [re-truh—spekt]:rhin, nose",
     answer: "— the remembering ofpast events",
     options: [
-      "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
-      " — a response, areverse movement or tendency",
-      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
+      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
       "— the remembering ofpast events",
+      "one thousandth of a bar毫巴，压强单位",
     ]
   },
     {
     numb: 223,
-    question: "regent [ree—juh nt]",
+    question: "regent [ree—juh nt]:retro, backward, back",
     answer: " — a person who rules onbehalf of a king or queen",
     options: [
-      "- to pull objects nearer, allure,invite",
-      "a place equipped to conduct work or experiments, 实验室,",
-      "lasting through many years,多年生, perennial plants",
+      "an insane person疯子,a person suffering from mania",
+      " — to produce with yourvoice, utter, articulate, sing",
       " — a person who rules onbehalf of a king or queen",
+      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
     ]
   },
     {
     numb: 224,
-    question: "regime [ruh—zheem]",
+    question: "regime [ruh—zheem]:retro, backward, back",
     answer: "- a government that rules",
     options: [
-      "a semicircular structure半圆",
-      "study of the earth's surface,地理,",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
       "- a government that rules",
-      "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
+      "pain caused by a nerve神经痛,what is the most common neuralgia?",
+      " — the smallest possible unit oflight",
     ]
   },
     {
     numb: 225,
-    question: "regulate [reg—yuh-leyt]",
+    question: "regulate [reg—yuh-leyt]:retro, backward, back",
     answer: " — to apply a rule",
     options: [
+      "- the place wheresomeone is",
+      "- similarity in size, formor arrangement",
       " — to apply a rule",
-      "— abnormallyexcessive bowel movement",
-      "— corrode a surface",
-      "— relating to the eyes",
+      "inflammation of the liver肝炎, in the state, the most common types of viral hepatitis are hepatitis A, hepatitis B and C",
     ]
   },
     {
     numb: 226,
-    question: "rebound [ri-bound]",
+    question: "rebound [ri-bound]:reg, guide, rule",
     answer: " —to spring back again",
     options: [
+      "without water",
+      "a group of common minerals, calcium fluorophosphate, 磷灰石,",
       " —to spring back again",
-      "the act or process of forming or the state of being formed.编队",
-      "— a revival ofclassic form",
-      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
+      "without water",
     ]
   },
     {
     numb: 227,
-    question: "rewind [ree—wahynd]",
+    question: "rewind [ree—wahynd]:reg, guide, rule",
     answer: " — to wind somethingbackward",
     options: [
+      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
       " — to wind somethingbackward",
-      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
-      "a yellowish gem,橄榄石",
-      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
+      "— to get ready in advance",
+      "the act or process of forming or the state of being formed.编队",
     ]
   },
     {
     numb: 228,
-    question: "reaction [ree—ak—shuh n]",
+    question: "reaction [ree—ak—shuh n]:reg, guide, rule",
     answer: " — a response, areverse movement or tendency",
     options: [
-      "— heavy blood flow",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      "- a cure for alldiseases or problems",
+      "- truth",
+      "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
       " — a response, areverse movement or tendency",
-      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
     ]
   },
     {
     numb: 229,
-    question: "recognize [rek—uh g-nahyz]",
+    question: "recognize [rek—uh g-nahyz]:re, again, back, backward",
     answer: " — to identifysomeone or something seen before",
     options: [
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
       " — to identifysomeone or something seen before",
-      "the cross itself as a christian emblem, 十字架",
-      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
-      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
+      "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
     ]
   },
     {
     numb: 230,
-    question: "ramification [ram-—uh-fi-key—shuh n]",
+    question: "ramification [ram-—uh-fi-key—shuh n]:re, again, back, backward",
     answer: " -outgrowth; consequence; implication to branchout",
     options: [
-      "— a vehicle withone wheel",
+      "without color, achromatic colors are all shades of black, white and grey",
+      "an order or instruction",
       " -outgrowth; consequence; implication to branchout",
-      "- relating to a city, living in acity",
-      "— a doctor for thefeet",
+      " — relating totechnology; relating to science and industry",
     ]
   },
     {
     numb: 231,
-    question: "ramify [ram—uh-fahy]",
+    question: "ramify [ram—uh-fahy]:re, again, back, backward",
     answer: " — to spread or branch out",
     options: [
-      "- the place wheresomeone is",
-      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
-      "a generator of energy,发电机",
+      "- to move on, over, orthrough water, air, or land in a ship",
+      "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
+      "ancestor, forefathers,祖先,",
       " — to spread or branch out",
     ]
   },
     {
     numb: 232,
-    question: "ramus [rey—muh s]",
+    question: "ramus [rey—muh s]:re, again, back, backward",
     answer: "— a branchlike part",
     options: [
       "— a branchlike part",
-      "encode into secret code",
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
+      "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
+      " - afraid offoreigners",
+      "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
     ]
   },
     {
     numb: 233,
-    question: "radioactive [rey-dee—oh—ak-—tiv]",
+    question: "radioactive [rey-dee—oh—ak-—tiv]:ram, branch",
     answer: " — emittingradiation",
     options: [
-      "the universe,宇宙,the cosmos is another name for the universe",
       " — emittingradiation",
-      "- to stimulate or animate",
-      " — indirect control by a foreign power",
+      "- any tract of land;region or district",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+      "— to get ready in advance",
     ]
   },
     {
     numb: 234,
-    question: "radiology [rey-dee—ol—uh-jee]",
+    question: "radiology [rey-dee—ol—uh-jee]:ram, branch",
     answer: " — the sciencedealing with x-rays or nuclear radiation",
     options: [
-      "匿名的",
-      "make larger放大, the lens magnified the image 100 times",
       " — the sciencedealing with x-rays or nuclear radiation",
-      "the primitive layer of cells from the segmentation of the ovum,胚层",
+      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
+      " — to apply a rule",
+      " — a device used tosee over a distance",
     ]
   },
     {
     numb: 235,
-    question: "eradicate [ih-rad-i—keyt]",
+    question: "eradicate [ih-rad-i—keyt]:ram, branch",
     answer: "- pull out at the roots",
     options: [
       "- pull out at the roots",
-      "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
-      "a message sent by telegraph",
-      "- an output of original researchwith a specific view",
+      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
+      " — the outer boundaryof an area",
+      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
     ]
   },
     {
     numb: 236,
-    question: "radical [rad—i—kuh |]",
+    question: "radical [rad—i—kuh |]:radio, radiation, ray",
     answer: " — of or going to the root ororigin; fundamental",
     options: [
-      "- the science ofClassification",
-      "- inflammation ofthe lungs",
-      "— to go back to anearlier condition",
       " — of or going to the root ororigin; fundamental",
+      "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
+      "- to force someone to act",
+      "- at a standstill,fixed",
     ]
   },
     {
     numb: 237,
-    question: "radish [rad—ish]",
+    question: "radish [rad—ish]:radio, radiation, ray",
     answer: "- an edible root of the mustardfamily",
     options: [
-      "the primitive layer of cells from the segmentation of the ovum,胚层",
-      "make larger放大, the lens magnified the image 100 times",
-      "- the truth, conformityto truth or fact; accuracy",
       "- an edible root of the mustardfamily",
+      "— a person who writes outdocuments",
+      "- silly, causinglaughter",
+      "—the process of removing poisons",
     ]
   },
     {
     numb: 238,
-    question: "quintet [kwin—-tet]",
+    question: "quintet [kwin—-tet]:radic, root",
     answer: "— a composition for fivevoices or instruments",
     options: [
+      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
       "— a composition for fivevoices or instruments",
-      "- worshipingmore than one god or many gods",
-      "- to eat quickly and withgreat fervor",
-      "one half of the earth or sphere半球",
+      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
+      "an official order, the law mandates that every car have seat belts",
     ]
   },
     {
     numb: 239,
-    question: "quintessence [kwin-tes—uh ns]",
+    question: "quintessence [kwin-tes—uh ns]:radic, root",
     answer: " — the pure andconcentrated essence of a substance",
     options: [
+      "to lean or lie back; rest in a recumbent position,横卧,she reclined his head on my shoulder",
+      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
       " — the pure andconcentrated essence of a substance",
-      "measurement, pertaining to the meter",
-      "a fiber optics instrument used to see inside a joint,关节镜",
-      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
+      "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
     ]
   },
     {
     numb: 240,
-    question: "quintuple [kwin-too—puh |]",
+    question: "quintuple [kwin-too—puh |]:radic, root",
     answer: " — fivefold",
     options: [
-      "- belief inone god",
+      "ancestor, forefathers,祖先,",
+      "— a passage before themain part",
       " — fivefold",
-      "- the conquest of anenemy, success or triumph",
-      "- protection fromfalling",
+      " — having aquarrelsome or aggressive nature",
     ]
   },
     {
     numb: 241,
-    question: "quarter [kwawr-ter]",
+    question: "quarter [kwawr-ter]:quin, five, fifth",
     answer: "— one fourth",
     options: [
-      "- the total,highest amount",
-      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
-      "— a relatively mild disordertypified by excessive anxiety",
+      "- to make somethinglike new again",
+      " — the smallest possible unit oflight",
       "— one fourth",
+      "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
     ]
   },
     {
     numb: 242,
-    question: "quart [kwawrt]",
+    question: "quart [kwawrt]:quin, five, fifth",
     answer: "- a fourth of a gallon",
     options: [
-      "of or involving two sides, two-sided",
       "- a fourth of a gallon",
-      " — a motor vehicle that pullsthings",
-      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
+      "— an instrumentattached to a vehicle to measure the distancetraversed",
+      "study of the chemical constitution of cells and tissues组织化学",
+      "- to go back on a promise, tobreak a rule of play",
     ]
   },
     {
     numb: 243,
-    question: "quartet [kwawr-tet]",
+    question: "quartet [kwawr-tet]:quin, five, fifth",
     answer: "- group involving fourvoices or instruments",
     options: [
-      " umbrella protecting fromthe sun",
+      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      " — gotten at birth, existingin or formed by nature",
       "- group involving fourvoices or instruments",
-      " — image made onlight-sensitive film",
-      "- a plant growingindependently on the surface of another",
+      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
     ]
   },
     {
     numb: 244,
-    question: "quadrant [kwod-ruh nt]",
+    question: "quadrant [kwod-ruh nt]:quart, fourth",
     answer: "- open space withbuildings on four sides",
     options: [
-      "- hard to understand, notclear or plain; ambiguous",
-      "— one whowalks",
-      "- to spread throughout",
+      "- the science ofClassification",
+      "- lasting for alimited time",
       "- open space withbuildings on four sides",
+      " — somethingthat bears or diffuses a scent",
     ]
   },
     {
     numb: 245,
-    question: "quadrennium [kwo-—dren—ee-uh m]",
+    question: "quadrennium [kwo-—dren—ee-uh m]:quart, fourth",
     answer: "- period offour years",
     options: [
       "- period offour years",
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
-      "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
-      "an instrument that measures hearing acuteness",
+      "- sense of knowingright from wrong",
+      "— a doctor for thefeet",
+      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
     ]
   },
     {
     numb: 246,
-    question: "quadruped [kwod-roo—ped]",
+    question: "quadruped [kwod-roo—ped]:quart, fourth",
     answer: "- a four—footedanimal",
     options: [
-      "— with many colors",
-      "—the process of removing poisons",
-      " — a lookingback at past things",
       "- a four—footedanimal",
+      "— be stationed",
+      "only of medium or inferior quality平庸",
+      "abnormally low body temperature",
     ]
   },
     {
     numb: 247,
-    question: "computer [kuh m-pyoo-ter]",
+    question: "computer [kuh m-pyoo-ter]:quad, four",
     answer: "— an electronicthinking device",
     options: [
-      "resembling a human",
-      "living together, to converse or talk together,公社",
       "— an electronicthinking device",
-      "— abnormallyexcessive bowel movement",
+      "a person who loves and collects books,图书搜藏者",
+      " —a false pregnancy",
+      "equal distance",
     ]
   },
     {
     numb: 248,
-    question: "dispute [dih-spyoot]",
+    question: "dispute [dih-spyoot]:quad, four",
     answer: "— to disagree with whatanother person thinks",
     options: [
-      " — to come with a product ofone's own ingenuity",
+      "malignant dark tumor of the skin",
+      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
       "— to disagree with whatanother person thinks",
-      "an extreme love of books, 藏书狂",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
     ]
   },
     {
     numb: 249,
-    question: "input [in—poo t]",
+    question: "input [in—poo t]:quad, four",
     answer: "- contribution of one's thinking.",
     options: [
+      "study of the earth's surface,地理,",
+      " — obsessionwith and usually erotic interest on corpses",
       "- contribution of one's thinking.",
-      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
-      "— producing loud, full,rich sounds",
-      " — the practicalapplication of knowledge",
+      "one thousandth of a meter毫米,",
     ]
   },
     {
     numb: 250,
-    question: "compulsion [kuh m-puhl-shuh n]",
+    question: "compulsion [kuh m-puhl-shuh n]:put, think",
     answer: " — a verystrong urge",
     options: [
-      "— using the force of air",
+      "— being turned towardsown thoughts, a shy person",
+      "- similarity in size, formor arrangement",
+      "- a plant that growsin dry climate",
       " — a verystrong urge",
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
-      "— a dryphotocopying process",
     ]
   },
     {
     numb: 251,
-    question: "expulsion [ik—spuhl—shuh n]",
+    question: "expulsion [ik—spuhl—shuh n]:put, think",
     answer: " — to someone out",
     options: [
-      "— a product ofdisintegration or wearing away",
+      "a sheltered place to flee to, shelter or protection from danger.避难所",
       " — to someone out",
-      " — obsessionwith and usually erotic interest on corpses",
-      " — to continue through for along time",
+      "this colledge is a mediocrity's catpital平庸之都",
+      "- to force someone to act",
     ]
   },
     {
     numb: 252,
-    question: "impulsive [im—puhl-siv]",
+    question: "impulsive [im—puhl-siv]:put, think",
     answer: " — having a spontaneousurge to do something",
     options: [
-      "having many trees, of or relating to trees, an arborous roof",
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
+      "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
+      "ten years",
       " — having a spontaneousurge to do something",
-      "the group of spectators at a public event",
+      " — theperson next in rank to the president",
     ]
   },
     {
     numb: 253,
-    question: "pugnacious [puhg—ney-shuh s]",
+    question: "pugnacious [puhg—ney-shuh s]:pul, urge",
     answer: " — having aquarrelsome or aggressive nature",
     options: [
-      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
-      "heavy particle such as proton, neutron, or any elementary particle重子",
+      "someone who beautifies, 美学家, give your esthetician resume a refined look",
+      "a doctor for the teeth",
+      "an insane person疯子,a person suffering from mania",
       " — having aquarrelsome or aggressive nature",
-      "— to win someone over,persuade",
     ]
   },
     {
     numb: 254,
-    question: "repugnant [ri-puhg—nuh nt]",
+    question: "repugnant [ri-puhg—nuh nt]:pul, urge",
     answer: " — distasteful,offensive or revolting",
     options: [
+      "- any animal organism capableof separate existence",
+      "- empty, not occupied",
+      "- to say it didn't happen",
       " — distasteful,offensive or revolting",
-      "speak out loud for another person to write down听写,主宰, the way they dress is dictated by very rigid fashion rules",
-      "- a government that rules",
-      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
     ]
   },
     {
     numb: 255,
-    question: "pungent [puhn-juh nt]",
+    question: "pungent [puhn-juh nt]:pul, urge",
     answer: " — piercing smell",
     options: [
+      "a person who resists any authority,造反，反叛，叛逆",
       " — piercing smell",
-      "— corrode a surface",
-      "- a figure with threesides and three angles",
-      "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
+      "- to carry, move, orconvey from one place to another",
+      "- a feeling of greatdislike",
     ]
   },
     {
     numb: 256,
-    question: "psyche [sahyk]",
+    question: "psyche [sahyk]:pugn, to fight",
     answer: "— the human spirit or soul",
     options: [
-      "equal distance",
-      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
-      "the air space, the atmosphere,航空, aerospace industry",
       "— the human spirit or soul",
+      "name of a flower, an imaginary undying flower,苋菜,",
+      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
+      "turning for the worst, a substantial disaster,灾难",
     ]
   },
     {
     numb: 257,
-    question: "psychic [sahy—kik]",
+    question: "psychic [sahy—kik]:pugn, to fight",
     answer: "— relating to someone whohas supernatural mental abilities",
     options: [
+      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
+      " — a deviceused to see tiny things",
       "— relating to someone whohas supernatural mental abilities",
-      "- lonely, dismal, gloomy",
-      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
-      "relating to the heart",
+      "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
     ]
   },
     {
     numb: 258,
-    question: "psychology [sahy—kol-uh-jee]",
+    question: "psychology [sahy—kol-uh-jee]:pugn, to fight",
     answer: " — the study ofthe mind",
     options: [
-      "- the science ofClassification",
-      "a short expression of a general truth,格言",
-      "easy to break",
+      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+      "- lonely, dismal, gloomy",
       " — the study ofthe mind",
+      "— one fourth",
     ]
   },
     {
     numb: 259,
-    question: "pseudonym [sood-n-im]",
+    question: "pseudonym [sood-n-im]:psych, mind, mental",
     answer: "- a fictitious name",
     options: [
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
+      "an abnormally low glucose(葡萄糖) in the blood低血糖",
+      " — a person who rules onbehalf of a king or queen",
+      "- to cut apart piece by piece",
       "- a fictitious name",
-      "an organism that has undergone change突变体, common mutation include down syndrome...",
-      "— marked as worthy ofattention",
     ]
   },
     {
     numb: 260,
-    question: "pseudoscience [soo—doh-sahy-—uh ns]",
+    question: "pseudoscience [soo—doh-sahy-—uh ns]:psych, mind, mental",
     answer: "- theoriespresumed without proof of a scientific nature",
     options: [
+      "— half a circle",
+      "—- fatherhood",
       "- theoriespresumed without proof of a scientific nature",
-      "a message sent by telegraph",
-      "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
-      "— an electronicthinking device",
+      "- a clever but misleadingargument",
     ]
   },
     {
     numb: 261,
-    question: "pseudopregnancy [soo—doh-preg—nuh n-see]",
+    question: "pseudopregnancy [soo—doh-preg—nuh n-see]:psych, mind, mental",
     answer: " —a false pregnancy",
     options: [
-      "person who gives money to a cause, kindly helper恩人",
-      "showing romantic love, especially sexual love",
+      "a state of dark emotions忧郁的, she was in melancholy mood",
       " —a false pregnancy",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
+      "- a lever pushed by the foot",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
     ]
   },
     {
     numb: 262,
-    question: "prototype [proh—tuh-tahyp]",
+    question: "prototype [proh—tuh-tahyp]:pseud, wrong,false",
     answer: "- the first of a kind",
     options: [
-      "common protein in muscle tissue,肌球蛋白",
-      "— a revival ofclassic form",
       "- the first of a kind",
-      "— to go back to anearlier condition",
+      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
+      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
+      "— to move from one place toanother",
     ]
   },
     {
     numb: 263,
-    question: "proton [proh-ton]",
+    question: "proton [proh-ton]:pseud, wrong,false",
     answer: "— on of the very basic parts ofan atom",
     options: [
-      "- truth",
-      "— requiring small amounts ofmoisture",
-      "happening twice a year, semiannual,一年两次，或者两年一次, the olymipic games are biannual",
+      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
+      "— a twistedshape or position",
+      "— sound wavesbeyond human hearing",
       "— on of the very basic parts ofan atom",
     ]
   },
     {
     numb: 264,
-    question: "protocol [proh—tuh-kawl]",
+    question: "protocol [proh—tuh-kawl]:pseud, wrong,false",
     answer: "- a first draft fromwhich a document is prepared",
     options: [
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
-      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
+      "a state of dark emotions忧郁的, she was in melancholy mood",
+      " -person in his or her eighties",
+      "a short speech delivered after a play, 结语， how to write an epilogue?",
       "- a first draft fromwhich a document is prepared",
-      "— poisonous",
     ]
   },
     {
     numb: 265,
-    question: "prognosis [prog—noh-sis]",
+    question: "prognosis [prog—noh-sis]:prot, primitive, first, chief",
     answer: "— a prediction of whatwill happen",
     options: [
+      "an abnormal fear of women女性恐惧症",
+      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
+      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
       "— a prediction of whatwill happen",
-      "- to picture mentally,especially some future event",
-      "— an instrumentattached to a vehicle to measure the distancetraversed",
-      "- pull out at the roots",
     ]
   },
     {
     numb: 266,
-    question: "prologue [proh—lawg]",
+    question: "prologue [proh—lawg]:prot, primitive, first, chief",
     answer: "— a passage before themain part",
     options: [
-      " — to identifysomeone or something seen before",
-      "- sixfold",
+      "- the worship ofall gods",
+      "a semicircular structure半圆",
+      "sounding alike, 同音词,",
       "— a passage before themain part",
-      " — to come with a product ofone's own ingenuity",
     ]
   },
     {
     numb: 267,
-    question: "prophet [prof-it]",
+    question: "prophet [prof-it]:prot, primitive, first, chief",
     answer: "— a person who foretells thefuture",
     options: [
+      "— an instrumentattached to a vehicle to measure the distancetraversed",
       "— a person who foretells thefuture",
-      "- clearly visible, clear tothe sight or understanding",
-      "related to remembering a person or event纪念馆,memorial park in san ramon",
-      "—the process of removing poisons",
+      " — a seeinginstrument on a submarine",
+      "— something new (for anitem or thing)",
     ]
   },
     {
     numb: 268,
-    question: "preamble [pree—am-—buh I|]",
+    question: "preamble [pree—am-—buh I|]:pro, before, in front of,for, forward",
     answer: "- a part in front of aformal document",
     options: [
-      " - a rock that forms sheets,similar to slate",
-      "peculiar to a particular language",
-      "flowerlike",
+      "similarity, especially between things otherwise dissimilar, 比喻, he drew an analogy between the brain and a vast computer",
       "- a part in front of aformal document",
+      "the study or science of skull characteristics，颅骨学",
+      "a group of common minerals, calcium fluorophosphate, 磷灰石,",
     ]
   },
     {
     numb: 269,
-    question: "prepare [pri-pair]",
+    question: "prepare [pri-pair]:pro, before, in front of,for, forward",
     answer: "— to get ready in advance",
     options: [
-      "- an electron tube having twoelectrodes, a cathode and an anode",
+      " — a three—wheeledmotorcycle",
+      "pain caused by a nerve神经痛,what is the most common neuralgia?",
       "— to get ready in advance",
-      "a word formed from the first letters of a word, 首字母缩略词",
-      "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
+      "living together, to converse or talk together,公社",
     ]
   },
     {
     numb: 270,
-    question: "prediction [pri-dik—shuh n]",
+    question: "prediction [pri-dik—shuh n]:pro, before, in front of,for, forward",
     answer: "- a statementforetelling the future",
     options: [
+      " — a motor vehicle that pullsthings",
+      "— moreconfident than is appropriate",
       "- a statementforetelling the future",
-      "- empty, not occupied",
-      "- to end",
-      "the killing of one human being by another, 杀人",
+      "- a device to talk to adistant person",
     ]
   },
     {
     numb: 271,
-    question: "posthumous [pos—chuh-muh s]",
+    question: "posthumous [pos—chuh-muh s]:pre, earlier, before, in front of",
     answer: " — aftersomeone's death",
     options: [
-      " — cannibalism",
+      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
+      "pertaining to pressure, esp. of the atmosphere气压",
+      "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
       " — aftersomeone's death",
-      " — a three—wheeledmotorcycle",
-      "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
     ]
   },
     {
     numb: 272,
-    question: "postpone [pohst-pohn]",
+    question: "postpone [pohst-pohn]:pre, earlier, before, in front of",
     answer: "- to delay something",
     options: [
-      "the science of people and races,民族学",
-      "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
-      "drawing that explains something such as the parts etc，",
       "- to delay something",
+      "happening twice a year, semiannual,一年两次，或者两年一次, the olymipic games are biannual",
+      "- lasting throughmany years",
+      " — an eye doctor",
     ]
   },
     {
     numb: 273,
-    question: "postscript [pohst—skript]",
+    question: "postscript [pohst—skript]:pre, earlier, before, in front of",
     answer: "— an addition to analready completed document",
     options: [
-      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
       "— an addition to analready completed document",
-      "intense fear of water，",
-      "— aiding to normalize digestion",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+      " —working at home remotely via virtual devices",
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
     ]
   },
     {
     numb: 274,
-    question: "deposit [dih-poz-—it]",
+    question: "deposit [dih-poz-—it]:post, after, behind",
     answer: "- to place or dropsomething",
     options: [
+      "- half the earthspherically shaped like a ball",
+      "an order or instruction",
+      "- relating to heat",
       "- to place or dropsomething",
-      "a generator of energy,发电机",
-      "- talking in yoursleep",
-      "pertaining to the brain,大脑",
     ]
   },
     {
     numb: 275,
-    question: "expose [ik-spohz]",
+    question: "expose [ik-spohz]:post, after, behind",
     answer: "— to place out into the openfor all to see",
     options: [
-      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
-      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
+      " — a yellow papule ornodule in the skin, containing lipid deposits",
       "— to place out into the openfor all to see",
-      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      " flowers with golden/yellow color streaks or center,菊花",
+      "abnormally low body temperature",
     ]
   },
     {
     numb: 276,
-    question: "position [puh-zish—uh n]",
+    question: "position [puh-zish—uh n]:post, after, behind",
     answer: "- the place wheresomeone is",
     options: [
+      "— mentally healthy",
       "- the place wheresomeone is",
-      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
-      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "clotting凝血 of the blood,出血,",
+      "- to formally break away from",
     ]
   },
     {
     numb: 277,
-    question: "export [ek—-spawrt]",
+    question: "export [ek—-spawrt]:pos, place, put",
     answer: "- to carry goods out of aplace to another",
     options: [
-      "- the combined total of everything",
-      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
-      "particle with a mass between an electron and a proton中子",
       "- to carry goods out of aplace to another",
+      "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
+      "- the total,highest amount",
+      "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
     ]
   },
     {
     numb: 278,
-    question: "portable [pawr-tuh—buh I]",
+    question: "portable [pawr-tuh—buh I]:pos, place, put",
     answer: "- able to be carried",
     options: [
-      "measurement, pertaining to the meter",
-      "a message sent by telegraph",
-      "particle with a mass between an electron and a proton中子",
+      "the treasury of a college or monastery,奖学金，学校金库",
+      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
       "- able to be carried",
+      "earth's surface inhabited by living things生态环境",
     ]
   },
     {
     numb: 279,
-    question: "porter [pawr-—ter]",
+    question: "porter [pawr-—ter]:pos, place, put",
     answer: "— a person who carriesluggage",
     options: [
-      "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
       "— a person who carriesluggage",
-      "peculiar to a particular language",
-      "feeling of well being, 快感, I was in a state of euphoria all day",
+      "- inflammation ofthe lungs",
+      "— worthy of beingapplauded",
+      "scieence of symbols and icons",
     ]
   },
     {
     numb: 280,
-    question: "popular [pop—yuh-ler]",
+    question: "popular [pop—yuh-ler]:port, carry",
     answer: " — appealing to a lot ofpeople",
     options: [
-      " — the sciencedealing with x-rays or nuclear radiation",
+      "— one whowalks",
       " — appealing to a lot ofpeople",
-      "lasting through many years,多年生, perennial plants",
-      "—- done alone, by yourself",
+      "- to declare in public numerous [noo-mer-uh s",
+      " — to come in agathering or assembly of people",
     ]
   },
     {
     numb: 281,
-    question: "population [pop—yuh-ley—shuh n]",
+    question: "population [pop—yuh-ley—shuh n]:port, carry",
     answer: " — all of thepeople who live in a particular area",
     options: [
-      " — to wind somethingbackward",
-      "the ability to move objects with you mind",
-      "an organism that has undergone change突变体, common mutation include down syndrome...",
+      "— abnormal digestion",
       " — all of thepeople who live in a particular area",
+      "abnormally low body temperature",
+      " —to spring back again",
     ]
   },
     {
     numb: 282,
-    question: "populist [pop—yuh-list]",
+    question: "populist [pop—yuh-list]:port, carry",
     answer: " — a supporter of therights of people",
     options: [
-      "— the studyof ancient forms of writing",
-      "equal distance",
-      "— a portion of a writtendocument that presents a distinct idea",
       " — a supporter of therights of people",
+      "the structure as visible when cut up for analysis,解刨学",
+      " — a substancethat helps prevent body odor",
+      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
     ]
   },
     {
     numb: 283,
-    question: "opponent [uh—poh-nuh nt]",
+    question: "opponent [uh—poh-nuh nt]:pop, people",
     answer: "— a person whoplaces him/herself against an action",
     options: [
-      "- an umbrella used toprotect from the sun",
-      " — a device used tosee over a distance",
+      "intention to feel like another person",
+      "— a groupof stars that forms a pattern",
       "— a person whoplaces him/herself against an action",
-      "a shy person who keeps within himself or herself, signs of an introvert personality",
+      "- the science ofClassification",
     ]
   },
     {
     numb: 284,
-    question: "postpone [pohst—pohn]",
+    question: "postpone [pohst—pohn]:pop, people",
     answer: "- to put off doingsomething",
     options: [
-      " — having a spontaneousurge to do something",
-      "— on of the very basic parts ofan atom",
+      "- relating to fathers",
+      " —a false pregnancy",
+      "- talking in yoursleep",
       "- to put off doingsomething",
-      "a female airplane pilot女飞行员",
     ]
   },
     {
     numb: 285,
-    question: "polychrome [pol-ee—krohm]",
+    question: "polychrome [pol-ee—krohm]:pop, people",
     answer: "— with many colors",
     options: [
-      " — theperson next in rank to the president",
+      " — lackingfriendliness, not friendly",
       "— with many colors",
-      "- to empty adangerous place",
-      "easy to break",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
+      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
     ]
   },
     {
     numb: 286,
-    question: "polyglot[pol—ee—glot]",
+    question: "polyglot[pol—ee—glot]:pon, place, put",
     answer: "— a person fluent in manylanguages",
     options: [
-      "- to cut into two equal parts",
-      "not in accordance with established or accepted doctrines，he paid no price at the polls for his heterodox views",
+      "— to come between",
+      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
+      " — to speak in favor of,support or urge by argument",
       "— a person fluent in manylanguages",
-      "able to last, patient, long-suffering",
     ]
   },
     {
     numb: 287,
-    question: "polygon[pol—ee—gon]",
+    question: "polygon[pol—ee—gon]:pon, place, put",
     answer: "- shape with three or morestraight sides",
     options: [
+      "- to end",
+      "- relating to humanspeech sounds",
+      " — image made onlight-sensitive film",
       "- shape with three or morestraight sides",
-      " — a deviceused to see tiny things",
-      "common protein in muscle tissue,肌球蛋白",
-      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
     ]
   },
     {
     numb: 288,
-    question: "metropolis [mi—trop—uh-lis]",
+    question: "metropolis [mi—trop—uh-lis]:poly, many, more than one",
     answer: "— a large city",
     options: [
-      "art of public speaking，演说, I need more training in order to improve my elocution",
-      "a shape with six angles or sides",
-      "of or involving two sides, two-sided",
       "— a large city",
+      "muscle fatigue or weakness肌无力,",
+      "a person traveling to the stars and for spaceflight",
+      "- the matter thatsettles to the bottom of a liquid",
     ]
   },
     {
     numb: 289,
-    question: "police [puh—lees]",
+    question: "police [puh—lees]:poly, many, more than one",
     answer: "— people who work for thegovt. to maintain order in a city",
     options: [
-      "- to drag attention awayfrom something",
-      "- to end",
       "— people who work for thegovt. to maintain order in a city",
-      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
+      "— to place out into the openfor all to see",
+      " — a device thatrecords and amplifies sound",
+      "- the act of bringing backto life",
     ]
   },
     {
     numb: 290,
-    question: "politics [pol-i-tiks]",
+    question: "politics [pol-i-tiks]:poly, many, more than one",
     answer: "- actions of a government orpolitical party",
     options: [
-      " —to spring back again",
+      "— to come between",
+      "a person traveling to the stars and for spaceflight",
       "- actions of a government orpolitical party",
-      "to isolate, shut off, keep apart,隔离, this place was quiet and secluded",
-      "— a relatively mild disordertypified by excessive anxiety",
+      " — a list orcatalog of books put in arrangement",
     ]
   },
     {
     numb: 291,
-    question: "podiatrist [puh—dahy—uh-trist]",
+    question: "podiatrist [puh—dahy—uh-trist]:poli, city",
     answer: "— a doctor for thefeet",
     options: [
-      "— partlyconscious",
-      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
-      "the science of people and races,民族学",
+      "- a statementforetelling the future",
+      " — a response, areverse movement or tendency",
       "— a doctor for thefeet",
+      "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
     ]
   },
     {
     numb: 292,
-    question: "podium [poh—dee—-uh m]",
+    question: "podium [poh—dee—-uh m]:poli, city",
     answer: "- a small platform tostand on",
     options: [
-      "- a lever pushed by the foot",
+      "- more supplies than isdesirable",
+      "the air space, the atmosphere,航空, aerospace industry",
       "- a small platform tostand on",
-      "not changing",
-      "an extreme love of books, 藏书狂",
+      " — fivefold",
     ]
   },
     {
     numb: 293,
-    question: "tripod [trahy—pod]",
+    question: "tripod [trahy—pod]:poli, city",
     answer: "- a stand or frame with threelegs",
     options: [
-      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
-      "- talking in yoursleep",
-      "the tumor of the liver",
+      "— a branchlike part",
+      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      " — indirect control by a foreign power",
       "- a stand or frame with threelegs",
     ]
   },
     {
     numb: 294,
-    question: "pneumonia [noo—mohn-yuh]",
+    question: "pneumonia [noo—mohn-yuh]:pod, foot",
     answer: "- inflammation ofthe lungs",
     options: [
-      "pertaining to pressure, esp. of the atmosphere气压",
-      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
-      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "a female who rules a group, a venerable old woman,女族长",
+      "- the death of tissuedue to disease or injury",
+      "- a performance done by oneperson alone",
       "- inflammation ofthe lungs",
     ]
   },
     {
     numb: 295,
-    question: "pneumatic [noo—mat-ik]",
+    question: "pneumatic [noo—mat-ik]:pod, foot",
     answer: "— using the force of air",
     options: [
-      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
-      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
+      "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
+      "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
+      " — piercing smell",
       "— using the force of air",
-      "being absolutely sure, I feel certain you are doing the right thing",
     ]
   },
     {
     numb: 296,
-    question: "applaud [uh—-plawd]",
+    question: "applaud [uh—-plawd]:pod, foot",
     answer: "— to show approval ofespecially by clapping the hands",
     options: [
-      " — cautious,looking all around",
-      "a person traveling to the stars and for spaceflight",
+      "the structure as visible when cut up for analysis,解刨学",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
       "— to show approval ofespecially by clapping the hands",
-      "a mature white blood cell白细胞",
+      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
     ]
   },
     {
     numb: 297,
-    question: "explosion[ik—sploh—zhuh n]",
+    question: "explosion[ik—sploh—zhuh n]:pneum, breathing, lung, air, spirit",
     answer: "— an act of exposingsomething as invalid or baseless",
     options: [
-      " — a response, areverse movement or tendency",
-      "situated or directed toward the head,头部的",
-      " — to someone out",
+      " — not shortened",
+      "intention to feel like another person",
+      "— an act of exposingsomething as invalid or baseless",
       "— an act of exposingsomething as invalid or baseless",
     ]
   },
     {
     numb: 298,
-    question: "plausible[plaw—zuh—buh |]",
+    question: "plausible[plaw—zuh—buh |]:pneum, breathing, lung, air, spirit",
     answer: "— worthy of beingapplauded",
     options: [
-      "— one whowalks",
+      " — to apply a rule",
+      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
       "— worthy of beingapplauded",
-      "- a plant growingindependently on the surface of another",
-      "young, youthful, juvenile readers",
     ]
   },
     {
     numb: 299,
-    question: "protoplasm [proh-tuh-plaz—uh m]",
+    question: "protoplasm [proh-tuh-plaz—uh m]:plaud, approve, clap",
     answer: " — somethingthat is the first made or also living portion of aCell",
     options: [
+      "- to make fun of someone",
       " — somethingthat is the first made or also living portion of aCell",
-      "— a person who carriesluggage",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-      "a judge must certify the contract",
+      "sounding alike, 同音词,",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
     ]
   },
     {
     numb: 300,
-    question: "plastic [plas—tik]",
+    question: "plastic [plas—tik]:plaud, approve, clap",
     answer: " — materials that may beshaped when soft and then hardened",
     options: [
-      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
+      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
+      "relating to the heart",
       " — materials that may beshaped when soft and then hardened",
-      " — the act ofresistance or action against",
-      "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
+      " — the practicalapplication of knowledge",
     ]
   },
     {
     numb: 301,
-    question: "plaster [plas—ter]",
+    question: "plaster [plas—ter]:plaud, approve, clap",
     answer: " — a mixture that forms asmooth solid covering for walls",
     options: [
-      "the killing of one human being by another, 杀人",
-      "hatred towards men, 厌恶男性",
-      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
       " — a mixture that forms asmooth solid covering for walls",
+      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
+      "without color, achromatic colors are all shades of black, white and grey",
+      "- more supplies than isdesirable",
     ]
   },
     {
     numb: 302,
-    question: "epiphyte [ep—uh—fahyt]",
+    question: "epiphyte [ep—uh—fahyt]:plas, to form, development, forming cells",
     answer: "- a plant growingindependently on the surface of another",
     options: [
-      "- viruses thatare causing the common cold",
-      "an instrument that measures time",
-      "having six legs, an insect，昆虫,hexapod is six-legged insects",
+      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
+      " — obsessionwith and usually erotic interest on corpses",
       "- a plant growingindependently on the surface of another",
+      "- to be against something",
     ]
   },
     {
     numb: 303,
-    question: "hydrophyte [hahy—druh-—fahyt]",
+    question: "hydrophyte [hahy—druh-—fahyt]:plas, to form, development, forming cells",
     answer: " — a plant thatgrows only in water",
     options: [
-      "one's insanity as related to the moon",
-      "resembling a human",
-      "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
+      "- acrossthe continent",
       " — a plant thatgrows only in water",
+      "a collection of historical materials,档案, the national archives and record administration, archive records",
+      "the study of handwriting,笔迹学",
     ]
   },
     {
     numb: 304,
-    question: "neophyte [nee—uh-fahyt]",
+    question: "neophyte [nee—uh-fahyt]:plas, to form, development, forming cells",
     answer: " — a beginner, startingto grow",
     options: [
-      "intention to feel like another person",
+      "- to move on, over, orthrough water, air, or land in a ship",
+      "- truth",
       " — a beginner, startingto grow",
-      "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
-      "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
+      "- a device thatcontrols heat",
     ]
   },
     {
     numb: 305,
-    question: "physical [fiz—i-kuh I]",
+    question: "physical [fiz—i-kuh I]:phyt, plant, to grow",
     answer: "- relating to the body",
     options: [
-      "— sound wavesbeyond human hearing",
+      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
       "- relating to the body",
-      "a governing body consisting of old people,老人政治,",
-      " — aftersomeone's death",
+      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
+      "— a dryphotocopying process",
     ]
   },
     {
     numb: 306,
-    question: "physician [fi-zish—uh n]",
+    question: "physician [fi-zish—uh n]:phyt, plant, to grow",
     answer: "- a doctor, one who isskilled in the science of healing the body",
     options: [
-      "ancestor, forefathers,祖先,",
-      "— to reply to, usually in a sharpor retaliatory way",
       "- a doctor, one who isskilled in the science of healing the body",
-      "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
+      "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
+      "— combining twoideas that sharply contradict each other",
     ]
   },
     {
     numb: 307,
-    question: "physique [fi-zeek]",
+    question: "physique [fi-zeek]:phyt, plant, to grow",
     answer: "— nature and shape of one'sbody",
     options: [
-      "affecting one side or involving one side only单方面, examples of unilateral contract example",
+      "— relating tosomething in the past",
+      "pain caused by a nerve神经痛,what is the most common neuralgia?",
       "— nature and shape of one'sbody",
-      "situated or directed toward the head,头部的",
-      "a list of books used as sources, a list of materials,参考书目",
+      "common protein in muscle tissue,肌球蛋白",
     ]
   },
     {
     numb: 308,
-    question: "chlorophy!! [klawr—uh—fil]",
+    question: "chlorophy!! [klawr—uh—fil]:phys, nature, medicine, the body",
     answer: "l- a group of greenpigments found in leaves",
     options: [
-      "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
       "l- a group of greenpigments found in leaves",
-      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
+      " — to come aroundor bypass restrictions",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "a large enclosure for birds, 大鸟笼，鸟舍",
     ]
   },
     {
     numb: 309,
-    question: "phyllotaxis [fil-uh—tak—sis]",
+    question: "phyllotaxis [fil-uh—tak—sis]:phys, nature, medicine, the body",
     answer: "— the arrangement ofleaves on a stem",
     options: [
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      "缩减",
       "— the arrangement ofleaves on a stem",
-      " — the sciencedealing with x-rays or nuclear radiation",
-      "to fill with light,照亮,解释,",
-      "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
+      "a hard to ignore order",
     ]
   },
     {
     numb: 310,
-    question: "phyllite [fil-ahyt]",
+    question: "phyllite [fil-ahyt]:phys, nature, medicine, the body",
     answer: " - a rock that forms sheets,similar to slate",
     options: [
-      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
       " - a rock that forms sheets,similar to slate",
-      "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
-      "— a break in somethingSAN TO ZYGO",
+      "- relating to the body",
+      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
+      "- to declare in public numerous [noo-mer-uh s",
     ]
   },
     {
     numb: 311,
-    question: "photogenic [foh—tuh-jen—ik]",
+    question: "photogenic [foh—tuh-jen—ik]:phyll, leaf",
     answer: " — caused by light,forming an attractive subject for photography",
     options: [
-      " — a mixture that forms asmooth solid covering for walls",
-      "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
+      "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
+      "- similarity in size, formor arrangement",
+      "swelling of the blood vessels船只，痔疮,",
       " — caused by light,forming an attractive subject for photography",
-      "— the human spirit or soul",
     ]
   },
     {
     numb: 312,
-    question: "photograph [foh—tuh—graf]",
+    question: "photograph [foh—tuh—graf]:phyll, leaf",
     answer: " — image made onlight-sensitive film",
     options: [
-      "—existing at the same time",
-      "— a wise saying or precept; adidactic sentence",
-      "— the only one of its kind",
+      "the love of mankind",
+      "— to disagree with whatanother person thinks",
       " — image made onlight-sensitive film",
+      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
     ]
   },
     {
     numb: 313,
-    question: "photon [foh—ton]",
+    question: "photon [foh—ton]:phyll, leaf",
     answer: " — the smallest possible unit oflight",
     options: [
-      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
-      "— to disagree with whatanother person thinks",
-      " — maintenance ofpublic health and cleanliness",
+      "a cell that forms connective tissue,纤维母细胞",
       " — the smallest possible unit oflight",
+      "equal distance",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     ]
   },
     {
     numb: 314,
-    question: "cacophony [kuh—kof—uh-nee]",
+    question: "cacophony [kuh—kof—uh-nee]:phot, light",
     answer: " — loud,unpleasant sounds",
     options: [
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
+      "- to say it didn't happen",
       " — loud,unpleasant sounds",
-      "— corrode a surface",
-      "— the study",
-      " — a supporter of therights of people",
+      " — a seeinginstrument on a submarine",
     ]
   },
     {
     numb: 315,
-    question: "microphone [mahy—kruh—fohn]",
+    question: "microphone [mahy—kruh—fohn]:phot, light",
     answer: " — a device thatrecords and amplifies sound",
     options: [
-      "of or relating to an age or period of 100 years, 一百周年,the centennial celebration of the railway was held in Lincoin Nebraska.",
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
       " — a device thatrecords and amplifies sound",
-      "a chemical used to kill insects",
+      "a substraction of an amount, 扣除, 10 popular tax deductions",
+      "the surface of the moon",
+      " — to come aroundor bypass restrictions",
     ]
   },
     {
     numb: 316,
-    question: "phonetic [fuh—net-ik]",
+    question: "phonetic [fuh—net-ik]:phot, light",
     answer: "- relating to humanspeech sounds",
     options: [
-      "—the process of removing poisons",
-      "- to cause tooccur at the same time",
+      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
+      "a large enclosure for birds, 大鸟笼，鸟舍",
+      "- a cure for alldiseases or problems",
       "- relating to humanspeech sounds",
-      "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
     ]
   },
     {
     numb: 317,
-    question: "philanthropist [fi—-lan—thruh—pist]",
+    question: "philanthropist [fi—-lan—thruh—pist]:phon, sound",
     answer: "— one wholoves humanity",
     options: [
-      "formerly the tenth month of the roman calendar",
+      "- an edible root of the mustardfamily",
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
       "— one wholoves humanity",
-      "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
-      "an undersea boat",
+      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
     ]
   },
     {
     numb: 318,
-    question: "philology [fi-lol-uh-jee]",
+    question: "philology [fi-lol-uh-jee]:phon, sound",
     answer: "— the love of words",
     options: [
-      "— with no specialcharacteristics",
-      "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
-      "- the transmissionof programming, in the form of still or video",
+      "— to win someone over,persuade",
       "— the love of words",
+      "toxic and damaging to the liver, hepatotoxicity by drugs",
+      "- relating to birth",
     ]
   },
     {
     numb: 319,
-    question: "philosophy [fi-los—uh-fee]",
+    question: "philosophy [fi-los—uh-fee]:phon, sound",
     answer: "— the love of wisdom",
     options: [
+      "- pertaining to life, being the seator source of life",
       "— the love of wisdom",
-      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
-      "- empty, not occupied",
-      "— with nothing missing",
+      "the quality of being able to move",
+      "someone who destroys religious images and trditional beliefs",
     ]
   },
     {
     numb: 320,
-    question: "bibliophile [bib-lee—uh—fahyl]",
+    question: "bibliophile [bib-lee—uh—fahyl]:phil, love, friend",
     answer: "— loving books",
     options: [
-      " — to spread or branch out",
-      "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
+      "to stop or interrupt, x intercept轴, y intercept formula,",
+      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      "— a wise saying or precept; adidactic sentence",
       "— loving books",
-      " — a device used tosee over a distance",
     ]
   },
     {
     numb: 321,
-    question: "esophagus [ih—sof—uh—guh s]",
+    question: "esophagus [ih—sof—uh—guh s]:phil, love, friend",
     answer: "— muscular tubethat carries food to the stomachanthropophagy",
     options: [
-      "operated by force created by a liquid or water液压,equipment such as cranes, forklifts, jacks, pumps and fall arrest safety harnesses use hydraulics to lift and lower objects.",
+      "- the act or fact ofdetaining, putting somebody on hold",
+      "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
       "— muscular tubethat carries food to the stomachanthropophagy",
-      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
-      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
     ]
   },
     {
     numb: 322,
-    question: "or sarcophagy [sar—coph-a-—gy]",
+    question: "or sarcophagy [sar—coph-a-—gy]:phil, love, friend",
     answer: " — cannibalism",
     options: [
-      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
-      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
-      "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
+      "- talking in yoursleep",
       " — cannibalism",
+      "a geometrical figure with eight angles八角形,10 octagon examples in real life",
+      "a scientific observer of the celestial(天上的) bodies,天文学家",
     ]
   },
     {
     numb: 323,
-    question: "xylophagous [zahy—lof—uh—guh s]",
+    question: "xylophagous [zahy—lof—uh—guh s]:phil, love, friend",
     answer: "— feeding onwood",
     options: [
-      "- a state in which two thingstouch",
-      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
+      "- an athletic contestwith three events",
       "— feeding onwood",
-      "intense fear of water，",
-    ]
-  },
-    {
-    numb: 324,
-    question: "periodontal [per—ee—uh—don-tl]",
-    answer: " — pertaining tobone and tissue around a tooth",
-    options: [
-      "— study of animals",
-      " — pertaining tobone and tissue around a tooth",
-      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      " — a room whereone is exposed to sun light",
       "- an error in naming aperson or thing",
     ]
   },
     {
+    numb: 324,
+    question: "periodontal [per—ee—uh—don-tl]:phag, to eat",
+    answer: " — pertaining tobone and tissue around a tooth",
+    options: [
+      "a cell that forms connective tissue,纤维母细胞",
+      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
+      " — pertaining tobone and tissue around a tooth",
+      "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
+    ]
+  },
+    {
     numb: 325,
-    question: "peripheral [puh-rif—er—uh |]",
+    question: "peripheral [puh-rif—er—uh |]:phag, to eat",
     answer: " — lying outside ofthe center",
     options: [
-      "to remove bugs from software program",
+      "to stop or interrupt, x intercept轴, y intercept formula,",
+      " — an eye doctor",
+      "— one fourth",
       " — lying outside ofthe center",
-      " — lackingfriendliness, not friendly",
-      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
     ]
   },
     {
     numb: 326,
-    question: "perimeter [puh-rim-—i-ter]",
+    question: "perimeter [puh-rim-—i-ter]:phag, to eat",
     answer: " — the outer boundaryof an area",
     options: [
-      "— a branchlike part",
+      "ancestor, forefathers,祖先,",
+      "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
       " — the outer boundaryof an area",
-      "something announced offically in public, 公告,city of orlando proclamation format example",
-      "—- done alone, by yourself",
+      "a list of books used as sources, a list of materials,参考书目",
     ]
   },
     {
     numb: 327,
-    question: "permanent [pur—muh-nuh nt]",
+    question: "permanent [pur—muh-nuh nt]:peri, around, enclosing",
     answer: "- lastingthroughout all time",
     options: [
-      "the killing of one human being by another, 杀人",
-      "— loving books",
-      "the plant life of a particular time or area, flora of China中国植物志",
       "- lastingthroughout all time",
+      "- involving the sun",
+      " — image made onlight-sensitive film",
+      "a cell that forms connective tissue,纤维母细胞",
     ]
   },
     {
     numb: 328,
-    question: "permeate [pur—mee-eyt]",
+    question: "permeate [pur—mee-eyt]:peri, around, enclosing",
     answer: "- to spread throughout",
     options: [
-      "heavy particle such as proton, neutron, or any elementary particle重子",
-      "- sense of knowingright from wrong",
-      " — the study ofthe mind",
+      "- to write letters or wordson a surface",
+      "— an athletic contestthat includes five events",
+      "- the science ofClassification",
       "- to spread throughout",
     ]
   },
     {
     numb: 329,
-    question: "persist [per-—sist]",
+    question: "persist [per-—sist]:peri, around, enclosing",
     answer: " — to continue through for along time",
     options: [
-      "— a break in somethingSAN TO ZYGO",
-      "existing or occuring within the boundaries of a state",
-      "self-centered, 自我中心的, babies are entirely egocentric",
       " — to continue through for along time",
+      "- to name someonefor election or to designate",
+      " -person in his or her eighties",
+      "a machine noting strength and duration of earthquakes,地震仪",
     ]
   },
     {
     numb: 330,
-    question: "perennial [puh—ren—ee-uh |]",
+    question: "perennial [puh—ren—ee-uh |]:per, through, throughout",
     answer: "- lasting throughmany years",
     options: [
-      "- truth",
-      "- truthful, honest",
-      "- to write letters or wordson a surface",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "— to reply to, usually in a sharpor retaliatory way",
       "- lasting throughmany years",
+      "— the arrangement ofleaves on a stem",
     ]
   },
     {
     numb: 331,
-    question: "dyspepsia [dis—pep—shuh]",
+    question: "dyspepsia [dis—pep—shuh]:per, through, throughout",
     answer: "— abnormal digestion",
     options: [
       "— abnormal digestion",
-      "relating to the moon，lunar new year",
-      "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
-      " — the practicalapplication of knowledge",
+      " — a person in his/her seventies",
+      " — emittingradiation",
+      "a person who moves to a new country to settle",
     ]
   },
     {
     numb: 332,
-    question: "peptic [pep-tik]",
+    question: "peptic [pep-tik]:per, through, throughout",
     answer: "— aiding to normalize digestion",
     options: [
-      "— to force back",
-      "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
       "— aiding to normalize digestion",
-      "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
+      "— the place orpoint where two things cross each other",
+      "- silly, causinglaughter",
+      "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
     ]
   },
     {
     numb: 333,
-    question: "pepsin [pep-sin]",
+    question: "pepsin [pep-sin]:per, through, throughout",
     answer: "- a digestive enzyme",
     options: [
-      "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
+      "- a doctor, one who isskilled in the science of healing the body",
       "- a digestive enzyme",
-      "a class of animals with very thick skin(elephant, rhinoceros)",
-      "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
+      " —to spring back again",
+      "— used to be theseventh month in the Roman calendar",
     ]
   },
     {
     numb: 334,
-    question: "pentagon [pen-tuh—gon]",
+    question: "pentagon [pen-tuh—gon]:pept, digestion",
     answer: "- shape having fiveangles and five sides",
     options: [
-      "one thousandth of a liter(升)千分之一升",
+      "- the act of bringing backto life",
       "- shape having fiveangles and five sides",
-      "inflammation of a joint,关节炎",
-      "the branch of physics that deals with energy能量学, energetics of chemical reactions",
+      "a person seeking protection, a person who flees for refuge or safety.",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     ]
   },
     {
     numb: 335,
-    question: "pentagram [pen—tuh-gram]",
+    question: "pentagram [pen—tuh-gram]:pept, digestion",
     answer: "- a five—pointed starformerly used as a symbolic figure in magic",
     options: [
-      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
-      "— to show approval ofespecially by clapping the hands",
-      "- a liquid isolated out ofanother",
+      "to argue against, 顶撞，抗辩,she dared not contradict him",
+      "skull of vertebrates,颅骨,what does cranium do?",
+      "- to make fun of someone",
       "- a five—pointed starformerly used as a symbolic figure in magic",
     ]
   },
     {
     numb: 336,
-    question: "pentathlon [pen-tath-luh n]",
+    question: "pentathlon [pen-tath-luh n]:pept, digestion",
     answer: "— an athletic contestthat includes five events",
     options: [
-      "a scientific observer of the celestial(天上的) bodies,天文学家",
-      " — to destroy orget rid of completely",
+      "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
       "— an athletic contestthat includes five events",
-      "pertaining to the brain,大脑",
+      "measurement, pertaining to the meter",
+      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
     ]
   },
     {
     numb: 337,
-    question: "compe! [kuh m-pel]",
+    question: "compe! [kuh m-pel]:pent, five",
     answer: "- to force someone to act",
     options: [
+      "- an output of original researchwith a specific view",
+      "- a person who fitseyeglassesautopsylaw-top—see",
       "- to force someone to act",
-      "the study of ancient cultures, the study of antiquity,考古学",
-      "- acrossthe continent",
-      "a shape with six angles or sides",
+      "— sound wavesbeyond human hearing",
     ]
   },
     {
     numb: 338,
-    question: "expe! [ik—spel]",
+    question: "expe! [ik—spel]:pent, five",
     answer: "— to drive someone out of aplace",
     options: [
+      "equal distance",
+      "- extremely high",
       "— to drive someone out of aplace",
-      "- lastingthroughout all time",
-      "in an earlier period, prior to development,古老, because my archaic computer is no longer useful to me, I am giving it away for free",
-      "- the total,highest amount",
+      "— loving books",
     ]
   },
     {
     numb: 339,
-    question: "repel [ri-pel]",
+    question: "repel [ri-pel]:pent, five",
     answer: "— to force back",
     options: [
-      "— residential area on the edgeof a city",
-      "— influenced bydrugs or alcohol",
       "— to force back",
-      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "someone who beautifies, 美学家, give your esthetician resume a refined look",
+      "— with no specialcharacteristics",
+      "one over one hundred of a meter",
     ]
   },
     {
     numb: 340,
-    question: "pedal [ped-l|]",
+    question: "pedal [ped-l|]:pel, drive, force",
     answer: "- a lever pushed by the foot",
     options: [
-      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
+      " — aftersomeone's death",
+      "not changing",
+      "发光体",
       "- a lever pushed by the foot",
-      "— a product ofdisintegration or wearing away",
-      "- with all thepower",
     ]
   },
     {
     numb: 341,
-    question: "pedestrian [puh—des—tree—uh n]",
+    question: "pedestrian [puh—des—tree—uh n]:pel, drive, force",
     answer: "— one whowalks",
     options: [
       "— one whowalks",
-      "a doctor for the teeth",
-      "— to name anumber of items on a list",
-      "study of the working environment, human enginering,人体工程学， nomics经济学",
+      "— producing loud, full,rich sounds",
+      "disagreement, 争议, the new movie is a subject of controversy",
+      "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
     ]
   },
     {
     numb: 342,
-    question: "pedicure [ped-i-kyoo r]",
+    question: "pedicure [ped-i-kyoo r]:pel, drive, force",
     answer: "— cosmetic treatment offeet and toes",
     options: [
-      "- more supplies than isdesirable",
+      " - a rock that forms sheets,similar to slate",
       "— cosmetic treatment offeet and toes",
-      "— using the force of air",
-      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
+      "- veryadvanced in ideas, design, or techniques",
     ]
   },
     {
     numb: 343,
-    question: "antipathy [an—tip—uh-thee]",
+    question: "antipathy [an—tip—uh-thee]:pedi, foot, feet",
     answer: "- a feeling of greatdislike",
     options: [
-      "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
-      "— the love of wisdom",
       "- a feeling of greatdislike",
-      "no longer working or alive",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      "unit measuring light, 光通量单位",
     ]
   },
     {
     numb: 344,
-    question: "apathy [ap—uh-thee]",
+    question: "apathy [ap—uh-thee]:pedi, foot, feet",
     answer: "- a lack of feeling orinterest",
     options: [
-      " — distasteful,offensive or revolting",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
-      "on the shore, we shall put you ashore on the first island that we see",
+      "- to eat quickly and withgreat fervor",
+      "— people who work for thegovt. to maintain order in a city",
       "- a lack of feeling orinterest",
+      "- a performance done by oneperson alone",
     ]
   },
     {
     numb: 345,
-    question: "empathy [em-—puh-thee]",
+    question: "empathy [em-—puh-thee]:pedi, foot, feet",
     answer: "-— ability to understandanother's feelings",
     options: [
+      "an outgoing person, 性格外向的, extrovert personality",
       "-— ability to understandanother's feelings",
-      "— studyof ancient fossils",
-      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
-      " — to apply a rule",
+      "— an organism that liveson and off another living being",
+      "— doctorspecializing in the nerves",
     ]
   },
     {
     numb: 346,
-    question: "paternal [puh-tur-nl]",
+    question: "paternal [puh-tur-nl]:path, feeling, emotion",
     answer: "- relating to fathers",
     options: [
-      "an abnormal fear of women女性恐惧症",
+      "- relating to humanspeech sounds",
+      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
       "- relating to fathers",
-      "— a twistedshape or position",
-      " — acting from yourown free will",
+      "flowerlike",
     ]
   },
     {
     numb: 347,
-    question: "paternity [puh—tur—ni-tee]",
+    question: "paternity [puh—tur—ni-tee]:path, feeling, emotion",
     answer: "—- fatherhood",
     options: [
-      "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
+      "- to cause tooccur at the same time",
+      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
       "—- fatherhood",
-      "the study of people, the science of vital and social statistics",
-      "a collection of historical materials,档案, the national archives and record administration, archive records",
+      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
     ]
   },
     {
     numb: 348,
-    question: "patriarch [pey-tree—ahrk]",
+    question: "patriarch [pey-tree—ahrk]:path, feeling, emotion",
     answer: "— a man who rules agroup",
     options: [
-      "the highest ranking bishop(主教),大主教",
-      "- an insulated jar thatkeeps heat in",
-      "able to last, patient, long-suffering",
+      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
+      "— the study ofcity life or social life and its problems",
+      "middle america",
       "— a man who rules agroup",
     ]
   },
     {
     numb: 349,
-    question: "parachute [par—uh-shoot]",
+    question: "parachute [par—uh-shoot]:pater, father",
     answer: "- protection fromfalling",
     options: [
-      "resulting from heart disease,心源性的,",
-      "pain caused by a nerve神经痛,what is the most common neuralgia?",
-      " — to come in agathering or assembly of people",
+      "- to introduce a new way",
+      "a female airplane pilot女飞行员",
       "- protection fromfalling",
+      "one thousandth of a bar毫巴，压强单位",
     ]
   },
     {
     numb: 350,
-    question: "parasol [par—uh-sawl]",
+    question: "parasol [par—uh-sawl]:pater, father",
     answer: "- an umbrella used toprotect from the sun",
     options: [
-      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
-      "- to introduce a new way",
+      "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
       "- an umbrella used toprotect from the sun",
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      "- affecting all",
+      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
     ]
   },
     {
     numb: 351,
-    question: "parasite [par—uh—sahyt]",
+    question: "parasite [par—uh—sahyt]:pater, father",
     answer: "— an organism that liveson and off another living being",
     options: [
-      "- to say it didn't happen",
+      "one of the commonest minerals, calcium carbonate,方解石",
+      " — to identifysomeone or something seen before",
+      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
       "— an organism that liveson and off another living being",
-      "- able to be touched",
-      "- a stand or frame with threelegs",
     ]
   },
     {
     numb: 352,
-    question: "parallel [par—uh-lel]",
+    question: "parallel [par—uh-lel]:para, protection from",
     answer: "— alongside and always anequal distance apart",
     options: [
       "— alongside and always anequal distance apart",
-      "— opposite of fair",
-      "- any tract of land;region or district",
-      "— to win someone over,persuade",
+      "clotting凝血 of the blood,出血,",
+      "having equal or constant temperature, A fridge works isothermally",
+      "very small or trivial details细节, the minutiae of everyday life",
     ]
   },
     {
     numb: 353,
-    question: "paragraph [par—uh-graf]",
+    question: "paragraph [par—uh-graf]:para, protection from",
     answer: "— a portion of a writtendocument that presents a distinct idea",
     options: [
-      "- a purple pigment inthe retina that is needed for vision",
-      " — loud,unpleasant sounds",
+      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
+      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
       "— a portion of a writtendocument that presents a distinct idea",
-      "— being turned towardsown thoughts, a shy person",
     ]
   },
     {
     numb: 354,
-    question: "panacea [pan—uh-see-uh]",
+    question: "panacea [pan—uh-see-uh]:para, beside, beyond, assistant",
     answer: "- a cure for alldiseases or problems",
     options: [
+      "half a line of poetry半行,",
       "- a cure for alldiseases or problems",
-      "- a fictitious name",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
-      " — the smallest possible unit oflight",
+      "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
+      "lasting through many years,多年生, perennial plants",
     ]
   },
     {
     numb: 355,
-    question: "panorama [pan—uh-ram-uh]",
+    question: "panorama [pan—uh-ram-uh]:para, beside, beyond, assistant",
     answer: "- an all-aroundview",
     options: [
-      "a short expression of a general truth,格言",
-      "— meaning no orexpressing refusal",
-      "sounding alike, 同音词,",
+      "— sea animal with eightarms",
       "- an all-aroundview",
+      "- clearly visible, clear tothe sight or understanding",
+      "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
     ]
   },
     {
     numb: 356,
-    question: "pantheism [pan-thee-iz—uh m]",
+    question: "pantheism [pan-thee-iz—uh m]:para, beside, beyond, assistant",
     answer: "- the worship ofall gods",
     options: [
-      " — gotten at birth, existingin or formed by nature",
       "- the worship ofall gods",
-      "the science of female reproductive health妇科",
-      "study of the chemical constitution of cells and tissues组织化学",
+      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
+      "- the final annualfootball game",
+      "- to carry goods out of aplace to another",
     ]
   },
     {
     numb: 357,
-    question: "pandemic[pan-dem-ik]",
+    question: "pandemic[pan-dem-ik]:pan, all, any, everyone",
     answer: "- affecting all",
     options: [
-      "— a relatively mild disordertypified by excessive anxiety",
-      "a word formed from the first letters of a word, 首字母缩略词",
       "- affecting all",
-      " -person in his or her eighties",
+      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
+      "being absolutely sure, I feel certain you are doing the right thing",
+      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
     ]
   },
     {
     numb: 358,
-    question: "paleontology [pey—lee—uh n—tol-uh-jee]",
+    question: "paleontology [pey—lee—uh n—tol-uh-jee]:pan, all, any, everyone",
     answer: "— studyof ancient fossils",
     options: [
+      "toxic and damaging to the liver, hepatotoxicity by drugs",
+      " — the act ofresistance or action against",
       "— studyof ancient fossils",
-      "— a groupof stars that forms a pattern",
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
-      "- truthful, honest",
+      "to state something clearly,宣布,the government has just declared a state of emerggency",
     ]
   },
     {
     numb: 359,
-    question: "paleography [pey—lee—og—ruh—fee]",
+    question: "paleography [pey—lee—og—ruh—fee]:pan, all, any, everyone",
     answer: "— the studyof ancient forms of writing",
     options: [
-      "the love of mankind",
-      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
-      "the act or process of forming or the state of being formed.编队",
+      " — a verystrong urge",
+      " — having aquarrelsome or aggressive nature",
+      "a powerful and high explosive,炸药,Fifth yards of track was blown up with dynamite",
       "— the studyof ancient forms of writing",
     ]
   },
     {
     numb: 360,
-    question: "paleolithic [pey—lee—uh-lith-ik]",
+    question: "paleolithic [pey—lee—uh-lith-ik]:pan, all, any, everyone",
     answer: "— period of theStone Age",
     options: [
-      "- a purple pigment inthe retina that is needed for vision",
-      " — caused by light,forming an attractive subject for photography",
       "— period of theStone Age",
-      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
+      "- the study ofreligion, god, etc.",
+      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
+      "to make alive, to give life to",
     ]
   },
     {
     numb: 361,
-    question: "oxymoron [ok-si—mawr-on]",
+    question: "oxymoron [ok-si—mawr-on]:pale, ancient",
     answer: "— combining twoideas that sharply contradict each other",
     options: [
-      "— more excitedthan one should be",
-      "— aiding to normalize digestion",
-      "being both male and female,雌雄同体的",
+      "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
+      " — inflammation of thekidneys",
       "— combining twoideas that sharply contradict each other",
+      "particle with a mass between an electron and a proton中子",
     ]
   },
     {
     numb: 362,
-    question: "oxidize [ok-si—dahyz]",
+    question: "oxidize [ok-si—dahyz]:pale, ancient",
     answer: "— corrode a surface",
     options: [
-      "able to last, patient, long-suffering",
-      "— to get ready in advance",
+      "- to cause tooccur at the same time",
+      " — a person in his/her seventies",
       "— corrode a surface",
-      "fear of height恐高症",
+      "— moreconfident than is appropriate",
     ]
   },
     {
     numb: 363,
-    question: "overconfident [oh—ver—kon-fi—duh nt]",
+    question: "overconfident [oh—ver—kon-fi—duh nt]:pale, ancient",
     answer: "— moreconfident than is appropriate",
     options: [
-      " — indirect control by a foreign power",
+      "to state something clearly,宣布,the government has just declared a state of emerggency",
       "— moreconfident than is appropriate",
-      "to use the mind, think or think about,脑洞大开",
-      "- a doctor, one who isskilled in the science of healing the body",
+      "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
+      "- to turn around",
     ]
   },
     {
     numb: 364,
-    question: "overstock [oh-ver-stok]",
+    question: "overstock [oh-ver-stok]:oxi, sharp",
     answer: "- more supplies than isdesirable",
     options: [
-      "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
-      "- relating to birth",
-      "someone who destroys religious images and trditional beliefs",
+      "— a person fluent in manylanguages",
+      "— used to be theseventh month in the Roman calendar",
+      "- relating to heat",
       "- more supplies than isdesirable",
     ]
   },
     {
     numb: 365,
-    question: "overexcited [oh—ver—ik—sahyt]",
+    question: "overexcited [oh—ver—ik—sahyt]:oxi, sharp",
     answer: "— more excitedthan one should be",
     options: [
+      "the treasury of a college or monastery,奖学金，学校金库",
       "— more excitedthan one should be",
-      "— reddish pigment inbile",
-      " — having aterribly bad smell",
-      " — true or real, notmade-up",
+      "flat tongue-shaped pasta扁面条,",
+      "— to drive someone out of aplace",
     ]
   },
     {
     numb: 366,
-    question: "outgoing [out-goh-ing]",
+    question: "outgoing [out-goh-ing]:over, excessive",
     answer: "- being of lively, sharingnature",
     options: [
-      "self-centered, 自我中心的, babies are entirely egocentric",
-      "- relating to time,enduring for a time only",
+      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
+      "— wise aboutthe ways of the world",
       "- being of lively, sharingnature",
-      "of or involving two sides, two-sided",
+      "- a plant that growsin dry climate",
     ]
   },
     {
     numb: 367,
-    question: "outdoing [out-doo]",
+    question: "outdoing [out-doo]:over, excessive",
     answer: "- doing better than",
     options: [
-      "the group of spectators at a public event",
-      "— alongside and always anequal distance apart",
+      "- relating to heat",
+      "— marked as worthy ofattention",
       "- doing better than",
-      "— a person who writes outdocuments",
+      "conversation between two people",
     ]
   },
     {
     numb: 368,
-    question: "outdoor [out-dawr]",
+    question: "outdoor [out-dawr]:over, excessive",
     answer: "- outside",
     options: [
-      " — a yellow papule ornodule in the skin, containing lipid deposits",
+      "- the first of a kind",
+      " — obsessionwith and usually erotic interest on corpses",
+      "-person in his/her sixties",
       "- outside",
-      "- to force someone to act",
-      "匿名的",
     ]
   },
     {
     numb: 369,
-    question: "osteoarthritis [os—tee—oh—ahr-thrahy-tis]",
+    question: "osteoarthritis [os—tee—oh—ahr-thrahy-tis]:out, goes beyond, surpasses, exceeds",
     answer: " —inflammation caused by degeneration of thejoints",
     options: [
-      "— deep red color and a preciousstone of the same color",
-      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
-      " — a species ofanimals with a big horn on the snout",
       " —inflammation caused by degeneration of thejoints",
+      " — a three—wheeledmotorcycle",
+      "a female airplane pilot女飞行员",
+      "resembling a human",
     ]
   },
     {
     numb: 370,
-    question: "osteopathy [os—tee—op—uh-thee]",
+    question: "osteopathy [os—tee—op—uh-thee]:out, goes beyond, surpasses, exceeds",
     answer: " — usesmanipulation of the skeleton to restore health",
     options: [
-      "a water container for fish",
-      "- a speech sound",
       " — usesmanipulation of the skeleton to restore health",
-      "- acrossthe continent",
+      "- feeling sleepy",
+      " — somethingthat is the first made or also living portion of aCell",
+      " — all of thepeople who live in a particular area",
     ]
   },
     {
     numb: 371,
-    question: "osteology [os—tee-ol-uh-jee]",
+    question: "osteology [os—tee-ol-uh-jee]:out, goes beyond, surpasses, exceeds",
     answer: " — the study ofbones",
     options: [
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
+      "in the shape of a tree, treelike form，树枝状,",
+      "any chemical used to kill unwanted plants, herbicide list",
       " — the study ofbones",
-      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
-      "an extensive flood, complete deluge,灾难，剧变",
+      "- a statementforetelling the future",
     ]
   },
     {
     numb: 372,
-    question: "orthodontist [awr—thuh—don-tiks]",
+    question: "orthodontist [awr—thuh—don-tiks]:osteo, bone",
     answer: " — a dentistthat straightens teeth",
     options: [
-      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
+      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
+      "- involving the sun",
+      "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
       " — a dentistthat straightens teeth",
-      "to remove from power, remove from any position",
-      " — to wind somethingbackward",
     ]
   },
     {
     numb: 373,
-    question: "orthopedic [awr-thuh-pee-dik]",
+    question: "orthopedic [awr-thuh-pee-dik]:osteo, bone",
     answer: "— a doctorconcerned with the proper alignment of thebones",
     options: [
-      "- hard to understand, notclear or plain; ambiguous",
+      "— one whowalks",
+      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
+      "intention to feel like another person",
       "— a doctorconcerned with the proper alignment of thebones",
-      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
-      "- contribution of one's thinking.",
     ]
   },
     {
     numb: 374,
-    question: "orthography [awr—thog-ruh-fee]",
+    question: "orthography [awr—thog-ruh-fee]:osteo, bone",
     answer: " — the straightor correct way of writing",
     options: [
-      " — the act ofresistance or action against",
-      "- to save or keepsomething safe",
+      "conversation between two people",
+      "a group of common minerals, calcium fluorophosphate, 磷灰石,",
       " — the straightor correct way of writing",
-      "a malleable silvery-white element of the alkaline earth group,钙",
+      "to remove from power, remove from any position",
     ]
   },
     {
     numb: 375,
-    question: "optimal [op—tuh—muh I]",
+    question: "optimal [op—tuh—muh I]:ortho, straight",
     answer: "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
     options: [
-      " — somethingthat bears or diffuses a scent",
+      "a book written by hand",
+      "- a first draft fromwhich a document is prepared",
+      "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
       "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
-      "an organism that has undergone change突变体, common mutation include down syndrome...",
-      "- a clever but misleadingargument",
     ]
   },
     {
     numb: 376,
-    question: "optimum [op-tuh—muh m]",
+    question: "optimum [op-tuh—muh m]:ortho, straight",
     answer: " - the best somethingcould be",
     options: [
+      "showing romantic love, especially sexual love",
       " - the best somethingcould be",
-      "extremely tiny, 微小的,",
-      "intense fear of water，",
-      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
+      "half a line of poetry半行,",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     ]
   },
     {
     numb: 377,
-    question: "optic [op-tik]",
+    question: "optic [op-tik]:ortho, straight",
     answer: "— relating to the eyes",
     options: [
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
       "— relating to the eyes",
-      " — having aquarrelsome or aggressive nature",
-      "— to drive someone out of aplace",
-      "a hard to ignore order",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
+      "showing romantic love, especially sexual love",
     ]
   },
     {
     numb: 378,
-    question: "optician [op—tish—uh n]",
+    question: "optician [op—tish—uh n]:opt, best",
     answer: "- a person who fitseyeglassesautopsylaw-top—see",
     options: [
-      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
-      "pertaining to the brain,大脑",
+      "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
+      "hatred towards men, 厌恶男性",
       "- a person who fitseyeglassesautopsylaw-top—see",
-      "a disconnection, the state of being disjoined",
+      " -— surgery ofthe nose",
     ]
   },
     {
     numb: 379,
-    question: "omnipotent [om-nip—uh-tuh nt]",
+    question: "omnipotent [om-nip—uh-tuh nt]:opt, best",
     answer: "- with all thepower",
     options: [
-      "- to turn around",
-      "- a newborn child,especially the first few weeks",
-      "- affecting the sense oftouch",
+      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
+      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
+      "— aiding to normalize digestion",
       "- with all thepower",
     ]
   },
     {
     numb: 380,
-    question: "omniscient [om-nish—-uh nt]",
+    question: "omniscient [om-nish—-uh nt]:op, eye, visual condition, sight",
     answer: "— knowing all things",
     options: [
-      " — of affecting asingle eye",
       "— knowing all things",
-      "the study or science of skull characteristics，颅骨学",
-      "- to stimulate or animate",
+      " — a species ofanimals with a big horn on the snout",
+      " — aconversation where discussion turned againsteach other",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
     ]
   },
     {
     numb: 381,
-    question: "omnivorous [om-niv—er-uh s]",
+    question: "omnivorous [om-niv—er-uh s]:op, eye, visual condition, sight",
     answer: "- eating all foods",
     options: [
-      "to stop from moving",
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "to go back, 后退，归还, the painful memories gradually receded in her mind, as the boat picked up speed, the coastline receded into the distance",
       "- eating all foods",
-      "变明亮",
-      "the study of ancient cultures, the study of antiquity,考古学",
+      " —existing outside the earth",
     ]
   },
     {
     numb: 382,
-    question: "deodorant [dee—oh-—der-uh nt]",
+    question: "deodorant [dee—oh-—der-uh nt]:omni, all",
     answer: " — a substancethat helps prevent body odor",
     options: [
-      "able to last, patient, long-suffering",
+      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      " — obsessionwith and usually erotic interest on corpses",
+      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
       " — a substancethat helps prevent body odor",
-      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
-      "the tumor of the liver",
     ]
   },
     {
     numb: 383,
-    question: "malodorous [mal—oh-der-uh s]",
+    question: "malodorous [mal—oh-der-uh s]:omni, all",
     answer: " — having aterribly bad smell",
     options: [
-      " — a three—wheeledmotorcycle",
-      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
+      "— to add remarks",
+      "a person's own signature, 签名",
       " — having aterribly bad smell",
-      "— a relatively mild disordertypified by excessive anxiety",
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
     ]
   },
     {
     numb: 384,
-    question: "odoriferous [oh—duh-rif—er—uh s]",
+    question: "odoriferous [oh—duh-rif—er—uh s]:omni, all",
     answer: " — somethingthat bears or diffuses a scent",
     options: [
-      "inflammation of the liver肝炎, in the state, the most common types of viral hepatitis are hepatitis A, hepatitis B and C",
-      " — the sciencedealing with x-rays or nuclear radiation",
-      "a female airplane pilot女飞行员",
+      "on fire, aflame, the whole mill was afire ",
+      "- the act or fact ofdetaining, putting somebody on hold",
+      " -— surgery ofthe nose",
       " — somethingthat bears or diffuses a scent",
     ]
   },
     {
     numb: 385,
-    question: "diode [dahy—ohd]",
+    question: "diode [dahy—ohd]:odor, smell, scent",
     answer: "- an electron tube having twoelectrodes, a cathode and an anode",
     options: [
-      "- a liquid isolated out ofanother",
-      "swelling of the blood vessels船只，痔疮,",
       "- an electron tube having twoelectrodes, a cathode and an anode",
-      "heavy particle such as proton, neutron, or any elementary particle重子",
+      " — without sense",
+      "- an electron tube having twoelectrodes, a cathode and an anode",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
     ]
   },
     {
     numb: 386,
-    question: "odometer [oh-dom-i-ter]",
+    question: "odometer [oh-dom-i-ter]:odor, smell, scent",
     answer: "— an instrumentattached to a vehicle to measure the distancetraversed",
     options: [
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
+      "to stop or interrupt, x intercept轴, y intercept formula,",
       "— an instrumentattached to a vehicle to measure the distancetraversed",
-      "- relating to cleanlinessand health",
-      "- pertaining to life, being the seator source of life",
-      "equal distance",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
     ]
   },
     {
     numb: 387,
-    question: "triode [trahy—ohd]",
+    question: "triode [trahy—ohd]:odor, smell, scent",
     answer: "- an electron tube with ananode, a cathode, and a control grid",
     options: [
+      "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
+      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
+      "- to spread throughout",
       "- an electron tube with ananode, a cathode, and a control grid",
-      "conversation between two people",
-      "— above average,better in quality",
-      "one hundred meters百米,1 hectometer equals 100 meters",
     ]
   },
     {
     numb: 388,
-    question: "binoculars [buh—-nok-yuh-ler]",
+    question: "binoculars [buh—-nok-yuh-ler]:od, path, way",
     answer: " — lens device forseeing distances",
     options: [
-      "— one whowalks",
-      "a place equipped to conduct work or experiments, 实验室,",
-      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
+      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
+      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
       " — lens device forseeing distances",
+      "outside the earth, extraterrestrial life",
     ]
   },
     {
     numb: 389,
-    question: "monocular [muh-nok-yuh-ler]",
+    question: "monocular [muh-nok-yuh-ler]:od, path, way",
     answer: " — of affecting asingle eye",
     options: [
+      " — a musicalinstrument with graduated series of woodenbars",
       " — of affecting asingle eye",
-      " — a wise person",
-      "- worshipingmore than one god or many gods",
-      "— poisonous",
+      " — a lookingback at past things",
+      "- an umbrella used toprotect from the sun",
     ]
   },
     {
     numb: 390,
-    question: "oculist L[ok-yuh-list]",
+    question: "oculist L[ok-yuh-list]:od, path, way",
     answer: " — an eye doctor",
     options: [
       " — an eye doctor",
-      "— the place orpoint where two things cross each other",
-      "- to say it didn't happen",
-      "- to move on, over, orthrough water, air, or land in a ship",
+      "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
+      "a set of false teeth, 7 types of dentures with crowns and bridges",
+      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
     ]
   },
     {
     numb: 391,
-    question: "octagon [ok-tuh-gon]",
+    question: "octagon [ok-tuh-gon]:ocu, eye",
     answer: "- a figure with eight sidesand eight angles",
     options: [
-      "disagreement, 争议, the new movie is a subject of controversy",
-      "- to formally break away from",
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
+      "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
+      "the highest ranking bishop(主教),大主教",
       "- a figure with eight sidesand eight angles",
+      "— faster thansound",
     ]
   },
     {
     numb: 392,
-    question: "octogenarian [ok—tuh—juh-nair—ee—uh n]",
+    question: "octogenarian [ok—tuh—juh-nair—ee—uh n]:ocu, eye",
     answer: " -person in his or her eighties",
     options: [
+      "inflammation炎 of the skin",
+      "easy to break",
       " -person in his or her eighties",
-      "- involving the sun",
-      "peculiar to a particular language",
-      "a person who gives or donates",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
     ]
   },
     {
     numb: 393,
-    question: "octopus [ok—tuh-puh s]",
+    question: "octopus [ok—tuh-puh s]:ocu, eye",
     answer: "— sea animal with eightarms",
     options: [
-      "- extremely high",
-      "flat tongue-shaped pasta扁面条,",
+      "inflammation炎 of the skin",
+      "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
       "— sea animal with eightarms",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "resulting from heart disease,心源性的,",
     ]
   },
     {
     numb: 394,
-    question: "object [ob-jekt]",
+    question: "object [ob-jekt]:oct, eight",
     answer: "- to be against something",
     options: [
-      "pertaining to pressure, esp. of the atmosphere气压",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "malignant dark tumor of the skin",
+      "a blue-white metallic chemical element,铬",
       "- to be against something",
-      "- underlyingframework of a system",
-      "- a four—footedanimal",
     ]
   },
     {
     numb: 395,
-    question: "obscure [uh b-skyoo r]",
+    question: "obscure [uh b-skyoo r]:oct, eight",
     answer: "- hard to understand, notclear or plain; ambiguous",
     options: [
-      "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
-      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
-      "a pipeline for water,沟渠",
+      " —a false pregnancy",
       "- hard to understand, notclear or plain; ambiguous",
+      "the ability to move objects with you mind",
+      "— a story",
     ]
   },
     {
     numb: 396,
-    question: "opposition [op—uh-zish-uh n]",
+    question: "opposition [op—uh-zish-uh n]:oct, eight",
     answer: " — the act ofresistance or action against",
     options: [
-      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
-      "— meat—eating",
+      " — having aquarrelsome or aggressive nature",
+      "a word formed from the first letters of a word, 首字母缩略词",
+      "ancestor, forefathers,祖先,",
       " — the act ofresistance or action against",
-      "— requiring small amounts ofmoisture",
     ]
   },
     {
     numb: 397,
-    question: "enumerate [ih-noo—muh-reyt]",
+    question: "enumerate [ih-noo—muh-reyt]:ob, in the way, against",
     answer: "— to name anumber of items on a list",
     options: [
+      " flowers with golden/yellow color streaks or center,菊花",
       "— to name anumber of items on a list",
-      "to fill with light,照亮,解释,",
-      "a hard to ignore order",
-      " — an eye doctor",
+      "scieence of symbols and icons",
+      "towards the inside,内向,what would it do to inward investment?",
     ]
   },
     {
     numb: 398,
-    question: "innovate [in—-uh—veyt]",
+    question: "innovate [in—-uh—veyt]:ob, in the way, against",
     answer: "- to introduce a new way",
     options: [
-      "- used so often as to have lostinterest, freshness, or force",
       "- to introduce a new way",
-      " — true or real, notmade-up",
-      "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
+      " — all of thepeople who live in a particular area",
+      " — to come with a product ofone's own ingenuity",
+      " — the straightor correct way of writing",
     ]
   },
     {
     numb: 399,
-    question: "novelty [nov—uh |-tee]",
+    question: "novelty [nov—uh |-tee]:ob, in the way, against",
     answer: "— something new (for anitem or thing)",
     options: [
-      "without water",
+      "- a statementforetelling the future",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
       "— something new (for anitem or thing)",
-      " — having aquarrelsome or aggressive nature",
-      "a person who resists any authority,造反，反叛，叛逆",
+      "intention to feel like another person",
     ]
   },
     {
     numb: 400,
-    question: "novice [nov-is]",
+    question: "novice [nov-is]:numer, number",
     answer: "- a person who is new at a job",
     options: [
       "- a person who is new at a job",
-      " - the best somethingcould be",
-      " — a dentistthat straightens teeth",
-      "— relating to someone whohas supernatural mental abilities",
+      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
+      "— an act of exposingsomething as invalid or baseless",
+      " — to produce with yourvoice, utter, articulate, sing",
     ]
   },
     {
     numb: 401,
-    question: "renovate [ren—uh—veyt]",
+    question: "renovate [ren—uh—veyt]:nov, new",
     answer: "- to make somethinglike new again",
     options: [
-      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
+      "- a part in front of aformal document",
+      "- to say it didn't happen",
       "- to make somethinglike new again",
-      "- the act or fact ofdetaining, putting somebody on hold",
-      "- a digestive enzyme",
+      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
     ]
   },
     {
     numb: 402,
-    question: "numerology [noo—muh-rol-uh-jee]",
+    question: "numerology [noo—muh-rol-uh-jee]:nov, new",
     answer: "— the study",
     options: [
+      "- a four—footedanimal",
+      "towards the inside,内向,what would it do to inward investment?",
+      "— partlyconscious",
       "— the study",
-      "clotting凝血 of the blood,出血,",
-      "to go back, 后退，归还, the painful memories gradually receded in her mind, as the boat picked up speed, the coastline receded into the distance",
-      "- viruses thatare causing the common cold",
     ]
   },
     {
     numb: 403,
-    question: "announce [uh-nouns]",
+    question: "announce [uh-nouns]:nov, new",
     answer: "- to declare in public numerous [noo-mer-uh s",
     options: [
-      "- to put off doingsomething",
+      "— a person whoplaces him/herself against an action",
+      " — the act ofresistance or action against",
+      "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
       "- to declare in public numerous [noo-mer-uh s",
-      "a scientific observer of the celestial(天上的) bodies,天文学家",
-      " —to spring back again",
     ]
   },
     {
     numb: 404,
-    question: "denounce [dih—-nouns]",
+    question: "denounce [dih—-nouns]:nov, new",
     answer: "- to proclaim harshcriticism",
     options: [
-      "the cross itself as a christian emblem, 十字架",
-      " -person in his or her eighties",
       "- to proclaim harshcriticism",
-      "— used to be theseventh month in the Roman calendar",
+      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
+      " — inflammation of thekidneys",
+      " umbrella protecting fromthe sun",
     ]
   },
     {
     numb: 405,
-    question: "enunciate [in-nuhn—see-eyt]",
+    question: "enunciate [in-nuhn—see-eyt]:noun, declare",
     answer: "- to speak ordeclare something clearly",
     options: [
-      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
+      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
       "- to speak ordeclare something clearly",
-      "不道德的",
-      " —inflammation caused by degeneration of thejoints",
+      "the tumor of the liver",
+      "flowerlike",
     ]
   },
     {
     numb: 406,
-    question: "notable [noh—tuh-buh |]",
+    question: "notable [noh—tuh-buh |]:noun, declare",
     answer: "— marked as worthy ofattention",
     options: [
-      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
-      " — to come in agathering or assembly of people",
+      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
+      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
+      "— a vehicle withone wheel",
       "— marked as worthy ofattention",
-      " — unclearexpressions, usually to avoid commitment andmislead",
     ]
   },
     {
     numb: 407,
-    question: "notarize [noh—-tuh-rahyz]",
+    question: "notarize [noh—-tuh-rahyz]:noun, declare",
     answer: "- to certify a signatureon a legal document",
     options: [
+      "- the study ofpoisons",
       "- to certify a signatureon a legal document",
-      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
-      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
-      "- the systematic arrangementof words",
+      " — piercing smell",
+      "- to spread throughout",
     ]
   },
     {
     numb: 408,
-    question: "annotate [an—uh-teyt]",
+    question: "annotate [an—uh-teyt]:noun, declare",
     answer: "— to add remarks",
     options: [
+      " — to come in agathering or assembly of people",
+      "- used so often as to have lostinterest, freshness, or force",
+      "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
       "— to add remarks",
-      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
-      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
-      "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
     ]
   },
     {
     numb: 409,
-    question: "nondescript [non—di-skript]",
+    question: "nondescript [non—di-skript]:not, mark",
     answer: "— with no specialcharacteristics",
     options: [
-      "- sixfold",
+      "- included since birth",
+      "- to carry, move, orconvey from one place to another",
       "— with no specialcharacteristics",
-      "relating to teeth",
-      "- to cause tooccur at the same time",
+      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     ]
   },
     {
     numb: 410,
-    question: "nonfiction [non—-fik—shuh n]",
+    question: "nonfiction [non—-fik—shuh n]:not, mark",
     answer: " — true or real, notmade-up",
     options: [
+      "a list of books used as sources, a list of materials,参考书目",
       " — true or real, notmade-up",
-      "- being something in nameonly but not in reality",
-      "the middle muscle of the heart心机, ",
-      " — a verystrong urge",
+      "a waiting room",
+      "— a vehicle withone wheel",
     ]
   },
     {
     numb: 411,
-    question: "nonsense [non-sens]",
+    question: "nonsense [non-sens]:not, mark",
     answer: " — without sense",
     options: [
-      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
+      "— relating to someone whohas supernatural mental abilities",
+      "- doing better than",
+      "the science of life or living matter in all its forms,生物学",
       " — without sense",
-      "equal distance",
-      "- an all-aroundview",
     ]
   },
     {
     numb: 412,
-    question: "misnomer [mis—noh-mer]",
+    question: "misnomer [mis—noh-mer]:non, no, not, without",
     answer: "- an error in naming aperson or thing",
     options: [
-      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
-      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
-      "- shape with three or morestraight sides",
+      " — to spread or branch out",
+      " — a device thatrecords and amplifies sound",
       "- an error in naming aperson or thing",
+      "relating to the heart",
     ]
   },
     {
     numb: 413,
-    question: "nominal [nom-uh-nl]",
+    question: "nominal [nom-uh-nl]:non, no, not, without",
     answer: "- being something in nameonly but not in reality",
     options: [
-      "able to last, patient, long-suffering",
-      " — theperson next in rank to the president",
-      "affecting one side or involving one side only单方面, examples of unilateral contract example",
+      "- to cause tooccur at the same time",
+      "- a list personswho have recently died",
       "- being something in nameonly but not in reality",
+      "- able to be touched",
     ]
   },
     {
     numb: 414,
-    question: "nominate [nom—uh-neyt]",
+    question: "nominate [nom—uh-neyt]:non, no, not, without",
     answer: "- to name someonefor election or to designate",
     options: [
+      "— sea animal with eightarms",
+      " flowers with golden/yellow color streaks or center,菊花",
       "- to name someonefor election or to designate",
-      "— a branchlike part",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-      "put into power, to enable or permit",
+      "of or involving two sides, two-sided",
     ]
   },
     {
     numb: 415,
-    question: "neuralgia [noo-ral—juh]",
+    question: "neuralgia [noo-ral—juh]:nom, name",
     answer: "— pain along a nerve",
     options: [
-      "— knowing all things",
       "— pain along a nerve",
-      "—- fatherhood",
-      " —to spring back again",
+      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "a blue-white metallic chemical element,铬",
+      "white, glowing, or luminous with intense heat，白织灯",
     ]
   },
     {
     numb: 416,
-    question: "neurologist[noo-rol—uh-jist]",
+    question: "neurologist[noo-rol—uh-jist]:nom, name",
     answer: "— doctorspecializing in the nerves",
     options: [
-      "belief in there is only one god, ",
       "— doctorspecializing in the nerves",
-      "- to stimulate or animate",
-      "a sharp tooth for cutting food, 门牙",
+      " — inflammation of thekidneys",
+      "the quality of being able to move",
+      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
     ]
   },
     {
     numb: 417,
-    question: "neurotic [noo-rot-ik]",
+    question: "neurotic [noo-rot-ik]:nom, name",
     answer: "— a relatively mild disordertypified by excessive anxiety",
     options: [
-      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
-      "- lasting throughmany years",
-      "- a person who is new at a job",
+      "— something new (for anitem or thing)",
+      "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
+      "- to say it didn't happen",
       "— a relatively mild disordertypified by excessive anxiety",
     ]
   },
     {
     numb: 418,
-    question: "nephritis [nuh-frahy-tis]",
+    question: "nephritis [nuh-frahy-tis]:neur, nerve",
     answer: " — inflammation of thekidneys",
     options: [
-      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
-      "- to save something",
-      "— meaning no orexpressing refusal",
+      "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
+      "- a doctor, one who isskilled in the science of healing the body",
       " — inflammation of thekidneys",
+      "— to go back to anearlier condition",
     ]
   },
     {
     numb: 419,
-    question: "nephrotomy [nuh-frot-uh—mee]",
+    question: "nephrotomy [nuh-frot-uh—mee]:neur, nerve",
     answer: " — surgicalincision of a kidney",
     options: [
-      "l- a group of greenpigments found in leaves",
       " — surgicalincision of a kidney",
-      "without color, achromatic colors are all shades of black, white and grey",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
+      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
+      " — to continue through for along time",
     ]
   },
     {
     numb: 420,
-    question: "nephron [nef-ron]",
+    question: "nephron [nef-ron]:neur, nerve",
     answer: " — a single, excretory unit inthe kidney",
     options: [
-      "to remove from power, remove from any position",
-      "an extreme love of books, 藏书狂",
-      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
       " — a single, excretory unit inthe kidney",
+      "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
+      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
+      "- a plant growingindependently on the surface of another",
     ]
   },
     {
     numb: 421,
-    question: "neoclassic [nee—oh-klas-ik]",
+    question: "neoclassic [nee—oh-klas-ik]:nephr, kidney",
     answer: "— a revival ofclassic form",
     options: [
-      "a pipeline for water,沟渠",
-      " — rule oftechnology where the system of government isbased",
-      "— an underwaterboat",
+      "- to move on, over, orthrough water, air, or land in a ship",
       "— a revival ofclassic form",
+      "any instrument that measures atomospheric pressure气压表",
+      " — a dentistthat straightens teeth",
     ]
   },
     {
     numb: 422,
-    question: "neocolonialism [nee—oh—kuh—loh—nee—uh-liz—uhm]",
+    question: "neocolonialism [nee—oh—kuh—loh—nee—uh-liz—uhm]:nephr, kidney",
     answer: " — indirect control by a foreign power",
     options: [
       " — indirect control by a foreign power",
-      "— the study",
-      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
-      "to state something clearly,宣布,the government has just declared a state of emerggency",
+      "affecting one side or involving one side only单方面, examples of unilateral contract example",
+      "flowers with golden color streaks or center,腊菊",
+      "- worshipingmore than one god or many gods",
     ]
   },
     {
     numb: 423,
-    question: "neonatal [nee—oh-neyt-I]",
+    question: "neonatal [nee—oh-neyt-I]:nephr, kidney",
     answer: "- a newborn child,especially the first few weeks",
     options: [
-      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
       "- a newborn child,especially the first few weeks",
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
+      " — a wise person",
+      " - a rock that forms sheets,similar to slate",
     ]
   },
     {
     numb: 424,
-    question: "negate [ni-geyt]",
+    question: "negate [ni-geyt]:neo, new, recent",
     answer: "- to say it didn't happen",
     options: [
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-      "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
-      "— unable to pay becauseyou are broke",
+      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
+      "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
       "- to say it didn't happen",
+      "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
     ]
   },
     {
     numb: 425,
-    question: "negative [neg—-uh-tiv]",
+    question: "negative [neg—-uh-tiv]:neo, new, recent",
     answer: "— meaning no orexpressing refusal",
     options: [
-      "a person's own signature, 签名",
       "— meaning no orexpressing refusal",
-      "loud enough to be heard, actually heard",
-      "- a statementforetelling the future",
+      "a group of common minerals, calcium fluorophosphate, 磷灰石,",
+      "— a person whoplaces him/herself against an action",
+      "one thousandth of a bar毫巴，压强单位",
     ]
   },
     {
     numb: 426,
-    question: "renege [ri-nig]",
+    question: "renege [ri-nig]:neo, new, recent",
     answer: "- to go back on a promise, tobreak a rule of play",
     options: [
-      "- to carry, move, orconvey from one place to another",
-      "- a word relating to a verb",
+      "- an all-aroundview",
       "- to go back on a promise, tobreak a rule of play",
-      "the treasury of a college or monastery,奖学金，学校金库",
+      "— with nothing missing",
+      "the middle muscle of the heart心机, ",
     ]
   },
     {
     numb: 427,
-    question: "necrophilia [nek—-ruh—fil-ee—uh]",
+    question: "necrophilia [nek—-ruh—fil-ee—uh]:neg, no",
     answer: " — obsessionwith and usually erotic interest on corpses",
     options: [
+      "— an element whichproduces a red solution",
+      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
       " — obsessionwith and usually erotic interest on corpses",
-      "- to put into words",
-      "- to make sure thatsomething is true",
-      "feeling of well being, 快感, I was in a state of euphoria all day",
+      "- sixfold",
     ]
   },
     {
     numb: 428,
-    question: "necrosis [nuh—-kroh-sis]",
+    question: "necrosis [nuh—-kroh-sis]:neg, no",
     answer: "- the death of tissuedue to disease or injury",
     options: [
-      "a set of false teeth, 7 types of dentures with crowns and bridges",
-      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      " — aconversation where discussion turned againsteach other",
       "- the death of tissuedue to disease or injury",
-      " — a seeinginstrument on a submarine",
+      "— combining twoideas that sharply contradict each other",
     ]
   },
     {
     numb: 429,
-    question: "necrology [nuh-krol—uh-jee]",
+    question: "necrology [nuh-krol—uh-jee]:neg, no",
     answer: "- a list personswho have recently died",
     options: [
       "- a list personswho have recently died",
-      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
-      " — an eye doctor",
-      "toxic and damaging to the liver, hepatotoxicity by drugs",
+      "- the conquest of anenemy, success or triumph",
+      "— a man who rules agroup",
+      "someone working with flowers,  a grower of flowers",
     ]
   },
     {
     numb: 430,
-    question: "circumnavigate [sur—kuh m—nav-—i-geyt]",
+    question: "circumnavigate [sur—kuh m—nav-—i-geyt]:necr, dead, death",
     answer: "- to sailaround a place",
     options: [
-      "— abnormal digestion",
-      "a female airplane pilot女飞行员",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      "ten years",
+      " — surgicalincision of a kidney",
+      "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
       "- to sailaround a place",
     ]
   },
     {
     numb: 431,
-    question: "naval [ney—vuh I]",
+    question: "naval [ney—vuh I]:necr, dead, death",
     answer: "- relating to a navy or warships",
     options: [
-      "— a story",
-      "a governing body consisting of old people,老人政治,",
-      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
+      "a miniature universe, 微观世界",
+      "- relating to the body",
       "- relating to a navy or warships",
+      "malignant dark tumor of the skin",
     ]
   },
     {
     numb: 432,
-    question: "navigate [nav—i—geyt]",
+    question: "navigate [nav—i—geyt]:necr, dead, death",
     answer: "- to move on, over, orthrough water, air, or land in a ship",
     options: [
-      "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
+      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      "formerly the tenth month of the roman calendar",
+      "to burn with a hot instrument,烙，灼烧",
       "- to move on, over, orthrough water, air, or land in a ship",
-      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
-      "— an underwaterboat",
     ]
   },
     {
     numb: 433,
-    question: "innate [ih—neyt]",
+    question: "innate [ih—neyt]:nav, ship",
     answer: "- included since birth",
     options: [
+      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
+      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
       "- included since birth",
-      "- outside",
-      "skull of vertebrates,颅骨,what does cranium do?",
-      "to isolate, shut off, keep apart,隔离, this place was quiet and secluded",
+      "— a twistedshape or position",
     ]
   },
     {
     numb: 434,
-    question: "natal[neyt-l]",
+    question: "natal[neyt-l]:nav, ship",
     answer: "- relating to birth",
     options: [
-      "— knowing all things",
+      "a certificate,literally a letter folded double 文凭",
+      "this colledge is a mediocrity's catpital平庸之都",
       "- relating to birth",
-      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
-      "- relating to birth",
+      " — ground or land",
     ]
   },
     {
     numb: 435,
-    question: "natural [nach-er-uh |]",
+    question: "natural [nach-er-uh |]:nav, ship",
     answer: " — gotten at birth, existingin or formed by nature",
     options: [
+      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
       " — gotten at birth, existingin or formed by nature",
-      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
-      "- a purple pigment inthe retina that is needed for vision",
-      "- every halfyear",
+      "the science of people and races,民族学",
+      "— having parts orelements strongly holding to each other",
     ]
   },
     {
     numb: 436,
-    question: "narrate [nar-eyt]",
+    question: "narrate [nar-eyt]:nat, born",
     answer: "- to tell a story",
     options: [
-      "half a line of poetry半行,",
-      "person who moves from place to place",
+      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
+      "匿名的",
+      "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
       "- to tell a story",
-      "a disconnection, the state of being disjoined",
     ]
   },
     {
     numb: 437,
-    question: "narrative [nar—uh-—tiv]",
+    question: "narrative [nar—uh-—tiv]:nat, born",
     answer: "— a story",
     options: [
+      "— a prediction of whatwill happen",
       "— a story",
-      "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
-      "- relating to the body",
-      "- viruses thatare causing the common cold",
+      "- to delay something",
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
     ]
   },
     {
     numb: 438,
-    question: "narrator [nar—ey—ter]",
+    question: "narrator [nar—ey—ter]:nat, born",
     answer: "— a person who tells astory",
     options: [
-      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
-      " — to someone out",
+      " — usesmanipulation of the skeleton to restore health",
+      "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
       "— a person who tells astory",
-      "measurement, pertaining to the meter",
+      "not changing",
     ]
   },
     {
     numb: 439,
-    question: "myocardium",
+    question: "myocardium:narr, tell",
     answer: "the middle muscle of the heart心机, ",
     options: [
-      "a generator of energy,发电机",
-      " — maintenance ofpublic health and cleanliness",
+      "— a branchlike part",
       "the middle muscle of the heart心机, ",
-      "to work out the details精心制作的,she drew an elaborate design",
+      "— be stationed",
+      "inflammation炎 of the skin",
     ]
   },
     {
     numb: 440,
-    question: "myasthenia",
+    question: "myasthenia:narr, tell",
     answer: "muscle fatigue or weakness肌无力,",
     options: [
-      "the primitive layer of cells from the segmentation of the ovum,胚层",
-      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
-      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
       "muscle fatigue or weakness肌无力,",
+      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
+      "- a doctor, one who isskilled in the science of healing the body",
+      "— a man who rules agroup",
     ]
   },
     {
     numb: 441,
-    question: "myosin",
+    question: "myosin:narr, tell",
     answer: "common protein in muscle tissue,肌球蛋白",
     options: [
+      "— a twistedshape or position",
+      "showing romantic love, especially sexual love",
+      "— a man who rules agroup",
       "common protein in muscle tissue,肌球蛋白",
-      "- relating to cleanlinessand health",
-      "- to turn around",
-      "— the love of words",
     ]
   },
     {
     numb: 442,
-    question: "immutable",
+    question: "immutable:my/myo, muscle",
     answer: "not changing",
     options: [
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      " — the straightor correct way of writing",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
       "not changing",
-      "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
-      "— relating to stars",
+      "freedom",
     ]
   },
     {
     numb: 443,
-    question: "mutant",
+    question: "mutant:my/myo, muscle",
     answer: "an organism that has undergone change突变体, common mutation include down syndrome...",
     options: [
-      "- to cut into two equal parts",
-      "- affecting all",
       "an organism that has undergone change突变体, common mutation include down syndrome...",
-      "- clearly visible, clear tothe sight or understanding",
+      "— worthy of beingapplauded",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
+      "any chemical used to kill unwanted plants, herbicide list",
     ]
   },
     {
     numb: 444,
-    question: "mutate",
+    question: "mutate:my/myo, muscle",
     answer: "to undergo a change变异,how to use mutate function in R",
     options: [
+      "— a man who rules agroup",
+      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      "— used to be theseventh month in the Roman calendar",
       "to undergo a change变异,how to use mutate function in R",
-      "relating to teeth",
-      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
-      "color of sea water海洋的碧绿色,aquamarine stone",
     ]
   },
     {
     numb: 445,
-    question: "metamorphosis",
+    question: "metamorphosis:mut, change",
     answer: "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
     options: [
-      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
-      " — a beginner, startingto grow",
       "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
-      "put into power, to enable or permit",
+      "easy to break",
+      "inflammation of the liver肝炎, in the state, the most common types of viral hepatitis are hepatitis A, hepatitis B and C",
+      "an extensive flood, complete deluge,灾难，剧变",
     ]
   },
     {
     numb: 446,
-    question: "endorphins",
+    question: "endorphins:mut, change",
     answer: "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
     options: [
-      "— between the stars",
       "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
-      "— abnormallyexcessive bowel movement",
-      "without color, achromatic colors are all shades of black, white and grey",
+      "— a man who rules agroup",
+      " — to come in agathering or assembly of people",
+      " — to spread or branch out",
     ]
   },
     {
     numb: 447,
-    question: "amorphous",
+    question: "amorphous:mut, change",
     answer: "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
     options: [
-      "an organism that has undergone change突变体, common mutation include down syndrome...",
+      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
       "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
-      "a treasurer, especially of a college or university,大学财务主管",
-      " — the smallest possible unit oflight",
+      "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
+      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
     ]
   },
     {
     numb: 448,
-    question: "motion",
+    question: "motion:orph/morph/morpho, form",
     answer: "the act of moving",
     options: [
-      "- every halfyear",
-      "a powerful and high explosive,炸药,Fifth yards of track was blown up with dynamite",
-      "resulting from heart disease,心源性的,",
+      "flowers with golden color streaks or center,腊菊",
+      "to remove bugs from software program",
       "the act of moving",
+      " — a device thatrecords and amplifies sound",
     ]
   },
     {
     numb: 449,
-    question: "motivate",
+    question: "motivate:orph/morph/morpho, form",
     answer: "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
     options: [
-      "a shape with six angles or sides",
-      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "a measure of storage capacity equal to bytes,GB，",
+      "— a relatively mild disordertypified by excessive anxiety",
+      "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
       "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
     ]
   },
     {
     numb: 450,
-    question: "removable",
+    question: "removable:orph/morph/morpho, form",
     answer: "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
     options: [
-      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
+      "being absolutely sure, I feel certain you are doing the right thing",
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      " — instrument formeasuring hardness",
       "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
-      "— to place out into the openfor all to see",
-      "— period of theStone Age",
     ]
   },
     {
     numb: 451,
-    question: "monochromat",
+    question: "monochromat:mot/mov, move",
     answer: "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
     options: [
-      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
-      "a word that joins parts of sentences",
+      "swelling of the blood vessels船只，痔疮,",
+      "the study of ancient cultures, the study of antiquity,考古学",
+      "to give an advance warning of something bad, be an omen 预示,",
       "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
-      " — the outer boundaryof an area",
     ]
   },
     {
     numb: 452,
-    question: "monologue",
+    question: "monologue:mot/mov, move",
     answer: "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
     options: [
+      "to work out the details精心制作的,she drew an elaborate design",
+      "— something built orconstructed, as a building, bridge, or dam",
+      " — the sciencedealing with x-rays or nuclear radiation",
       "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
-      "excessive or extreme emotional tensseness，ususally means high blood pressure.",
-      "— to go back to anearlier condition",
-      "— requiring small amounts ofmoisture",
     ]
   },
     {
     numb: 453,
-    question: "monotheism",
+    question: "monotheism:mot/mov, move",
     answer: "belief in there is only one god, ",
     options: [
-      "- a proposition for discussion orput an unifying view",
-      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
-      "abnormally low body temperature",
       "belief in there is only one god, ",
+      "- to say it didn't happen",
+      "replacing an offensive word with an inoffensive one委婉语, we have to let you go, tyler, this is a euphemism means fire you",
+      "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
     ]
   },
     {
     numb: 454,
-    question: "immobilize",
+    question: "immobilize:mon/mono, single/one/alone",
     answer: "to stop from moving",
     options: [
-      " flowers with golden/yellow color streaks or center,菊花",
-      "the early developmental stage of an animal,囊胚",
-      "- a first draft fromwhich a document is prepared",
       "to stop from moving",
+      "flowers with golden color streaks or center,腊菊",
+      "— to keep away from",
+      "— a group of seven musicians",
     ]
   },
     {
     numb: 455,
-    question: "mobility",
+    question: "mobility:mon/mono, single/one/alone",
     answer: "the quality of being able to move",
     options: [
       "the quality of being able to move",
-      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
-      "having equal or constant temperature, A fridge works isothermally",
-      "- relating to time,enduring for a time only",
+      "to work out the details精心制作的,she drew an elaborate design",
+      "a Russian astronaut",
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
     ]
   },
     {
     numb: 456,
-    question: "misbehave",
+    question: "misbehave:mon/mono, single/one/alone",
     answer: "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
     options: [
-      "- used so often as to have lostinterest, freshness, or force",
+      "- to make fun or mock",
       "to behave badly, children commonly misbehave when they are deprived of adult attention or when they are tired/bored",
-      "white, glowing, or luminous with intense heat，白织灯",
-      "lasting through many years,多年生, perennial plants",
+      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
+      "— cosmetic treatment offeet and toes",
     ]
   },
     {
     numb: 457,
-    question: "misprint",
+    question: "misprint:mob, move",
     answer: "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
     options: [
-      " — a three—wheeledmotorcycle",
-      "- a small platform tostand on",
-      "- a word relating to a verb",
+      "an insane person疯子,a person suffering from mania",
+      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      "- pull out at the roots",
       "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
     ]
   },
     {
     numb: 458,
-    question: "misnomer",
+    question: "misnomer:mob, move",
     answer: "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
     options: [
-      " — a species ofanimals with a big horn on the snout",
+      "a malleable silvery-white element of the alkaline earth group,钙",
+      " -— surgery ofthe nose",
       "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
-      " — the smallest possible unit oflight",
-      "an instrument that measures hearing acuteness",
+      "- relating to heat",
     ]
   },
     {
     numb: 459,
-    question: "minuscule[min-uh-skyool]",
+    question: "minuscule[min-uh-skyool]:mis/miso, bad/badly/wrong/wrongly/to hate",
     answer: "extremely tiny, 微小的,",
     options: [
-      "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
-      "common protein in muscle tissue,肌球蛋白",
+      "- the final annualfootball game",
+      "inflammation of a joint,关节炎",
+      "— to disagree with whatanother person thinks",
       "extremely tiny, 微小的,",
-      "an order or instruction",
     ]
   },
     {
     numb: 460,
-    question: "minutiae[mi-noo-shee-uh]",
+    question: "minutiae[mi-noo-shee-uh]:mis/miso, bad/badly/wrong/wrongly/to hate",
     answer: "very small or trivial details细节, the minutiae of everyday life",
     options: [
-      "to undergo a change变异,how to use mutate function in R",
       "very small or trivial details细节, the minutiae of everyday life",
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      "a shady area formed by trees,凉亭",
+      "the treasury of a college or monastery,奖学金，学校金库",
+      " — somethingthat bears or diffuses a scent",
+      "- every halfof a year",
     ]
   },
     {
     numb: 461,
-    question: "millimeter",
+    question: "millimeter:mis/miso, bad/badly/wrong/wrongly/to hate",
     answer: "one thousandth of a meter毫米,",
     options: [
-      "- truth",
+      "— nature and shape of one'sbody",
       "one thousandth of a meter毫米,",
-      "turning for the worst, a substantial disaster,灾难",
-      "very small or trivial details细节, the minutiae of everyday life",
+      "one thousandth of a bar毫巴，压强单位",
+      "one who studies languages, he was already a good linguist, understanding 4 languages",
     ]
   },
     {
     numb: 462,
-    question: "millibar",
+    question: "millibar:min/mini, small/less",
     answer: "one thousandth of a bar毫巴，压强单位",
     options: [
+      "to argue against, 顶撞，抗辩,she dared not contradict him",
+      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
       "one thousandth of a bar毫巴，压强单位",
-      "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
-      "lasting through many years,多年生, perennial plants",
-      " — attracted toforeigners",
+      "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
     ]
   },
     {
     numb: 463,
-    question: "milliliter",
+    question: "milliliter:min/mini, small/less",
     answer: "one thousandth of a liter(升)千分之一升",
     options: [
+      "one half of the earth or sphere半球",
       "one thousandth of a liter(升)千分之一升",
-      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
-      " — the study ofbones",
-      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
+      "the process of moving to another place移民",
+      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
     ]
   },
     {
     numb: 464,
-    question: "immigrant",
+    question: "immigrant:milli, one thousandth",
     answer: "a person who moves to a new country to settle",
     options: [
-      "opposing social norm, 反社会的",
       "a person who moves to a new country to settle",
-      "a fiber optics instrument used to see inside a joint,关节镜",
-      "- to cut into two equal parts",
+      " — somethingthat is the first made or also living portion of aCell",
+      "ancestor, forefathers,祖先,",
+      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
     ]
   },
     {
     numb: 465,
-    question: "migrant",
+    question: "migrant:milli, one thousandth",
     answer: "person who moves from place to place",
     options: [
+      " — a yellow papule ornodule in the skin, containing lipid deposits",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
+      " — usesmanipulation of the skeleton to restore health",
       "person who moves from place to place",
-      "one of the commonest minerals, calcium carbonate,方解石",
-      "- contribution of one's thinking.",
-      " — of or going to the root ororigin; fundamental",
     ]
   },
     {
     numb: 466,
-    question: "migration",
+    question: "migration:milli, one thousandth",
     answer: "the process of moving to another place移民",
     options: [
-      "- theoriespresumed without proof of a scientific nature",
-      "— producing loud, full,rich sounds",
+      "this colledge is a mediocrity's catpital平庸之都",
+      "the ability to move objects with you mind",
+      "very small or trivial details细节, the minutiae of everyday life",
       "the process of moving to another place移民",
-      "- talking in yoursleep",
     ]
   },
     {
     numb: 467,
-    question: "midriff",
+    question: "midriff:migr, move",
     answer: "the area between the chest and the waist(腰部)上腹",
     options: [
-      "— a composition for fivevoices or instruments",
+      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
+      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
       "the area between the chest and the waist(腰部)上腹",
-      "a woman head of a household女族长,",
-      "-person in his/her sixties",
+      "- talking in yoursleep",
     ]
   },
     {
     numb: 468,
-    question: "audiometer",
+    question: "audiometer:migr, move",
     answer: "an instrument that measures hearing acuteness",
     options: [
-      "the surface of the moon",
-      "— as one voice",
-      "to use the mind, think or think about,脑洞大开",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
       "an instrument that measures hearing acuteness",
+      "a mature white blood cell白细胞",
+      "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
     ]
   },
     {
     numb: 469,
-    question: "chronometer",
+    question: "chronometer:migr, move",
     answer: "an instrument that measures time",
     options: [
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
-      "- to declare in public numerous [noo-mer-uh s",
+      "- the worship ofall gods",
+      "to stop or interrupt, x intercept轴, y intercept formula,",
       "an instrument that measures time",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
+      "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
     ]
   },
     {
     numb: 470,
-    question: "metric",
+    question: "metric:mid, middle",
     answer: "measurement, pertaining to the meter",
     options: [
       "measurement, pertaining to the meter",
-      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
-      "— the only one of its kind",
-      " — a device thatrecords and amplifies sound",
+      "— marked as worthy ofattention",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "— the arrangement ofleaves on a stem",
     ]
   },
     {
     numb: 471,
-    question: "metaphysics",
+    question: "metaphysics:meter, measure",
     answer: "study of nature and reality形而上学，玄学, metaphysics-stanford encyclopedia of philosophy",
     options: [
-      "— above average,better in quality",
-      "the branch of physics that deals with energy能量学, energetics of chemical reactions",
+      "taking hold of, to attract and hold the attention,迷人的, her voice was absolutely captivating",
+      "swelling of the blood vessels船只，痔疮,",
       "study of nature and reality形而上学，玄学, metaphysics-stanford encyclopedia of philosophy",
-      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "a doctor for the teeth",
     ]
   },
     {
     numb: 472,
-    question: "metastasis",
+    question: "metastasis:meter, measure",
     answer: "the transmission of disease to other parts of the body转移,",
     options: [
-      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
-      "a class of animals with very thick skin(elephant, rhinoceros)",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
       "the transmission of disease to other parts of the body转移,",
-      "the highest ranking bishop(主教),大主教",
+      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
     ]
   },
     {
     numb: 473,
-    question: "mesoamerica",
+    question: "mesoamerica:meter, measure",
     answer: "middle america",
     options: [
-      "— abnormallyexcessive bowel movement",
-      "- a lack of feeling orinterest",
+      "- an electron tube with ananode, a cathode, and a control grid",
+      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
       "middle america",
-      "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
+      "- to put into words",
     ]
   },
     {
     numb: 474,
-    question: "meson",
+    question: "meson:meta, change/after/beyond/between",
     answer: "particle with a mass between an electron and a proton中子",
     options: [
-      "— to reply to, usually in a sharpor retaliatory way",
       "particle with a mass between an electron and a proton中子",
-      "relating to teeth",
-      "- the study ofreligion, god, etc.",
+      "— not able to beconquered, insurmountable",
+      "- more supplies than isdesirable",
+      "— alongside and always anequal distance apart",
     ]
   },
     {
     numb: 475,
-    question: "immerge/immerse",
+    question: "immerge/immerse:meta, change/after/beyond/between",
     answer: "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     options: [
-      "- veryadvanced in ideas, design, or techniques",
-      "easily bending",
-      "- a performance done by oneperson alone",
+      "- a government that rules",
+      "— having parts orelements strongly holding to each other",
+      "a group of common minerals, calcium fluorophosphate, 磷灰石,",
       "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     ]
   },
     {
     numb: 476,
-    question: "submerge",
+    question: "submerge:meta, change/after/beyond/between",
     answer: "to dip something completely into  water,淹没，the town was submerged by the flood.",
     options: [
-      "kb, one thousand bytes",
+      " — the study ofbones",
+      "the early developmental stage of an animal,囊胚",
       "to dip something completely into  water,淹没，the town was submerged by the flood.",
-      "- relating to cleanlinessand health",
-      "- to climb upwardcrescendolkri-shen—doh",
+      "a verse诗 measured in six六部格诗",
     ]
   },
     {
     numb: 477,
-    question: "commemorate",
+    question: "commemorate:meso, middle",
     answer: "to honor the memory of, as by a ceremony纪念,the festival commemorates the town's founding",
     options: [
       "to honor the memory of, as by a ceremony纪念,the festival commemorates the town's founding",
-      "- shape having fiveangles and five sides",
-      " — without sense",
-      "- period offour years",
+      "- similarity in size, formor arrangement",
+      "- to sailaround a place",
+      "— a portion of a writtendocument that presents a distinct idea",
     ]
   },
     {
     numb: 478,
-    question: "memorial[muh-mawr-ee-uh l]",
+    question: "memorial[muh-mawr-ee-uh l]:meso, middle",
     answer: "related to remembering a person or event纪念馆,memorial park in san ramon",
     options: [
+      "without water",
+      "the treasury of a college or monastery,奖学金，学校金库",
+      "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
       "related to remembering a person or event纪念馆,memorial park in san ramon",
-      "— knowing all things",
-      "skull of vertebrates,颅骨,what does cranium do?",
-      "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
     ]
   },
     {
     numb: 479,
-    question: "melancholy[mel-uh n-kol-ee]",
+    question: "melancholy[mel-uh n-kol-ee]:merge/mers, dip/dive",
     answer: "a state of dark emotions忧郁的, she was in melancholy mood",
     options: [
+      " — image made onlight-sensitive film",
       "a state of dark emotions忧郁的, she was in melancholy mood",
-      "the cross itself as a christian emblem, 十字架",
-      "the process of moving to another place移民",
-      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+      " — acting from yourown free will",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
     ]
   },
     {
     numb: 480,
-    question: "melanoma",
+    question: "melanoma:merge/mers, dip/dive",
     answer: "malignant dark tumor of the skin",
     options: [
-      "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
-      "- to picture mentally,especially some future event",
       "malignant dark tumor of the skin",
-      "- the act or fact ofdetaining, putting somebody on hold",
+      "relating to the moon，lunar new year",
+      "a chemical used to kill insects",
+      "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
     ]
   },
     {
     numb: 481,
-    question: "melodrama",
+    question: "melodrama:memor/memori, remember",
     answer: "a dark, pathetic drama情景剧, 11 melodrama examples to study",
     options: [
-      "— between the stars",
-      "an instrument that measures time",
-      "- a figure with eight sidesand eight angles",
+      "— a twistedshape or position",
+      "— the place orpoint where two things cross each other",
       "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      "— a twistedshape or position",
     ]
   },
     {
     numb: 482,
-    question: "medieval",
+    question: "medieval:memor/memori, remember",
     answer: "pertaining to the middle age中shiji",
     options: [
-      "middle america",
-      "- standing still, notmoving",
+      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      " — a yellow papule ornodule in the skin, containing lipid deposits",
       "pertaining to the middle age中shiji",
-      "- group involving fourvoices or instruments",
+      "— to show approval ofespecially by clapping the hands",
     ]
   },
     {
     numb: 483,
-    question: "mediocre",
+    question: "mediocre:melan/melano, black",
     answer: "only of medium or inferior quality平庸",
     options: [
-      "- a fictitious name",
-      "- to save something",
+      "belief as to the truth of something,信任,you people have lost your credence with me",
+      " umbrella protecting fromthe sun",
+      " -person in his or her eighties",
       "only of medium or inferior quality平庸",
-      "the love of mankind",
     ]
   },
     {
     numb: 484,
-    question: "mediocrity",
+    question: "mediocrity:melan/melano, black",
     answer: "this colledge is a mediocrity's catpital平庸之都",
     options: [
-      "half a line of poetry半行,",
+      "— study of animals",
+      " — aconversation where discussion turned againsteach other",
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
       "this colledge is a mediocrity's catpital平庸之都",
-      "a slanting line running across a space,对角线, ",
-      " — relating totechnology; relating to science and industry",
     ]
   },
     {
     numb: 485,
-    question: "maternal",
+    question: "maternal:melan/melano, black",
     answer: "relating to motherhood母亲的,Her faelings towards him were almost maternal",
     options: [
-      "a short speech delivered after a play, 结语， how to write an epilogue?",
+      "- a government that rules",
+      "— something built orconstructed, as a building, bridge, or dam",
       "relating to motherhood母亲的,Her faelings towards him were almost maternal",
-      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
-      "- truth",
+      "to argue against, 顶撞，抗辩,she dared not contradict him",
     ]
   },
     {
     numb: 486,
-    question: "maternity",
+    question: "maternity:medi, middle",
     answer: "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
     options: [
-      "an outgoing person, 性格外向的, extrovert personality",
-      " — desiring or eatingfood in great quantities",
-      " — cannibalism",
+      "匿名的",
       "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      "- worshipingmore than one god or many gods",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
     ]
   },
     {
     numb: 487,
-    question: "matriarch",
+    question: "matriarch:medi, middle",
     answer: "a woman head of a household女族长,",
     options: [
-      "- to climb upwardcrescendolkri-shen—doh",
-      "- relating to a city, living in acity",
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
+      "- sense of knowingright from wrong",
+      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
       "a woman head of a household女族长,",
+      "— an act of exposingsomething as invalid or baseless",
     ]
   },
     {
     numb: 488,
-    question: "marina",
+    question: "marina:medi, middle",
     answer: "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
     options: [
+      "someone working with trees,树艺师",
+      "- an insulated jar thatkeeps heat in",
       "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
-      "- any animal organism capableof separate existence",
-      "a set of false teeth, 7 types of dentures with crowns and bridges",
-      "— residential area on the edgeof a city",
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
     ]
   },
     {
     numb: 489,
-    question: "maritime",
+    question: "maritime:mater/matr/matri, mother",
     answer: "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
     options: [
-      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
-      "a short speech delivered after a play, 结语， how to write an epilogue?",
-      " — lens device forseeing distances",
       "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
+      "- a stand or frame with threelegs",
+      "- a purple pigment inthe retina that is needed for vision",
+      "— between the stars",
     ]
   },
     {
     numb: 490,
-    question: "submarine",
+    question: "submarine:mater/matr/matri, mother",
     answer: "an undersea boat",
     options: [
-      " — maintenance ofpublic health and cleanliness",
+      "- doing better than",
+      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
+      "- a fictitious name",
       "an undersea boat",
-      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
-      " — lying outside ofthe center",
     ]
   },
     {
     numb: 491,
-    question: "aquamarine",
+    question: "aquamarine:mater/matr/matri, mother",
     answer: "color of sea water海洋的碧绿色,aquamarine stone",
     options: [
-      "an undersea boat",
-      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
-      " — to continue through for along time",
+      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
+      "a powerful and high explosive,炸药,Fifth yards of track was blown up with dynamite",
       "color of sea water海洋的碧绿色,aquamarine stone",
+      "— poisonous",
     ]
   },
     {
     numb: 492,
-    question: "bibliomania",
+    question: "bibliomania:mar/mari, sea",
     answer: "a crazy love of books藏书狂,biliomania is an extreme passion for books",
     options: [
-      "- lastingthroughout all time",
-      "only of medium or inferior quality平庸",
-      "an order or instruction",
+      "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
+      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
       "a crazy love of books藏书狂,biliomania is an extreme passion for books",
+      "发光体",
     ]
   },
     {
     numb: 493,
-    question: "egomania",
+    question: "egomania:mar/mari, sea",
     answer: "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
     options: [
-      "an abnormally low glucose(葡萄糖) in the blood低血糖",
-      "— one wholoves humanity",
-      "- at a standstill,fixed",
+      "— a prediction of whatwill happen",
+      "— period of theStone Age",
       "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
     ]
   },
     {
     numb: 494,
-    question: "maniac",
+    question: "maniac:mar/mari, sea",
     answer: "an insane person疯子,a person suffering from mania",
     options: [
-      "skull of vertebrates,颅骨,what does cranium do?",
+      "the sugar contained in milk lactic acid like glucose and galactose,乳糖,lactose intolerance乳糖不耐,",
+      "muscle fatigue or weakness肌无力,",
       "an insane person疯子,a person suffering from mania",
-      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
-      "without water",
+      "on fire, aflame, the whole mill was afire ",
     ]
   },
     {
     numb: 495,
-    question: "command",
+    question: "command:mar/mari, sea",
     answer: "an order or instruction",
     options: [
-      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-      "the highest ranking bishop(主教),大主教",
+      "缩减",
       "an order or instruction",
-      "— a person who carriesluggage",
+      "a short speech delivered after a play, 结语， how to write an epilogue?",
+      " — attracted toforeigners",
     ]
   },
     {
     numb: 496,
-    question: "demand",
+    question: "demand:mania, madness/insanity/excessive desire",
     answer: "a hard to ignore order",
     options: [
-      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
+      "- a four—footedanimal",
       "a hard to ignore order",
-      "— partlyconscious",
-      "loud enough to be heard, actually heard",
+      "ancestor, forefathers,祖先,",
+      "- an umbrella used toprotect from the sun",
     ]
   },
     {
     numb: 497,
-    question: "mandate",
+    question: "mandate:mania, madness/insanity/excessive desire",
     answer: "an official order, the law mandates that every car have seat belts",
     options: [
-      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
-      "- actions of a government orpolitical party",
-      "dating events by studying growth rings in trees,树龄学",
+      "a disconnection, the state of being disjoined",
       "an official order, the law mandates that every car have seat belts",
+      "- the total,highest amount",
+      "not changing",
     ]
   },
     {
     numb: 498,
-    question: "maneuver[muh-noo-ver]",
+    question: "maneuver[muh-noo-ver]:mania, madness/insanity/excessive desire",
     answer: "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
     options: [
-      "a doctor for the skin",
-      "- relating to a navy or warships",
+      "—the process of removing poisons",
+      "peculiar to a particular language",
+      "- clearly visible, clear tothe sight or understanding",
       "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
-      "optical device with two lenses,双筒望远镜",
     ]
   },
     {
     numb: 499,
-    question: "manuscript",
+    question: "manuscript:mand, to order",
     answer: "a book written by hand",
     options: [
-      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
-      "a word that joins parts of sentences",
+      "disagreement, 争议, the new movie is a subject of controversy",
       "a book written by hand",
-      "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      "— abnormal digestion",
     ]
   },
     {
     numb: 500,
-    question: "magnify",
+    question: "magnify:mand, to order",
     answer: "make larger放大, the lens magnified the image 100 times",
     options: [
       "make larger放大, the lens magnified the image 100 times",
-      "the area between the chest and the waist(腰部)上腹",
-      "a generator of energy,发电机",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "not in its correct historical time, 不合时宜，",
+      "— faster thansound",
+      "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
     ]
   },
     {
     numb: 501,
-    question: "magnificent",
+    question: "magnificent:mand, to order",
     answer: "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
     options: [
+      "ten years",
+      "study of the earth's surface,地理,",
       "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
-      "inflammation(炎症) of the substance in the brain,脑炎,",
-      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
+      "a short expression of a general truth,格言",
     ]
   },
     {
     numb: 502,
-    question: "magnate",
+    question: "magnate:man/mani/manu, hand",
     answer: "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
     options: [
-      "— the combined effect",
-      "- a first draft fromwhich a document is prepared",
-      "— a person who tells astory",
+      "- an electron tube having twoelectrodes, a cathode and an anode",
       "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      "— to drive someone out of aplace",
     ]
   },
     {
     numb: 503,
-    question: "lunar",
+    question: "lunar:man/mani/manu, hand",
     answer: "relating to the moon，lunar new year",
     options: [
-      "a life story written by another person",
+      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
       "relating to the moon，lunar new year",
-      "a miniature universe, 微观世界",
-      "a judge must certify the contract",
+      "- viruses thatare causing the common cold",
+      "a class of animals with very thick skin(elephant, rhinoceros)",
     ]
   },
     {
     numb: 504,
-    question: "lunarscape",
+    question: "lunarscape:magn_magna_magni, great/large",
     answer: "the surface of the moon",
     options: [
+      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
+      " — a plant thatgrows only in water",
       "the surface of the moon",
-      "- the worship ofall gods",
-      "very small or trivial details细节, the minutiae of everyday life",
-      "a place equipped to conduct work or experiments, 实验室,",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
     ]
   },
     {
     numb: 505,
-    question: "lunatic",
+    question: "lunatic:magn_magna_magni, great/large",
     answer: "one's insanity as related to the moon",
     options: [
-      "the science of life or living matter in all its forms,生物学",
-      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
       "one's insanity as related to the moon",
-      "- to pull objects nearer, allure,invite",
+      "— an athletic contestthat includes five events",
+      "- to tell a story",
+      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
     ]
   },
     {
     numb: 506,
-    question: "illuminate",
+    question: "illuminate:magn_magna_magni, great/large",
     answer: "to fill with light,照亮,解释,",
     options: [
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      "— an underwaterboat",
       "to fill with light,照亮,解释,",
-      "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
+      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+      "— respect foryourself",
     ]
   },
     {
     numb: 507,
-    question: "lumen",
+    question: "lumen:lun/luna",
     answer: "unit measuring light, 光通量单位",
     options: [
-      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
-      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
-      "— unable to pay becauseyou are broke",
+      " — the pure andconcentrated essence of a substance",
+      "in an earlier period, prior to development,古老, because my archaic computer is no longer useful to me, I am giving it away for free",
       "unit measuring light, 光通量单位",
+      "- outside",
     ]
   },
     {
     numb: 508,
-    question: "luminance",
+    question: "luminance:lun/luna",
     answer: "发光性",
     options: [
-      "- to say it didn't happen",
+      "a set of false teeth, 7 types of dentures with crowns and bridges",
+      "— a portion of a writtendocument that presents a distinct idea",
       "发光性",
-      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
-      "- the systematic arrangementof words",
+      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
     ]
   },
     {
     numb: 509,
-    question: "luminary",
+    question: "luminary:lun/luna",
     answer: "发光体",
     options: [
-      " — without sense",
+      "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
+      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
       "发光体",
-      "- a doctor, one who isskilled in the science of healing the body",
-      "- a performance done by oneperson alone",
+      "the branch of physics that deals with energy能量学, energetics of chemical reactions",
     ]
   },
     {
     numb: 510,
-    question: "luminesce",
+    question: "luminesce:lumin, light",
     answer: "变明亮",
     options: [
-      "a person who moves to a new country to settle",
-      "- half the earthspherically shaped like a ball",
-      "— an act of exposingsomething as invalid or baseless",
+      "having equal or constant temperature, A fridge works isothermally",
+      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
+      " — true or real, notmade-up",
       "变明亮",
     ]
   },
     {
     numb: 511,
-    question: "prelude",
+    question: "prelude:lumin, light",
     answer: "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
     options: [
       "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
-      "— to drive someone out of aplace",
-      "- to represent withwords or pictures",
-      "- having four legs orlimbs",
+      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
+      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
+      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
     ]
   },
     {
     numb: 512,
-    question: "delude",
+    question: "delude:lumin, light",
     answer: "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
     options: [
-      "— wise aboutthe ways of the world",
       "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
-      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
-      "— the only one of its kind",
+      " — somethingthat bears or diffuses a scent",
+      "- to break into aconversation or event, to disturb",
+      "- the combined total of everything",
     ]
   },
     {
     numb: 513,
-    question: "eloquent",
+    question: "eloquent:lumin, light",
     answer: "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
     options: [
+      "— relating tosomething in the past",
+      "- included since birth",
       "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
-      "— abnormal digestion",
-      "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
+      "the tumor of the liver",
     ]
   },
     {
     numb: 514,
-    question: "loquacious",
+    question: "loquacious:lumin, light",
     answer: "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
     options: [
       "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
-      " — to produce with yourvoice, utter, articulate, sing",
-      "the ability to move objects with you mind",
-      "- the death of tissuedue to disease or injury",
+      "the study and history of words，词汇学,",
+      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
+      "the inn is accessible by train and bus, it is a fascinating and accessible book",
     ]
   },
     {
     numb: 515,
-    question: "elocution",
+    question: "elocution:lud/lus, to play",
     answer: "art of public speaking，演说, I need more training in order to improve my elocution",
     options: [
-      "- a four—footedanimal",
-      "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
-      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
+      "— a revival ofclassic form",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
+      "a short expression of a general truth,格言",
       "art of public speaking，演说, I need more training in order to improve my elocution",
     ]
   },
     {
     numb: 516,
-    question: "analogy",
+    question: "analogy:lud/lus, to play",
     answer: "similarity, especially between things otherwise dissimilar, 比喻, he drew an analogy between the brain and a vast computer",
     options: [
-      "- to name someonefor election or to designate",
-      "the universe,宇宙,the cosmos is another name for the universe",
+      "formerly the tenth month of the roman calendar",
       "similarity, especially between things otherwise dissimilar, 比喻, he drew an analogy between the brain and a vast computer",
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
+      "a generator of energy,发电机",
+      " — a person in his/her seventies",
     ]
   },
     {
     numb: 517,
-    question: "apatite",
+    question: "apatite:locu, speak",
     answer: "a group of common minerals, calcium fluorophosphate, 磷灰石,",
     options: [
-      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
-      "- inferior toaccepted standards, less than adequate",
-      "the tumor of the liver",
+      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
+      "- to make sure thatsomething is true",
+      "not in accordance with established or accepted doctrines，he paid no price at the polls for his heterodox views",
       "a group of common minerals, calcium fluorophosphate, 磷灰石,",
     ]
   },
     {
     numb: 518,
-    question: "granite",
+    question: "granite:locu, speak",
     answer: "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
     options: [
-      "— a twistedshape or position",
-      " — a deviceused to see tiny things",
       "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "- self—restraint orabstinence, in regard to sexual activity",
+      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      "one who studies languages, he was already a good linguist, understanding 4 languages",
     ]
   },
     {
     numb: 519,
-    question: "monolith",
+    question: "monolith:locu, speak",
     answer: "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
     options: [
-      "turning for the worst, a substantial disaster,灾难",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
       "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
-      "not in accordance with established or accepted doctrines，he paid no price at the polls for his heterodox views",
+      "- to carry, move, orconvey from one place to another",
+      " —existing outside the earth",
+      "- a plant growingindependently on the surface of another",
     ]
   },
     {
     numb: 520,
-    question: "liposuction",
+    question: "liposuction:log/logo, word/doctrine/discourse",
     answer: "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
     options: [
-      "a statement of equality, 方程， equations and formulas, how to solve equations",
-      "relating to the heart",
+      "a person who resists any authority,造反，反叛，叛逆",
+      "— a wise saying or precept; adidactic sentence",
+      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
       "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
-      "able to last, patient, long-suffering",
     ]
   },
     {
     numb: 521,
-    question: "lipase[lahy-peys]",
+    question: "lipase[lahy-peys]:log/logo, word/doctrine/discourse",
     answer: "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
     options: [
-      "having equal or constant temperature, A fridge works isothermally",
+      "an insane person疯子,a person suffering from mania",
       "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
-      "not in its correct historical time, 不合时宜，",
-      " flowers with golden/yellow color streaks or center,菊花",
+      "a female airplane pilot女飞行员",
+      " —working at home remotely via virtual devices",
     ]
   },
     {
     numb: 522,
-    question: "lipoid",
+    question: "lipoid:lite/ite/lith/litho, mineral/rock/fossil",
     answer: "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
     options: [
-      "a semicircular structure半圆",
       "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
-      " — the smallest possible unit oflight",
-      " — to someone out",
+      "- relating to a navy or warships",
+      "- standing still, notmoving",
+      "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
     ]
   },
     {
     numb: 523,
-    question: "linguist",
+    question: "linguist:lite/ite/lith/litho, mineral/rock/fossil",
     answer: "one who studies languages, he was already a good linguist, understanding 4 languages",
     options: [
-      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
-      "any chemical used to kill unwanted plants, herbicide list",
+      "- a time withoutwork, empty of duty or release from duty",
+      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
+      "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
       "one who studies languages, he was already a good linguist, understanding 4 languages",
-      "- a small platform tostand on",
     ]
   },
     {
     numb: 524,
-    question: "multilingual",
+    question: "multilingual:lite/ite/lith/litho, mineral/rock/fossil",
     answer: "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
     options: [
+      " —to spring back again",
+      "- to force someone to act",
+      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
       "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
-      "- to empty adangerous place",
-      " — the sciencedealing with x-rays or nuclear radiation",
-      "conversation between two people",
     ]
   },
     {
     numb: 525,
-    question: "linguine[ling-gwee-nee]",
+    question: "linguine[ling-gwee-nee]:lip/lipo, fat",
     answer: "flat tongue-shaped pasta扁面条,",
     options: [
-      "kb, one thousand bytes",
-      "a hard to ignore order",
-      "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
+      "- to name someonefor election or to designate",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
       "flat tongue-shaped pasta扁面条,",
+      "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
     ]
   },
     {
     numb: 526,
-    question: "liberate",
+    question: "liberate:lip/lipo, fat",
     answer: "to set free",
     options: [
-      " — the smallest possible unit oflight",
-      "- the conquest of anenemy, success or triumph",
-      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+      " — to wind somethingbackward",
+      "- a time withoutwork, empty of duty or release from duty",
+      "the treasury of a college or monastery,奖学金，学校金库",
       "to set free",
     ]
   },
     {
     numb: 527,
-    question: "libertine",
+    question: "libertine:lip/lipo, fat",
     answer: "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
     options: [
-      "- with all thepower",
-      "— a revival ofclassic form",
-      "- to save something",
       "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
+      "- open space withbuildings on four sides",
+      "heavy particle such as proton, neutron, or any elementary particle重子",
+      "- relating to a city, living in acity",
     ]
   },
     {
     numb: 528,
-    question: "liberty",
+    question: "liberty:lingu, language/tongue",
     answer: "freedom",
     options: [
-      "- to make sure thatsomething is true",
-      " — the straightor correct way of writing",
       "freedom",
-      " — to destroy orget rid of completely",
+      "— worthy of beingapplauded",
+      " — a supporter of therights of people",
+      "- to cut apart piece by piece",
     ]
   },
     {
     numb: 529,
-    question: "lexicology",
+    question: "lexicology:lingu, language/tongue",
     answer: "the study and history of words，词汇学,",
     options: [
-      "- talking in yoursleep",
-      "motion picture making",
-      "- to formally break away from",
       "the study and history of words，词汇学,",
+      "- pull out at the roots",
+      "— the place orpoint where two things cross each other",
+      "— with nothing missing",
     ]
   },
     {
     numb: 530,
-    question: "alexia",
+    question: "alexia:lingu, language/tongue",
     answer: "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
     options: [
-      "- a purple pigment inthe retina that is needed for vision",
-      "- an edible root of the mustardfamily",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
       "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
+      "the science of life or living matter in all its forms,生物学",
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
     ]
   },
     {
     numb: 531,
-    question: "leukemia",
+    question: "leukemia:liber, free",
     answer: "abnormal in crease of white blood cells in the blood白血病",
     options: [
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      "intention to feel like another person",
       "abnormal in crease of white blood cells in the blood白血病",
-      "— producing loud, full,rich sounds",
-      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      "replacing an offensive word with an inoffensive one委婉语, we have to let you go, tyler, this is a euphemism means fire you",
+      "a treasurer, especially of a college or university,大学财务主管",
     ]
   },
     {
     numb: 532,
-    question: "leukocyte",
+    question: "leukocyte:liber, free",
     answer: "a mature white blood cell白细胞",
     options: [
-      "related to remembering a person or event纪念馆,memorial park in san ramon",
-      "any chemical used to kill unwanted plants, herbicide list",
-      "- truth",
+      "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
       "a mature white blood cell白细胞",
+      "- an electron tube having twoelectrodes, a cathode and an anode",
+      "— faster thansound",
     ]
   },
     {
     numb: 533,
-    question: "leucine[loo-seen]",
+    question: "leucine[loo-seen]:liber, free",
     answer: "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
     options: [
-      "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
       "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
-      "an insane person疯子,a person suffering from mania",
+      "someone working with flowers,  a grower of flowers",
+      "on the shore, we shall put you ashore on the first island that we see",
+      "- to make fun or mock",
     ]
   },
     {
     numb: 534,
-    question: "bilateral",
+    question: "bilateral:lex, word/law/reading",
     answer: "of or involving two sides, two-sided",
     options: [
+      "- to declare in public numerous [noo-mer-uh s",
+      "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
+      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
       "of or involving two sides, two-sided",
-      "— a group of seven musicians",
-      "— a person who seesan event",
-      "a hard to ignore order",
     ]
   },
     {
     numb: 535,
-    question: "unilateral[yoo-nuh-lat-er-uh l]",
+    question: "unilateral[yoo-nuh-lat-er-uh l]:lex, word/law/reading",
     answer: "affecting one side or involving one side only单方面, examples of unilateral contract example",
     options: [
-      "white, glowing, or luminous with intense heat，白织灯",
+      " — a lookingback at past things",
       "affecting one side or involving one side only单方面, examples of unilateral contract example",
-      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
-      "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
+      "the branch of physics that deals with energy能量学, energetics of chemical reactions",
+      "- a variation of an original,to turn it as another translation",
     ]
   },
     {
     numb: 536,
-    question: "lactate",
+    question: "lactate:leuk/leuko/leuc/leuco, white/colorless",
     answer: "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
     options: [
-      "the cross itself as a christian emblem, 十字架",
+      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
       "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
-      "- to make fun of someone",
-      " umbrella protecting fromthe sun",
+      "encode into secret code",
     ]
   },
     {
     numb: 537,
-    question: "lactose",
+    question: "lactose:leuk/leuko/leuc/leuco, white/colorless",
     answer: "the sugar contained in milk lactic acid like glucose and galactose,乳糖,lactose intolerance乳糖不耐,",
     options: [
-      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
+      "an organism that has undergone change突变体, common mutation include down syndrome...",
+      "— to drive someone out of aplace",
       "the sugar contained in milk lactic acid like glucose and galactose,乳糖,lactose intolerance乳糖不耐,",
-      "opposing social norm, 反社会的",
-      "a governing body consisting of old people,老人政治,",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
     ]
   },
     {
     numb: 538,
-    question: "collaborate",
+    question: "collaborate:leuk/leuko/leuc/leuco, white/colorless",
     answer: "to work together, to cooperate,合作,the two companies agreed to collaborate",
     options: [
-      " — the outer boundaryof an area",
-      " — a yellow papule ornodule in the skin, containing lipid deposits",
-      "one tenth of the sound volume unit bel,分贝,DB,a whisper is about 30 db(decibel).",
+      "- an insulated jar thatkeeps heat in",
       "to work together, to cooperate,合作,the two companies agreed to collaborate",
+      "- to say it didn't happen",
+      "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
     ]
   },
     {
     numb: 539,
-    question: "elaborate",
+    question: "elaborate:later, side",
     answer: "to work out the details精心制作的,she drew an elaborate design",
     options: [
-      "- a variation of an original,to turn it as another translation",
-      "— using the force of air",
-      "- a doctor, one who isskilled in the science of healing the body",
+      "- standing still, notmoving",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
+      "belief as to the truth of something,信任,you people have lost your credence with me",
       "to work out the details精心制作的,she drew an elaborate design",
     ]
   },
     {
     numb: 540,
-    question: "laborious",
+    question: "laborious:later, side",
     answer: "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
     options: [
-      "- to cut into two equal parts",
-      "half a line of poetry半行,",
+      "a hard to ignore order",
       "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
-      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
+      "the group of spectators at a public event",
+      "- a plant growingindependently on the surface of another",
     ]
   },
     {
     numb: 541,
-    question: "laboratory",
+    question: "laboratory:lact/lacto, milk",
     answer: "a place equipped to conduct work or experiments, 实验室,",
     options: [
-      " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
-      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-      " — to apply a rule",
+      "a word formed from the first letters of a word, 首字母缩略词",
+      "the primitive layer of cells from the segmentation of the ovum,胚层",
+      "— relating to stars",
       "a place equipped to conduct work or experiments, 实验室,",
     ]
   },
     {
     numb: 542,
-    question: "kinetics[ki-net-iks]",
+    question: "kinetics[ki-net-iks]:lact/lacto, milk",
     answer: "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
     options: [
+      " — to someone out",
       "study of the force of motion动力学, chemical kinetics, also known as reaction kinetics, is the branch of physical chemistry",
-      "the inn is accessible by train and bus, it is a fascinating and accessible book",
-      "— a passage before themain part",
-      "- lasting for alimited time",
-    ]
-  },
-    {
-    numb: 543,
-    question: "psychokinesis[sahy-koh-ki-nee-sis]",
-    answer: "the ability to move objects with you mind",
-    options: [
-      "- relating to a city, living in acity",
-      "- to save or keepsomething safe",
-      "the ability to move objects with you mind",
-      "- the act or fact ofdetaining, putting somebody on hold",
-    ]
-  },
-    {
-    numb: 544,
-    question: "cinematography",
-    answer: "motion picture making",
-    options: [
-      "motion picture making",
-      "abnormal in crease of white blood cells in the blood白血病",
-      "- the conquest of anenemy, success or triumph",
-      "to remove from power, remove from any position",
-    ]
-  },
-    {
-    numb: 545,
-    question: "kilobyte",
-    answer: "kb, one thousand bytes",
-    options: [
-      "kb, one thousand bytes",
-      "a polygon with ten angles, a decagon has 10 equal sides",
-      "the science of life or living matter in all its forms,生物学",
-      "- a device thatcontrols heat",
-    ]
-  },
-    {
-    numb: 546,
-    question: "kilograms",
-    answer: "kg, ont thousand grams",
-    options: [
-      "kg, ont thousand grams",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
-      "a statement of equality, 方程， equations and formulas, how to solve equations",
-      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
-    ]
-  },
-    {
-    numb: 547,
-    question: "juvenile[joo-vuh-nahyl]",
-    answer: "young, youthful, juvenile readers",
-    options: [
-      " — not shortened",
-      "a person seeking protection, a person who flees for refuge or safety.",
-      "young, youthful, juvenile readers",
-      "an abnormally low glucose(葡萄糖) in the blood低血糖",
-    ]
-  },
-    {
-    numb: 548,
-    question: "rejuvenate",
-    answer: "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
-    options: [
-      "one over one hundred of a meter",
-      " —inflammation caused by degeneration of thejoints",
-      "a climbing plant that grows on trees藤类植物",
-      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
-    ]
-  },
-    {
-    numb: 549,
-    question: "conjunction",
-    answer: "a word that joins parts of sentences",
-    options: [
-      "one of the commonest minerals, calcium carbonate,方解石",
-      "- the highest point or top",
-      "a word that joins parts of sentences",
-      "— sea animal with eightarms",
-    ]
-  },
-    {
-    numb: 550,
-    question: "disjunction",
-    answer: "a disconnection, the state of being disjoined",
-    options: [
-      "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
-      "to honor the memory of, as by a ceremony纪念,the festival commemorates the town's founding",
-      "— the only one of its kind",
-      "a disconnection, the state of being disjoined",
-    ]
-  },
-    {
-    numb: 551,
-    question: "junction",
-    answer: "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
-    options: [
-      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
-      "to stop or interrupt, x intercept轴, y intercept formula,",
-      "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
-      "measurement, pertaining to the meter",
-    ]
-  },
-    {
-    numb: 552,
-    question: "judicial[joo-dish-uhl]",
-    answer: "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-    options: [
-      "— the whole roundsurface of the earth",
-      " — aftersomeone's death",
-      "a dead body, the actor had to play a corpse laying in a morgue",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-    ]
-  },
-    {
-    numb: 553,
-    question: "judiciary",
-    answer: "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-    options: [
-      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-      "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
-      "— a person fluent in manylanguages",
-    ]
-  },
-    {
-    numb: 554,
-    question: "eject",
-    answer: "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
-    options: [
-      "- the combined total of everything",
-      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
-      "- to climb upwardcrescendolkri-shen—doh",
-      "an order or instruction",
-    ]
-  },
-    {
-    numb: 555,
-    question: "interject",
-    answer: "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
-    options: [
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
-      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
-      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
-      "- a small platform tostand on",
-    ]
-  },
-    {
-    numb: 556,
-    question: "isobar[ahy-suh-bahr]",
-    answer: "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
-    options: [
-      "-— ability to understandanother's feelings",
-      "an abnormal fear of women女性恐惧症",
-      "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
-      "— a person who carriesluggage",
-    ]
-  },
-    {
-    numb: 557,
-    question: "isometric【ahy-suh-me-trik】",
-    answer: "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
-    options: [
-      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
-      "a semicircular structure半圆",
-      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
-      "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
-    ]
-  },
-    {
-    numb: 558,
-    question: "isothermal",
-    answer: "having equal or constant temperature, A fridge works isothermally",
-    options: [
-      "having equal or constant temperature, A fridge works isothermally",
-      "the universe,宇宙,the cosmos is another name for the universe",
-      "- an all-aroundview",
-      " — a species ofanimals with a big horn on the snout",
-    ]
-  },
-    {
-    numb: 559,
-    question: "irredeemable",
-    answer: "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
-    options: [
-      " — inflammation of thekidneys",
-      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
-      "pertaining to the middle age中shiji",
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
-    ]
-  },
-    {
-    numb: 560,
-    question: "irreformable",
-    answer: "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
-    options: [
-      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
-      "— period of theStone Age",
-      "- lastingthroughout all time",
-      "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
-    ]
-  },
-    {
-    numb: 561,
-    question: "irrational",
-    answer: "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
-    options: [
-      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
-      " —working at home remotely via virtual devices",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-      "a machine noting strength and duration of earthquakes,地震仪",
-    ]
-  },
-    {
-    numb: 562,
-    question: "intrastate",
-    answer: "existing or occuring within the boundaries of a state",
-    options: [
-      "existing or occuring within the boundaries of a state",
-      " — without sense",
-      "- inability to fallasleep",
-      " — usesmanipulation of the skeleton to restore health",
-    ]
-  },
-    {
-    numb: 563,
-    question: "intravenous",
-    answer: "inside or into a vein(静脉),静脉,intravenous injection",
-    options: [
-      "inside or into a vein(静脉),静脉,intravenous injection",
-      "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
-      "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
-      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-    ]
-  },
-    {
-    numb: 564,
-    question: "introvert",
-    answer: "a shy person who keeps within himself or herself, signs of an introvert personality",
-    options: [
-      "a shy person who keeps within himself or herself, signs of an introvert personality",
-      " — fivefold",
-      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
+      " — cautious,looking all around",
       "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
     ]
   },
     {
+    numb: 543,
+    question: "psychokinesis[sahy-koh-ki-nee-sis]:lab, work",
+    answer: "the ability to move objects with you mind",
+    options: [
+      " — to someone out",
+      "the quality of being able to move",
+      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
+      "the ability to move objects with you mind",
+    ]
+  },
+    {
+    numb: 544,
+    question: "cinematography:lab, work",
+    answer: "motion picture making",
+    options: [
+      "- a figure with eight sidesand eight angles",
+      "motion picture making",
+      "- silly, causinglaughter",
+      "— a large city",
+    ]
+  },
+    {
+    numb: 545,
+    question: "kilobyte:lab, work",
+    answer: "kb, one thousand bytes",
+    options: [
+      " - a rock that forms sheets,similar to slate",
+      "kb, one thousand bytes",
+      "the highest ranking bishop(主教),大主教",
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
+    ]
+  },
+    {
+    numb: 546,
+    question: "kilograms:lab, work",
+    answer: "kg, ont thousand grams",
+    options: [
+      " — relating totechnology; relating to science and industry",
+      "— the study",
+      "- empty, not occupied",
+      "kg, ont thousand grams",
+    ]
+  },
+    {
+    numb: 547,
+    question: "juvenile[joo-vuh-nahyl]:kine/kinet/kinemat, motion, division",
+    answer: "young, youthful, juvenile readers",
+    options: [
+      "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
+      "young, youthful, juvenile readers",
+      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "变明亮",
+    ]
+  },
+    {
+    numb: 548,
+    question: "rejuvenate:kine/kinet/kinemat, motion, division",
+    answer: "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
+    options: [
+      "to go back, 后退，归还, the painful memories gradually receded in her mind, as the boat picked up speed, the coastline receded into the distance",
+      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
+      "earth's surface inhabited by living things生态环境",
+      "person who gives money to a cause, kindly helper恩人",
+    ]
+  },
+    {
+    numb: 549,
+    question: "conjunction:kine/kinet/kinemat, motion, division",
+    answer: "a word that joins parts of sentences",
+    options: [
+      "a word that joins parts of sentences",
+      " —existing outside the earth",
+      "one thousandth of a bar毫巴，压强单位",
+      "— with nothing missing",
+    ]
+  },
+    {
+    numb: 550,
+    question: "disjunction:kilo, thousand",
+    answer: "a disconnection, the state of being disjoined",
+    options: [
+      "— worthy of beingapplauded",
+      " — materials that may beshaped when soft and then hardened",
+      "a disconnection, the state of being disjoined",
+      "- to put off doingsomething",
+    ]
+  },
+    {
+    numb: 551,
+    question: "junction:kilo, thousand",
+    answer: "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+    options: [
+      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      " flowers with golden/yellow color streaks or center,菊花",
+      "person who moves from place to place",
+    ]
+  },
+    {
+    numb: 552,
+    question: "judicial[joo-dish-uhl]:juven, young",
+    answer: "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+    options: [
+      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
+      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      "- to go back on a promise, tobreak a rule of play",
+    ]
+  },
+    {
+    numb: 553,
+    question: "judiciary:juven, young",
+    answer: "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
+    options: [
+      "- the matter thatsettles to the bottom of a liquid",
+      " — an eye doctor",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
+      "- to make fun of someone",
+    ]
+  },
+    {
+    numb: 554,
+    question: "eject:junct, join",
+    answer: "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
+    options: [
+      "— used to be theseventh month in the Roman calendar",
+      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
+      "a climbing plant that grows on trees藤类植物",
+      "having many trees, of or relating to trees, an arborous roof",
+    ]
+  },
+    {
+    numb: 555,
+    question: "interject:junct, join",
+    answer: "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+    options: [
+      "no longer working or alive",
+      "— residential area on the edgeof a city",
+      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+      "equal distance",
+    ]
+  },
+    {
+    numb: 556,
+    question: "isobar[ahy-suh-bahr]:junct, join",
+    answer: "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
+    options: [
+      "- the study ofreligion, god, etc.",
+      "- a variation of an original,to turn it as another translation",
+      "— meaning no orexpressing refusal",
+      "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
+    ]
+  },
+    {
+    numb: 557,
+    question: "isometric【ahy-suh-me-trik】:jud, law",
+    answer: "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
+    options: [
+      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "— a person who carriesluggage",
+      "— to disagree with whatanother person thinks",
+      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
+    ]
+  },
+    {
+    numb: 558,
+    question: "isothermal:jud, law",
+    answer: "having equal or constant temperature, A fridge works isothermally",
+    options: [
+      "having equal or constant temperature, A fridge works isothermally",
+      "- at a standstill,fixed",
+      "to work out the details精心制作的,she drew an elaborate design",
+      "- relating to cleanlinessand health",
+    ]
+  },
+    {
+    numb: 559,
+    question: "irredeemable:ject, throw",
+    answer: "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
+    options: [
+      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
+      "— the only one of its kind",
+      "- inability to fallasleep",
+      "- a government that rules",
+    ]
+  },
+    {
+    numb: 560,
+    question: "irreformable:ject, throw",
+    answer: "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
+    options: [
+      "- affecting all",
+      "- shape with three or morestraight sides",
+      "not reformable可改造的 or not subject to improvement，不可改变的, undemocratic and irreformable, why we must vote to leave the EU",
+      "- a digestive enzyme",
+    ]
+  },
+    {
+    numb: 561,
+    question: "irrational:iso, equal",
+    answer: "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
+    options: [
+      "— standing steady and firm",
+      "lasting through many years,多年生, perennial plants",
+      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
+      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
+    ]
+  },
+    {
+    numb: 562,
+    question: "intrastate:iso, equal",
+    answer: "existing or occuring within the boundaries of a state",
+    options: [
+      "opposing social norm, 反社会的",
+      "existing or occuring within the boundaries of a state",
+      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
+      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+    ]
+  },
+    {
+    numb: 563,
+    question: "intravenous:iso, equal",
+    answer: "inside or into a vein(静脉),静脉,intravenous injection",
+    options: [
+      "inside or into a vein(静脉),静脉,intravenous injection",
+      "a dead body, the actor had to play a corpse laying in a morgue",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
+      "- any tract of land;region or district",
+    ]
+  },
+    {
+    numb: 564,
+    question: "introvert:ir, not",
+    answer: "a shy person who keeps within himself or herself, signs of an introvert personality",
+    options: [
+      "a shy person who keeps within himself or herself, signs of an introvert personality",
+      "- to put into words",
+      "— to go back to anearlier condition",
+      "feeling of well being, 快感, I was in a state of euphoria all day",
+    ]
+  },
+    {
     numb: 565,
-    question: "infrastructure",
+    question: "infrastructure:ir, not",
     answer: "underlying framework of a system",
     options: [
-      "- a first draft fromwhich a document is prepared",
-      "a hard to ignore order",
+      "— sound wavesbeyond human hearing",
+      "person who moves from place to place",
       "underlying framework of a system",
-      "— producing loud, full,rich sounds",
+      "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
     ]
   },
     {
     numb: 566,
-    question: "infrared",
+    question: "infrared:ir, not",
     answer: "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
     options: [
-      "easily bending",
-      "- worshipingmore than one god or many gods",
-      "- shape having fiveangles and five sides",
+      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
+      "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
+      " — somethingthat bears or diffuses a scent",
       "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
     ]
   },
     {
     numb: 567,
-    question: "idiomatic",
+    question: "idiomatic:intra/intro, within/inside",
     answer: "peculiar to a particular language",
     options: [
       "peculiar to a particular language",
-      "- used so often as to have lostinterest, freshness, or force",
-      "— be stationed",
-      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "one over one hundred of a meter",
+      "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
+      "- the total,highest amount",
     ]
   },
     {
     numb: 568,
-    question: "idiosyncrasy",
+    question: "idiosyncrasy:intra/intro, within/inside",
     answer: "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
     options: [
-      "— the act of rubbingtogether or wearing down",
-      " — a device thatrecords and amplifies sound",
+      "inside or into a vein(静脉),静脉,intravenous injection",
+      "—the process of removing poisons",
       "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
-      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      " — distasteful,offensive or revolting",
     ]
   },
     {
     numb: 569,
-    question: "iconology",
+    question: "iconology:intra/intro, within/inside",
     answer: "scieence of symbols and icons",
     options: [
+      "- underlyingframework of a system",
       "scieence of symbols and icons",
-      "— faster thansound",
-      "- to carry, move, orconvey from one place to another",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
+      "relating to motherhood母亲的,Her faelings towards him were almost maternal",
+      "— having parts orelements strongly holding to each other",
     ]
   },
     {
     numb: 570,
-    question: "iconoclast",
+    question: "iconoclast:infra, beneath/below",
     answer: "someone who destroys religious images and trditional beliefs",
     options: [
-      "- doing better than",
-      "someone working with trees,树艺师",
+      "— a person who seesan event",
+      "- extremely high",
       "someone who destroys religious images and trditional beliefs",
-      "— to come between",
+      "a place equipped to conduct work or experiments, 实验室,",
     ]
   },
     {
     numb: 571,
-    question: "geriatrics",
+    question: "geriatrics:infra, beneath/below",
     answer: "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
     options: [
-      "— studyof ancient fossils",
-      "a woman head of a household女族长,",
-      " — a list orcatalog of books put in arrangement",
+      "- theoriespresumed without proof of a scientific nature",
+      "— relating to stars",
       "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
+      "- the study ofreligion, god, etc.",
     ]
   },
     {
     numb: 572,
-    question: "pediatrician[pee-dee-uh]",
+    question: "pediatrician[pee-dee-uh]:idio, peculiar/personal/distinct",
     answer: "a doctor who treat children,choose a new pediatrician for you new baby",
     options: [
       "a doctor who treat children,choose a new pediatrician for you new baby",
-      "- a fictitious name",
-      "— to come between",
-      "- to cut into two equal parts",
+      "- empty, not occupied",
+      "- to write letters or wordson a surface",
+      "the transmission of disease to other parts of the body转移,",
     ]
   },
     {
     numb: 573,
-    question: "podiatry",
+    question: "podiatry:idio, peculiar/personal/distinct",
     answer: "medical care for feet足病学,what do podiatrists do?",
     options: [
-      "— cosmetic treatment offeet and toes",
+      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
+      "very small or trivial details细节, the minutiae of everyday life",
       "medical care for feet足病学,what do podiatrists do?",
-      " — a plant thatgrows only in water",
-      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
+      " — a verystrong urge",
     ]
   },
     {
     numb: 574,
-    question: "hypoglycemia",
+    question: "hypoglycemia:icon/icono, image",
     answer: "an abnormally low glucose(葡萄糖) in the blood低血糖",
     options: [
-      "a cell that forms connective tissue,纤维母细胞",
-      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+      "- belief inone god",
+      "to sail around, to go or maneuver around, the ship circumnavigate the world",
       "an abnormally low glucose(葡萄糖) in the blood低血糖",
-      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
+      "the study of handwriting,笔迹学",
     ]
   },
     {
     numb: 575,
-    question: "hypotherimia",
+    question: "hypotherimia:icon/icono, image",
     answer: "abnormally low body temperature",
     options: [
+      "having equal or constant temperature, A fridge works isothermally",
+      " — the study ofbones",
+      "- feeling sleepy",
       "abnormally low body temperature",
-      "belief as to the truth of something,信任,you people have lost your credence with me",
-      "— abnormallyexcessive bowel movement",
-      "- to make somethinglike new again",
     ]
   },
     {
     numb: 576,
-    question: "hypothesis",
+    question: "hypothesis:iatr/iatro, medical care",
     answer: "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
     options: [
       "an extensive flood, complete deluge,灾难，剧变",
-      "— above average,better in quality",
-      "- an all-aroundview",
+      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
+      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
       "a theory that is unproven but assumed that it is true，假设,假说,simple hypothesis, students who eat breakfast will perform better on math exam the those who do not eat breakfast",
     ]
   },
     {
     numb: 577,
-    question: "hyperactive",
+    question: "hyperactive:iatr/iatro, medical care",
     answer: "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
     options: [
-      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
-      "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
       "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
-      "the science of people and races,民族学",
+      "- underlyingframework of a system",
+      "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
+      "删节",
     ]
   },
     {
     numb: 578,
-    question: "hypercritical",
+    question: "hypercritical:iatr/iatro, medical care",
     answer: "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
     options: [
-      "- to make fun of someone",
-      "— feeding onwood",
-      "a treasurer, especially of a college or university,大学财务主管",
+      "- a lack of feeling orinterest",
+      " — somethingthat bears or diffuses a scent",
       "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
+      " — having a spontaneousurge to do something",
     ]
   },
     {
     numb: 579,
-    question: "hypertension",
+    question: "hypertension:hyp/hypo, under",
     answer: "excessive or extreme emotional tensseness，ususally means high blood pressure.",
     options: [
+      "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
+      "being absolutely sure, I feel certain you are doing the right thing",
       "excessive or extreme emotional tensseness，ususally means high blood pressure.",
-      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
-      " — image made onlight-sensitive film",
-      "throw out forcefully, force out,驱赶,she was ejected from the restaurant.",
+      " — to someone out",
     ]
   },
     {
     numb: 580,
-    question: "hydrate",
+    question: "hydrate:hyp/hypo, under",
     answer: "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
     options: [
-      "a disposition性情 or bent, a liking or preference,意向，my own inclination would be to look for another job",
+      "relating to water, take place or practiced on or in water",
+      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
       "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
-      "- protection fromfalling",
-      "— an underwaterboat",
+      " — the act ofresistance or action against",
     ]
   },
     {
     numb: 581,
-    question: "hydrophobia",
+    question: "hydrophobia:hyp/hypo, under",
     answer: "intense fear of water，",
     options: [
-      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
-      "— studyof ancient fossils",
-      "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
+      "— to force back",
+      "- relating to a city, living in acity",
+      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
       "intense fear of water，",
     ]
   },
     {
     numb: 582,
-    question: "hydroponics",
+    question: "hydroponics:hyper, too much/over/excessive/beyond",
     answer: "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
     options: [
-      "— relating to the eyes",
+      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
+      "a doctor for the teeth",
+      "a cell that forms connective tissue,纤维母细胞",
       "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
-      " - the best somethingcould be",
-      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
     ]
   },
     {
     numb: 583,
-    question: "hydraulic",
+    question: "hydraulic:hyper, too much/over/excessive/beyond",
     answer: "operated by force created by a liquid or water液压,equipment such as cranes, forklifts, jacks, pumps and fall arrest safety harnesses use hydraulics to lift and lower objects.",
     options: [
-      "—- fatherhood",
-      " — surgicalincision of a kidney",
-      "- the place wheresomeone is",
+      "— a doctor for thefeet",
+      "- outside",
       "operated by force created by a liquid or water液压,equipment such as cranes, forklifts, jacks, pumps and fall arrest safety harnesses use hydraulics to lift and lower objects.",
+      "a person traveling to the stars and for spaceflight",
     ]
   },
     {
     numb: 584,
-    question: "homogeneous",
+    question: "homogeneous:hyper, too much/over/excessive/beyond",
     answer: "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
     options: [
-      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
-      "- a list personswho have recently died",
-      "— a person whoplaces him/herself against an action",
+      "science that deals with the aging and problems of old people，老年学",
+      "— the combined effect",
+      "— feeding onwood",
       "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
     ]
   },
     {
     numb: 585,
-    question: "homonym",
+    question: "homonym:hydr/hydro, liquid/water",
     answer: "sounding alike, 同音词,",
     options: [
+      "intention to feel like another person",
       "sounding alike, 同音词,",
-      "white, glowing, or luminous with intense heat，白织灯",
-      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
-      "- veryadvanced in ideas, design, or techniques",
+      "- an insulated jar thatkeeps heat in",
+      "— deep red color and a preciousstone of the same color",
     ]
   },
     {
     numb: 586,
-    question: "homeopath",
+    question: "homeopath:hydr/hydro, liquid/water",
     answer: "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
     options: [
-      "- an umbrella used toprotect from the sun",
-      "a chemical used to kill insects",
-      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
+      "— the place orpoint where two things cross each other",
+      "- a device thatcontrols heat",
       "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
+      "science of secret codes, 密码学",
     ]
   },
     {
     numb: 587,
-    question: "histology",
+    question: "histology:hydr/hydro, liquid/water",
     answer: "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
     options: [
-      "a life story written by another person",
-      "the universe,宇宙,the cosmos is another name for the universe",
       "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
-      "a certificate,literally a letter folded double 文凭",
+      " — a wise person",
+      "a hard, granular rock，花岗岩, Granite kitchen coutertop samples",
+      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
     ]
   },
     {
     numb: 588,
-    question: "histochemistry",
+    question: "histochemistry:hydr/hydro, liquid/water",
     answer: "study of the chemical constitution of cells and tissues组织化学",
     options: [
+      "- a stand or frame with threelegs",
       "study of the chemical constitution of cells and tissues组织化学",
-      "an insane person疯子,a person suffering from mania",
-      " — to someone out",
-      "the tumor of the liver",
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
     ]
   },
     {
     numb: 589,
-    question: "hexagon",
+    question: "hexagon:homo/homeo, like/alike/same",
     answer: "a shape with six angles or sides",
     options: [
+      "— a vehicle withone wheel",
+      "- a government that rules",
+      "a person who gives or donates",
       "a shape with six angles or sides",
-      "a blue-white metallic chemical element,铬",
-      "- able to be touched",
-      "- outside",
     ]
   },
     {
     numb: 590,
-    question: "hexameter",
+    question: "hexameter:homo/homeo, like/alike/same",
     answer: "a verse诗 measured in six六部格诗",
     options: [
-      " - the best somethingcould be",
-      "- theoriespresumed without proof of a scientific nature",
+      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
       "a verse诗 measured in six六部格诗",
-      "enzyme酶 that breaks down fat脂肪酶, lipase is measured with a blood test.",
+      "common protein in muscle tissue,肌球蛋白",
+      "encode into secret code",
     ]
   },
     {
     numb: 591,
-    question: "hexapod",
+    question: "hexapod:homo/homeo, like/alike/same",
     answer: "having six legs, an insect，昆虫,hexapod is six-legged insects",
     options: [
-      "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
-      "to state something clearly,宣布,the government has just declared a state of emerggency",
-      "- silly, causinglaughter",
+      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
+      "the study and history of words，词汇学,",
       "having six legs, an insect，昆虫,hexapod is six-legged insects",
+      "- a person who is new at a job",
     ]
   },
     {
     numb: 592,
-    question: "heterogeneous",
+    question: "heterogeneous:histo, tissue(组织)",
     answer: "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
     options: [
-      "an insane person疯子,a person suffering from mania",
-      "warlike, aggressively hostile,好战的",
-      "particle with a mass between an electron and a proton中子",
+      "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
+      "— to force back",
       "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
+      "to undergo a change变异,how to use mutate function in R",
     ]
   },
     {
     numb: 593,
-    question: "heteronums",
+    question: "heteronums:histo, tissue(组织)",
     answer: "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
     options: [
-      "extremely tiny, 微小的,",
+      "- to save something",
+      "the sugar contained in milk lactic acid like glucose and galactose,乳糖,lactose intolerance乳糖不耐,",
+      "a complete list of items,目录",
       "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
-      "a scientific observer of the celestial(天上的) bodies,天文学家",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
     ]
   },
     {
     numb: 594,
-    question: "heterodox",
+    question: "heterodox:hex/hexa, six",
     answer: "not in accordance with established or accepted doctrines，he paid no price at the polls for his heterodox views",
     options: [
-      " — a species ofanimals with a big horn on the snout",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
-      " — a deviceused to see tiny things",
+      "a place equipped to conduct work or experiments, 实验室,",
+      "a yellowish gem,橄榄石",
+      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
       "not in accordance with established or accepted doctrines，he paid no price at the polls for his heterodox views",
     ]
   },
     {
     numb: 595,
-    question: "herbicide[hur-buh-sahyd]",
+    question: "herbicide[hur-buh-sahyd]:hex/hexa, six",
     answer: "any chemical used to kill unwanted plants, herbicide list",
     options: [
-      "- inflammation ofthe lungs",
-      "disease spreading among people in a region,瘟疫,what is the difference between epidemic and pandemic",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
+      "- a person who is new at a job",
+      "— cosmetic treatment offeet and toes",
       "any chemical used to kill unwanted plants, herbicide list",
-      "- the ability to see, power ofanticipating",
     ]
   },
     {
     numb: 596,
-    question: "herbivorous[hur-biv-er-uh s]",
+    question: "herbivorous[hur-biv-er-uh s]:hex/hexa, six",
     answer: "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
     options: [
-      "— an organism that liveson and off another living being",
-      "formerly the tenth month of the roman calendar",
-      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
       "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
+      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
+      "a female airplane pilot女飞行员",
+      "— a product ofdisintegration or wearing away",
     ]
   },
     {
     numb: 597,
-    question: "herbal[ur-buhl]",
+    question: "herbal[ur-buhl]:hetero, different/other",
     answer: "relating to plants or herbs",
     options: [
-      "a hard to ignore order",
+      "— decided byonly one person or nation",
+      "the study of people, the science of vital and social statistics",
       "relating to plants or herbs",
-      "- open space withbuildings on four sides",
-      "— with many colors",
+      "— to come between",
     ]
   },
     {
     numb: 598,
-    question: "hepatitis",
+    question: "hepatitis:hetero, different/other",
     answer: "inflammation of the liver肝炎, in the state, the most common types of viral hepatitis are hepatitis A, hepatitis B and C",
     options: [
+      "invertebrates(无脊椎动物) with jointed legs节肢动物, spider, crab",
+      " — to apply a rule",
       "inflammation of the liver肝炎, in the state, the most common types of viral hepatitis are hepatitis A, hepatitis B and C",
-      "- lasting throughmany years",
-      " — indirect control by a foreign power",
-      "a person who loves and collects books,图书搜藏者",
+      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
     ]
   },
     {
     numb: 599,
-    question: "hepatoma",
+    question: "hepatoma:hetero, different/other",
     answer: "the tumor of the liver",
     options: [
-      " — to speak in favor of,support or urge by argument",
-      "- to save something",
-      "white, glowing, or luminous with intense heat，白织灯",
+      "someone who beautifies, 美学家, give your esthetician resume a refined look",
+      "— relating to someone whohas supernatural mental abilities",
       "the tumor of the liver",
+      "— marked as worthy ofattention",
     ]
   },
     {
     numb: 600,
-    question: "hepatotoxic",
+    question: "hepatotoxic:herbi, grass/plant",
     answer: "toxic and damaging to the liver, hepatotoxicity by drugs",
     options: [
-      "the act or process of forming or the state of being formed.编队",
       "toxic and damaging to the liver, hepatotoxicity by drugs",
-      "- lastingthroughout all time",
-      "hatred towards men, 厌恶男性",
+      "- truthful, honest",
+      "— opposite of fair",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
     ]
   },
     {
     numb: 601,
-    question: "hemorrhage",
+    question: "hemorrhage:herbi, grass/plant",
     answer: "clotting凝血 of the blood,出血,",
     options: [
+      "- eating all foods",
+      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      "the act of moving",
       "clotting凝血 of the blood,出血,",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
-      " — of affecting asingle eye",
-      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
     ]
   },
     {
     numb: 602,
-    question: "hemorrhoids",
+    question: "hemorrhoids:herbi, grass/plant",
     answer: "swelling of the blood vessels船只，痔疮,",
     options: [
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
-      " — image made onlight-sensitive film",
+      "- to give a false, perverted,or disproportionate meaning to",
       "swelling of the blood vessels船只，痔疮,",
-      "- the truth, conformityto truth or fact; accuracy",
+      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
+      "a sheltered place to flee to, shelter or protection from danger.避难所",
     ]
   },
     {
     numb: 603,
-    question: "hemoglobin",
+    question: "hemoglobin:hepa, liver",
     answer: "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
     options: [
-      "— measles",
+      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
+      "- doing better than",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
       "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
-      "- a newborn child,especially the first few weeks",
-      "- to turn around",
     ]
   },
     {
     numb: 604,
-    question: "hemicycle",
+    question: "hemicycle:hepa, liver",
     answer: "a semicircular structure半圆",
     options: [
-      "- the ability to see, power ofanticipating",
-      " — desiring or eatingfood in great quantities",
+      "- a newborn child,especially the first few weeks",
+      "— a portion of a writtendocument that presents a distinct idea",
       "a semicircular structure半圆",
-      "to burn with a hot instrument,烙，灼烧",
+      "an order or instruction",
     ]
   },
     {
     numb: 605,
-    question: "hemisphere",
+    question: "hemisphere:hepa, liver",
     answer: "one half of the earth or sphere半球",
     options: [
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
+      "- able to be carried",
       "one half of the earth or sphere半球",
-      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
-      "to make alive, to give life to",
-      "malignant dark tumor of the skin",
     ]
   },
     {
     numb: 606,
-    question: "hemistich",
+    question: "hemistich:hem/hemo/hema, blood",
     answer: "half a line of poetry半行,",
     options: [
+      "— the remembering ofpast events",
       "half a line of poetry半行,",
-      "- veryadvanced in ideas, design, or techniques",
-      "protein used as to combat pathogen causing infection,抗体",
-      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
+      "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
+      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
     ]
   },
     {
     numb: 607,
-    question: "hectoliter[hek-tuh-lee-ter]",
+    question: "hectoliter[hek-tuh-lee-ter]:hem/hemo/hema, blood",
     answer: "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
     options: [
-      "— not able to beconquered, insurmountable",
-      "— concerned only with your owninterests",
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
       "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
+      "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
+      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
+      "不道德的",
     ]
   },
     {
     numb: 608,
-    question: "hectare[hek-tair]",
+    question: "hectare[hek-tair]:hem/hemo/hema, blood",
     answer: "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
     options: [
-      "one over one hundred of a meter",
       "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
-      "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
-      "- an actual or constructivesitting of a body",
+      " — a motor vehicle that pullsthings",
+      "- to eat quickly and withgreat fervor",
+      "the quality of being able to move",
     ]
   },
     {
     numb: 609,
-    question: "hectometer[hek-tuh-mee-ter]",
+    question: "hectometer[hek-tuh-mee-ter]:hemi, half, partial",
     answer: "one hundred meters百米,1 hectometer equals 100 meters",
     options: [
-      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      "- a device thatcontrols heat",
+      "- to turn around",
       "one hundred meters百米,1 hectometer equals 100 meters",
-      "the science of female reproductive health妇科",
-      " — appealing to a lot ofpeople",
+      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
     ]
   },
     {
     numb: 610,
-    question: "gynecology[gahy-ni-kol-uh-jee]",
+    question: "gynecology[gahy-ni-kol-uh-jee]:hemi, half, partial",
     answer: "the science of female reproductive health妇科",
     options: [
-      "turning for the worst, a substantial disaster,灾难",
       "the science of female reproductive health妇科",
-      "— abnormal digestion",
-      "— relating to the eyes",
+      "a person who loves and collects books,图书搜藏者",
+      "unit measuring light, 光通量单位",
+      "any instrument that measures atomospheric pressure气压表",
     ]
   },
     {
     numb: 611,
-    question: "gynephobia[jin-uh-foh-bee-uh]",
+    question: "gynephobia[jin-uh-foh-bee-uh]:hemi, half, partial",
     answer: "an abnormal fear of women女性恐惧症",
     options: [
+      "— respect foryourself",
+      "- the ability to see, power ofanticipating",
       "an abnormal fear of women女性恐惧症",
-      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
-      "- to declare in public numerous [noo-mer-uh s",
-      "a cell that forms connective tissue,纤维母细胞",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
     ]
   },
     {
     numb: 612,
-    question: "gynecoid[jin-i-koid]",
+    question: "gynecoid[jin-i-koid]:hect/hecto/hecat, hundred",
     answer: "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
     options: [
-      "a dead body, the actor had to play a corpse laying in a morgue",
-      "relating to the sea海上，Whales and dolphins are maritime animals, according tomaritime law, the captain of a ship can marry two people at sea",
       "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
+      "- a device to talk to adistant person",
+      "disagreement, 争议, the new movie is a subject of controversy",
+      " — of or going to the root ororigin; fundamental",
     ]
   },
     {
     numb: 613,
-    question: "digression",
+    question: "digression:hect/hecto/hecat, hundred",
     answer: "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
     options: [
-      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
-      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
+      "— residential area on the edgeof a city",
       "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
-      "a word that joins parts of sentences",
+      " umbrella protecting fromthe sun",
+      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
     ]
   },
     {
     numb: 614,
-    question: "gratify",
+    question: "gratify:hect/hecto/hecat, hundred",
     answer: "to please someone满足，使高兴，he's highly gratified that his students have done so well",
     options: [
-      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      " — attracted toforeigners",
+      " — a three—wheeledmotorcycle",
+      "- silly, causinglaughter",
       "to please someone满足，使高兴，he's highly gratified that his students have done so well",
-      "lasting through many years,多年生, perennial plants",
-      "a warm blooded animal, therm热量，恒温动物，poeple and mamals are endotherms",
     ]
   },
     {
     numb: 615,
-    question: "gratuity",
+    question: "gratuity:gyn/gyno/gyne, woman, female",
     answer: "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
     options: [
-      "turning for the worst, a substantial disaster,灾难",
-      " — obsessionwith and usually erotic interest on corpses",
+      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
+      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      "this colledge is a mediocrity's catpital平庸之都",
       "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
-      "- to find something outat the end of an investigation",
     ]
   },
     {
     numb: 616,
-    question: "graphology",
+    question: "graphology:gyn/gyno/gyne, woman, female",
     answer: "the study of handwriting,笔迹学",
     options: [
-      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
-      "- relating to heat",
-      "— influenced bydrugs or alcohol",
+      "underlying framework of a system",
+      "— to force back",
+      "the universe,宇宙,the cosmos is another name for the universe",
       "the study of handwriting,笔迹学",
     ]
   },
     {
     numb: 617,
-    question: "autograph",
+    question: "autograph:gyn/gyno/gyne, woman, female",
     answer: "a person's own signature, 签名",
     options: [
-      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
+      "— faster thansound",
+      "the highest ranking bishop(主教),大主教",
       "a person's own signature, 签名",
-      "happening twice a year, semiannual,一年两次，或者两年一次, the olymipic games are biannual",
-      "peculiar to a particular language",
+      "a malleable silvery-white element of the alkaline earth group,钙",
     ]
   },
     {
     numb: 618,
-    question: "seismograph",
+    question: "seismograph:gress/grade/gradi, to step, to go",
     answer: "a machine noting strength and duration of earthquakes,地震仪",
     options: [
-      "- to delay something",
+      "to dip something completely into  water,淹没，the town was submerged by the flood.",
       "a machine noting strength and duration of earthquakes,地震仪",
-      "conversation between two people",
-      "— a passage before themain part",
+      "- a stand or frame with threelegs",
+      "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
     ]
   },
     {
     numb: 619,
-    question: "granary[grey-nuh-ree]",
+    question: "granary[grey-nuh-ree]:grat, pleasing",
     answer: "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
     options: [
-      "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
-      "- relating to the body",
-      "— a composition for fivevoices or instruments",
-      "any chemical used to kill unwanted plants, herbicide list",
-    ]
-  },
-    {
-    numb: 620,
-    question: "granola",
-    answer: "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
-    options: [
-      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
-      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
-      " — of or going to the root ororigin; fundamental",
-      " — a seeinginstrument on a submarine",
-    ]
-  },
-    {
-    numb: 621,
-    question: "granule[gran-yool]",
-    answer: "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
-    options: [
-      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
-      "taking hold of, to attract and hold the attention,迷人的, her voice was absolutely captivating",
-      "— one whowalks",
-      " — the creation ofoffspring that is different from either parent",
-    ]
-  },
-    {
-    numb: 622,
-    question: "diagram",
-    answer: "drawing that explains something such as the parts etc，",
-    options: [
-      "- the combined total of everything",
-      "a hard to ignore order",
-      "drawing that explains something such as the parts etc，",
-      "- the act or fact ofdetaining, putting somebody on hold",
-    ]
-  },
-    {
-    numb: 623,
-    question: "telegram",
-    answer: "a message sent by telegraph",
-    options: [
-      "— a product ofdisintegration or wearing away",
-      "a message sent by telegraph",
-      "a doctor for the teeth",
-      "similarity, especially between things otherwise dissimilar, 比喻, he drew an analogy between the brain and a vast computer",
-    ]
-  },
-    {
-    numb: 624,
-    question: "decagon",
-    answer: "a polygon with ten angles, a decagon has 10 equal sides",
-    options: [
-      "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
-      " — caused by light,forming an attractive subject for photography",
-      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
-      "a polygon with ten angles, a decagon has 10 equal sides",
-    ]
-  },
-    {
-    numb: 625,
-    question: "diagonal[dahy-ag-uh-nl]",
-    answer: "a slanting line running across a space,对角线, ",
-    options: [
-      " — somethingthat bears or diffuses a scent",
-      "study of the working environment, human enginering,人体工程学， nomics经济学",
-      "a slanting line running across a space,对角线, ",
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
-    ]
-  },
-    {
-    numb: 626,
-    question: "octagon",
-    answer: "a geometrical figure with eight angles八角形,10 octagon examples in real life",
-    options: [
-      "to set free",
-      "one's insanity as related to the moon",
-      "a geometrical figure with eight angles八角形,10 octagon examples in real life",
-      "— a person who tells astory",
-    ]
-  },
-    {
-    numb: 627,
-    question: "gigabyte",
-    answer: "a measure of storage capacity equal to bytes,GB，",
-    options: [
-      "flat tongue-shaped pasta扁面条,",
       "a measure of storage capacity equal to bytes,GB，",
-      "— the act of rubbingtogether or wearing down",
-      "a fiber optics instrument used to see inside a joint,关节镜",
-    ]
-  },
-    {
-    numb: 628,
-    question: "gigahertz",
-    answer: "unit of frequency,Ghz, 十亿赫兹",
-    options: [
-      "— not able to beconquered, insurmountable",
-      "unit of frequency,Ghz, 十亿赫兹",
-      "easy to break",
-      " — relating totechnology; relating to science and industry",
-    ]
-  },
-    {
-    numb: 629,
-    question: "gigawatt",
-    answer: "unit of electric power（one billion watts）千兆瓦,",
-    options: [
-      "unit of electric power（one billion watts）千兆瓦,",
-      "— the studyof ancient forms of writing",
-      "- to force someone to act",
-      "- at a standstill,fixed",
-    ]
-  },
-    {
-    numb: 630,
-    question: "gerontocracy",
-    answer: "a governing body consisting of old people,老人政治,",
-    options: [
-      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
-      "- to proclaim harshcriticism",
-      "— a large city",
-      "a governing body consisting of old people,老人政治,",
-    ]
-  },
-    {
-    numb: 631,
-    question: "gerontology",
-    answer: "science that deals with the aging and problems of old people，老年学",
-    options: [
-      "science that deals with the aging and problems of old people，老年学",
-      "- to go or climb down",
-      "put into power, to enable or permit",
+      "a region that produces great quantities of grain, 粮仓, good practice example village granaries",
+      "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
       "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
     ]
   },
     {
-    numb: 632,
-    question: "geography",
-    answer: "study of the earth's surface,地理,",
+    numb: 620,
+    question: "granola:grat, pleasing",
+    answer: "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
     options: [
-      "the custom to marry within one's clan氏族, tirbe,同族通婚",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
-      "a person's own signature, 签名",
-      "study of the earth's surface,地理,",
+      "- sense of knowingright from wrong",
+      "unit of electric power（one billion watts）千兆瓦,",
+      "— respect foryourself",
+      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
     ]
   },
     {
-    numb: 633,
-    question: "geology",
-    answer: "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+    numb: 621,
+    question: "granule[gran-yool]:graph/graphy, writing/recording/written",
+    answer: "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
     options: [
-      "- able to be carried",
-      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
-      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
-      " - afraid offoreigners",
+      "a chemical used to kill insects",
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      " — instrument formeasuring hardness",
+      "similarity, especially between things otherwise dissimilar, 比喻, he drew an analogy between the brain and a vast computer",
     ]
   },
     {
-    numb: 634,
-    question: "geoponics",
-    answer: "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+    numb: 622,
+    question: "diagram:graph/graphy, writing/recording/written",
+    answer: "drawing that explains something such as the parts etc，",
     options: [
-      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
-      "being absolutely sure, I feel certain you are doing the right thing",
-      "name of a flower, an imaginary undying flower,苋菜,",
+      "— not able to beconquered, insurmountable",
+      "- half the earthspherically shaped like a ball",
+      "drawing that explains something such as the parts etc，",
+      "— the human spirit or soul",
+    ]
+  },
+    {
+    numb: 623,
+    question: "telegram:graph/graphy, writing/recording/written",
+    answer: "a message sent by telegraph",
+    options: [
+      "缩减",
+      "a message sent by telegraph",
+      "- the truth, conformityto truth or fact; accuracy",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+    ]
+  },
+    {
+    numb: 624,
+    question: "decagon:gran, grain",
+    answer: "a polygon with ten angles, a decagon has 10 equal sides",
+    options: [
+      "a polygon with ten angles, a decagon has 10 equal sides",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "very small or trivial details细节, the minutiae of everyday life",
+      " — aconversation where discussion turned againsteach other",
+    ]
+  },
+    {
+    numb: 625,
+    question: "diagonal[dahy-ag-uh-nl]:gran, grain",
+    answer: "a slanting line running across a space,对角线, ",
+    options: [
+      "equal distance",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "a slanting line running across a space,对角线, ",
+      "- to name someonefor election or to designate",
+    ]
+  },
+    {
+    numb: 626,
+    question: "octagon:gran, grain",
+    answer: "a geometrical figure with eight angles八角形,10 octagon examples in real life",
+    options: [
+      "— poisonous",
+      "the study of handwriting,笔迹学",
+      " — a motor vehicle that pullsthings",
+      "a geometrical figure with eight angles八角形,10 octagon examples in real life",
+    ]
+  },
+    {
+    numb: 627,
+    question: "gigabyte:gram, letter/written",
+    answer: "a measure of storage capacity equal to bytes,GB，",
+    options: [
+      "— a large city",
+      "a woman head of a household女族长,",
+      "a measure of storage capacity equal to bytes,GB，",
+      " — caused by light,forming an attractive subject for photography",
+    ]
+  },
+    {
+    numb: 628,
+    question: "gigahertz:gram, letter/written",
+    answer: "unit of frequency,Ghz, 十亿赫兹",
+    options: [
+      "unit of frequency,Ghz, 十亿赫兹",
+      "the science of people and races,民族学",
+      "a blue-white metallic chemical element,铬",
+      "a treasurer, especially of a college or university,大学财务主管",
+    ]
+  },
+    {
+    numb: 629,
+    question: "gigawatt:gon, angle",
+    answer: "unit of electric power（one billion watts）千兆瓦,",
+    options: [
+      "unit of electric power（one billion watts）千兆瓦,",
+      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "the study of people, the science of vital and social statistics",
       "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
     ]
   },
     {
+    numb: 630,
+    question: "gerontocracy:gon, angle",
+    answer: "a governing body consisting of old people,老人政治,",
+    options: [
+      " — indirect control by a foreign power",
+      "— to come between",
+      "a governing body consisting of old people,老人政治,",
+      "— to force back",
+    ]
+  },
+    {
+    numb: 631,
+    question: "gerontology:gon, angle",
+    answer: "science that deals with the aging and problems of old people，老年学",
+    options: [
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
+      "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
+      "- relating to cleanlinessand health",
+      "science that deals with the aging and problems of old people，老年学",
+    ]
+  },
+    {
+    numb: 632,
+    question: "geography:giga, a billion",
+    answer: "study of the earth's surface,地理,",
+    options: [
+      "- a stand or frame with threelegs",
+      "study of the earth's surface,地理,",
+      "a blue-white metallic chemical element,铬",
+      "- with all thepower",
+    ]
+  },
+    {
+    numb: 633,
+    question: "geology:giga, a billion",
+    answer: "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+    options: [
+      "- the study ofreligion, god, etc.",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
+      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
+    ]
+  },
+    {
+    numb: 634,
+    question: "geoponics:giga, a billion",
+    answer: "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+    options: [
+      "- relating to the body",
+      "— the study",
+      "- being something in nameonly but not in reality",
+      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+    ]
+  },
+    {
     numb: 635,
-    question: "genealogy",
+    question: "genealogy:ger, old age",
     answer: "the study of the history of a family,家谱,130 genealogy chart samples ideas",
     options: [
+      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
+      "ancestor, forefathers,祖先,",
       "the study of the history of a family,家谱,130 genealogy chart samples ideas",
-      "make larger放大, the lens magnified the image 100 times",
-      "- to put into words",
-      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      "to make alive, to give life to",
     ]
   },
     {
     numb: 636,
-    question: "gastric[gas-trik]",
+    question: "gastric[gas-trik]:ger, old age",
     answer: "pertaining有关的 to the stomach,胃，he suffered from diabetes and gastric ulcers(溃疡)",
     options: [
-      "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
       "pertaining有关的 to the stomach,胃，he suffered from diabetes and gastric ulcers(溃疡)",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
-      "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
+      " — usesmanipulation of the skeleton to restore health",
+      "— the place orpoint where two things cross each other",
+      "- to formally break away from",
     ]
   },
     {
     numb: 637,
-    question: "gastronomy[ga-stron-uh-mee]",
+    question: "gastronomy[ga-stron-uh-mee]:ger, old age",
     answer: "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
     options: [
+      "- a part in front of aformal document",
       "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
-      "the inn is accessible by train and bus, it is a fascinating and accessible book",
-      "a sheltered place to flee to, shelter or protection from danger.避难所",
-      "- pull out at the roots",
+      "a short expression of a general truth,格言",
+      "- a figure with eight sidesand eight angles",
     ]
   },
     {
     numb: 638,
-    question: "gastritis",
+    question: "gastritis:geo, earth/soil/global",
     answer: "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
     options: [
-      "a complete list of items,目录",
-      "- to make sure thatsomething is true",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
+      "art of public speaking，演说, I need more training in order to improve my elocution",
+      "protein used as to combat pathogen causing infection,抗体",
       "Inflammation of the stomach,胃炎,symptoms of gastritis include, tummy pain, indigestion, feeling full and floating",
-      " — to continue through for along time",
     ]
   },
     {
     numb: 639,
-    question: "fuse[fyooz]:",
+    question: "fuse[fyooz]::geo, earth/soil/global",
     answer: "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
     options: [
-      "a woman head of a household女族长,",
       "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
-      "— a composition orgroup of six",
-      "the ability to move objects with you mind",
+      "a machine noting strength and duration of earthquakes,地震仪",
+      "- a plant growingindependently on the surface of another",
+      " — the ability todiscipline yourself",
     ]
   },
     {
     numb: 640,
-    question: "infuse",
+    question: "infuse:geo, earth/soil/global",
     answer: "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
     options: [
+      "— knowing what ishappeningomniscient {om-nish—uh nt",
       "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
-      "someone who destroys religious images and trditional beliefs",
-      "young, youthful, juvenile readers",
-      "—the process of removing poisons",
+      "- to go or climb down",
+      "— a wise saying or precept; adidactic sentence",
     ]
   },
     {
     numb: 641,
-    question: "defunct:",
+    question: "defunct::gen/geno/gene, genesis, birth, production, formation, kind",
     answer: "no longer working or alive",
     options: [
-      "匿名的",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
-      " — obsessionwith and usually erotic interest on corpses",
+      "a small dash used in place of an omitted letter,撇号",
+      "- inflammation of a mucousmembrane of the nose and throat",
+      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
       "no longer working or alive",
     ]
   },
     {
     numb: 642,
-    question: "malfunction",
+    question: "malfunction:gaster/gastro, stomach",
     answer: "to fail to work correctly故障",
     options: [
+      "— knowing all things",
       "to fail to work correctly故障",
-      "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
-      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-      "— to keep away from",
+      "— partlyconscious",
+      "- to cause tooccur at the same time",
     ]
   },
     {
     numb: 643,
-    question: "fugitive:",
+    question: "fugitive::gaster/gastro, stomach",
     answer: "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
     options: [
+      "— mentally healthy",
       "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
-      " — without sense",
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
-      "— standing steady and firm",
+      "- a stand or frame with threelegs",
+      "an undersea boat",
     ]
   },
     {
     numb: 644,
-    question: "refuge[ref-yooj(youzhi)]:",
+    question: "refuge[ref-yooj(youzhi)]::gaster/gastro, stomach",
     answer: "a sheltered place to flee to, shelter or protection from danger.避难所",
     options: [
       "a sheltered place to flee to, shelter or protection from danger.避难所",
-      "— faster thansound",
-      "- at a standstill,fixed",
-      "- to go back on a promise, tobreak a rule of play",
+      "— cosmetic treatment offeet and toes",
+      "one thousandth of a bar毫巴，压强单位",
+      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
     ]
   },
     {
     numb: 645,
-    question: "refugee:",
+    question: "refugee::fus, pour",
     answer: "a person seeking protection, a person who flees for refuge or safety.",
     options: [
+      "one hundred meters百米,1 hectometer equals 100 meters",
       "a person seeking protection, a person who flees for refuge or safety.",
-      "showing romantic love, especially sexual love",
-      "- a proposition for discussion orput an unifying view",
-      "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
+      "the highest ranking bishop(主教),大主教",
+      "a person who moves to a new country to settle",
     ]
   },
     {
     numb: 646,
-    question: "fracture:",
+    question: "fracture::fus, pour",
     answer: "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
     options: [
+      "a Russian astronaut",
+      "affecting one side or involving one side only单方面, examples of unilateral contract example",
       "the act of breaking, state of being broken, broken bones，断裂, bone fractures",
-      "one half of the earth or sphere半球",
-      "resulting from heart disease,心源性的,",
-      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
+      "- able to be carried",
     ]
   },
     {
     numb: 647,
-    question: "fragile:",
+    question: "fragile::funct, perform, work",
     answer: "easy to break",
     options: [
-      "— with no specialcharacteristics",
-      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
-      " — disease which causes the tissue of thebrain and spinal cord to harden",
+      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
+      "- the science ofClassification",
+      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
       "easy to break",
     ]
   },
     {
     numb: 648,
-    question: "fragment:",
+    question: "fragment::funct, perform, work",
     answer: "a part broken off or detached分段,sentence fragment examples and their corrections",
     options: [
       "a part broken off or detached分段,sentence fragment examples and their corrections",
-      "a class of animals with very thick skin(elephant, rhinoceros)",
-      "- underlyingframework of a system",
-      "a short speech delivered after a play, 结语， how to write an epilogue?",
+      " — the pure andconcentrated essence of a substance",
+      "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
+      "- to build",
     ]
   },
     {
     numb: 649,
-    question: "fraction:",
+    question: "fraction::fug, flee/run away/escape",
     answer: "a part of element of a larger whole,分数,",
     options: [
+      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
+      "— opposite of fair",
+      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
       "a part of element of a larger whole,分数,",
-      "- to cause tooccur at the same time",
-      "a word that joins parts of sentences",
-      "— a prediction of whatwill happen",
     ]
   },
     {
     numb: 650,
-    question: "conformity:",
+    question: "conformity::fug, flee/run away/escape",
     answer: "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
     options: [
-      "- to declare in public numerous [noo-mer-uh s",
+      "- to cut into two equal parts",
       "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
-      " — a supporter of therights of people",
-      "a person who governs with absolute power, a monarch,独裁者",
+      "- standing still, notmoving",
+      " — aftersomeone's death",
     ]
   },
     {
     numb: 651,
-    question: "formation:",
+    question: "formation::fug, flee/run away/escape",
     answer: "the act or process of forming or the state of being formed.编队",
     options: [
-      "- loss of the ability tocoordinate muscle action",
+      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
+      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
       "the act or process of forming or the state of being formed.编队",
-      "to burn with a hot instrument,烙，灼烧",
-      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
+      "a geometrical figure with eight angles八角形,10 octagon examples in real life",
     ]
   },
     {
     numb: 652,
-    question: "reformatory:",
+    question: "reformatory::fract, frag, break",
     answer: "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     options: [
-      "warlike, aggressively hostile,好战的",
+      "fear of height恐高症",
       "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
-      "ten years",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
-    ]
-  },
-    {
-    numb: 653,
-    question: "forebear:",
-    answer: "ancestor, forefathers,祖先,",
-    options: [
-      "the process of moving to another place移民",
-      "ancestor, forefathers,祖先,",
-      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
-      "a doctor who treat children,choose a new pediatrician for you new baby",
-    ]
-  },
-    {
-    numb: 654,
-    question: "forebode:",
-    answer: "to give an advance warning of something bad, be an omen 预示,",
-    options: [
-      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
-      "to give an advance warning of something bad, be an omen 预示,",
-      " — a species ofanimals with a big horn on the snout",
-      "an abnormal fear of women女性恐惧症",
-    ]
-  },
-    {
-    numb: 655,
-    question: "florist:",
-    answer: "someone working with flowers,  a grower of flowers",
-    options: [
-      "conversation between two people",
-      "— relating tosomething in the past",
-      "someone working with flowers,  a grower of flowers",
-      "medical care for feet足病学,what do podiatrists do?",
-    ]
-  },
-    {
-    numb: 656,
-    question: "floral:",
-    answer: "flowerlike",
-    options: [
-      "- to make fun or mock",
-      "clotting凝血 of the blood,出血,",
-      "swelling of the blood vessels船只，痔疮,",
-      "flowerlike",
-    ]
-  },
-    {
-    numb: 657,
-    question: "flora:",
-    answer: "the plant life of a particular time or area, flora of China中国植物志",
-    options: [
-      "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
-      "towards the inside,内向,what would it do to inward investment?",
-      "the plant life of a particular time or area, flora of China中国植物志",
-      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
-    ]
-  },
-    {
-    numb: 658,
-    question: "deflect:",
-    answer: "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
-    options: [
-      "— people who work for thegovt. to maintain order in a city",
-      " — a lookingback at past things",
-      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+      "disagreement, 争议, the new movie is a subject of controversy",
       "- a part in front of aformal document",
     ]
   },
     {
+    numb: 653,
+    question: "forebear::fract, frag, break",
+    answer: "ancestor, forefathers,祖先,",
+    options: [
+      "- half the earthspherically shaped like a ball",
+      "a woman head of a household女族长,",
+      "— knowing all things",
+      "ancestor, forefathers,祖先,",
+    ]
+  },
+    {
+    numb: 654,
+    question: "forebode::fract, frag, break",
+    answer: "to give an advance warning of something bad, be an omen 预示,",
+    options: [
+      "to give an advance warning of something bad, be an omen 预示,",
+      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
+      " — cannibalism",
+      "- sense of knowingright from wrong",
+    ]
+  },
+    {
+    numb: 655,
+    question: "florist::fract, frag, break",
+    answer: "someone working with flowers,  a grower of flowers",
+    options: [
+      "someone working with flowers,  a grower of flowers",
+      "— a passage before themain part",
+      "— concerned only with your owninterests",
+      "— a doctor for thefeet",
+    ]
+  },
+    {
+    numb: 656,
+    question: "floral::form, shape",
+    answer: "flowerlike",
+    options: [
+      "flowerlike",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "— one wholoves humanity",
+      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
+    ]
+  },
+    {
+    numb: 657,
+    question: "flora::form, shape",
+    answer: "the plant life of a particular time or area, flora of China中国植物志",
+    options: [
+      " — a lookingback at past things",
+      "the plant life of a particular time or area, flora of China中国植物志",
+      "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
+      " — a substancethat helps prevent body odor",
+    ]
+  },
+    {
+    numb: 658,
+    question: "deflect::form, shape",
+    answer: "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+    options: [
+      "person who moves from place to place",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
+      "- belief inone god",
+      "hatred towards men, 厌恶男性",
+    ]
+  },
+    {
     numb: 659,
-    question: "inflection:",
+    question: "inflection::fore, in front of, previous, earlier",
     answer: "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
     options: [
-      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
-      "to work together, to cooperate,合作,the two companies agreed to collaborate",
+      " — a room whereone is exposed to sun light",
       "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
-      "pertaining to the middle age中shiji",
+      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
+      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
     ]
   },
     {
     numb: 660,
-    question: "flexible:",
+    question: "flexible::fore, in front of, previous, earlier",
     answer: "easily bending",
     options: [
-      "to sail around, to go or maneuver around, the ship circumnavigate the world",
-      "malignant dark tumor of the skin",
-      "a short expression of a general truth,格言",
+      "an instrument that measures time",
+      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
       "easily bending",
+      "— abnormallyexcessive bowel movement",
     ]
   },
     {
     numb: 661,
-    question: "confide:",
+    question: "confide::flor/flora/fleur, flower",
     answer: "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
     options: [
+      "the structure as visible when cut up for analysis,解刨学",
       "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
-      "- protection fromfalling",
-      "loud enough to be heard, actually heard",
-      "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
+      "— residential area on the edgeof a city",
+      " — a plant thatgrows only in water",
     ]
   },
     {
     numb: 662,
-    question: "fidelity:",
+    question: "fidelity::flor/flora/fleur, flower",
     answer: "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
     options: [
+      "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
       "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
-      "- to put off doingsomething",
-      "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
-      "the act of moving",
+      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
+      "— to force back",
     ]
   },
     {
     numb: 663,
-    question: "fiduciary[fi-doo-shee-er-ee]:",
+    question: "fiduciary[fi-doo-shee-er-ee]::flor/flora/fleur, flower",
     answer: "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
     options: [
-      "a female airplane pilot女飞行员",
-      "excessive or extreme emotional tensseness，ususally means high blood pressure.",
-      "— studyof ancient fossils",
       "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
+      "- a variation of an original,to turn it as another translation",
+      "— a person who seesan event",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
     ]
   },
     {
     numb: 664,
-    question: "confer:",
+    question: "confer::flect, bend",
     answer: "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
     options: [
-      "- to introduce a new way",
-      "pertaining to the brain,大脑",
-      "a message sent by telegraph",
+      "— a person whoplaces him/herself against an action",
       "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
+      "— an instrumentattached to a vehicle to measure the distancetraversed",
+      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
     ]
   },
     {
     numb: 665,
-    question: "ferry:",
+    question: "ferry::flect, bend",
     answer: "a boat that carries passengers,渡船, The cars were ferried across the river.",
     options: [
-      "- extremely high",
-      " — a person in his/her seventies",
       "a boat that carries passengers,渡船, The cars were ferried across the river.",
-      "a waiting room",
+      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
+      "an order or instruction",
+      "- to save or keepsomething safe",
     ]
   },
     {
     numb: 666,
-    question: "artifact",
+    question: "artifact:flect, bend",
     answer: "object made by a person's skill, 人工制品,15 examples of cultural artifact",
     options: [
+      "kg, ont thousand grams",
+      "— something built orconstructed, as a building, bridge, or dam",
+      "— nature and shape of one'sbody",
       "object made by a person's skill, 人工制品,15 examples of cultural artifact",
-      "— an organism that liveson and off another living being",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
-      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
     ]
   },
     {
     numb: 667,
-    question: "malefactor:",
+    question: "malefactor::fid, faith",
     answer: "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
     options: [
-      "relating to sound and vision视听, make a audiovisual presentation",
-      "— a dryphotocopying process",
-      "a certificate,literally a letter folded double 文凭",
       "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
+      "— meat—eating",
+      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      " — caused by light,forming an attractive subject for photography",
     ]
   },
     {
     numb: 668,
-    question: "extraterrestrial:",
+    question: "extraterrestrial::fid, faith",
     answer: "outside the earth, extraterrestrial life",
     options: [
-      "a machine noting strength and duration of earthquakes,地震仪",
+      "- to build",
+      "— a branchlike part",
       "outside the earth, extraterrestrial life",
-      "- to name someonefor election or to designate",
-      "— to show approval ofespecially by clapping the hands",
+      "any chemical used to kill unwanted plants, herbicide list",
     ]
   },
     {
     numb: 669,
-    question: "extrovert:",
+    question: "extrovert::fid, faith",
     answer: "an outgoing person, 性格外向的, extrovert personality",
     options: [
-      " — maintenance ofpublic health and cleanliness",
-      "- able to be carried",
+      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
+      " — a beginner, startingto grow",
+      " — to come with a product ofone's own ingenuity",
       "an outgoing person, 性格外向的, extrovert personality",
-      "motion picture making",
     ]
   },
     {
     numb: 670,
-    question: "excavate:",
+    question: "excavate::fer, bear/bring/carry",
     answer: "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
     options: [
-      " -— surgery ofthe nose",
-      "the study of ancient cultures, the study of antiquity,考古学",
       "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
-      "删节",
+      "a polygon with ten angles, a decagon has 10 equal sides",
+      "a class of animals with very thick skin(elephant, rhinoceros)",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
     ]
   },
     {
     numb: 671,
-    question: "exhale:",
+    question: "exhale::fer, bear/bring/carry",
     answer: "to breathe out,呼气, she held her breath for a moment and then exhaled.",
     options: [
-      "based on a belief of what makes a man ill also cures him，顺势疗法,homeopathy is a medical system based on the belief that the body can cure itself.",
-      " — the pure andconcentrated essence of a substance",
+      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
+      "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
+      "a person who gives or donates",
       "to breathe out,呼气, she held her breath for a moment and then exhaled.",
-      "a crazy love of books藏书狂,biliomania is an extreme passion for books",
     ]
   },
     {
     numb: 672,
-    question: "euphemism[yoo-fuh-miz-uh m]:",
+    question: "euphemism[yoo-fuh-miz-uh m]::fac/fact, make/do",
     answer: "replacing an offensive word with an inoffensive one委婉语, we have to let you go, tyler, this is a euphemism means fire you",
     options: [
+      "not changing",
+      "— a twistedshape or position",
+      "- to force someone to act",
       "replacing an offensive word with an inoffensive one委婉语, we have to let you go, tyler, this is a euphemism means fire you",
-      " — aftersomeone's death",
-      "the study of mankind",
-      "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
     ]
   },
     {
     numb: 673,
-    question: "euphony[yoo-foh-nee-uh s]:",
+    question: "euphony[yoo-foh-nee-uh s]::fac/fact, make/do",
     answer: "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
     options: [
-      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
+      "a chemical used to kill insects",
+      "- a state in which two thingstouch",
       "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
-      "— a person who tells astory",
-      "a complete list of items,目录",
+      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
     ]
   },
     {
     numb: 674,
-    question: "euphoria:",
+    question: "euphoria::extra, extro, outside/beyond",
     answer: "feeling of well being, 快感, I was in a state of euphoria all day",
     options: [
+      " — a seeinginstrument on a submarine",
       "feeling of well being, 快感, I was in a state of euphoria all day",
-      "the mechanical removal of  fat reserves in the tissue抽脂术,liposuction before and after photos",
-      "underlying framework of a system",
-      "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
+      "- inflammation of a mucousmembrane of the nose and throat",
+      "on the side, on or to one side, he took her aside to speak to her privately",
     ]
   },
     {
     numb: 675,
-    question: "ethnic[eth-nik]:",
+    question: "ethnic[eth-nik]::extra, extro, outside/beyond",
     answer: "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
     options: [
-      "to please someone满足，使高兴，he's highly gratified that his students have done so well",
-      "the study of handwriting,笔迹学",
+      " —inflammation caused by degeneration of thejoints",
+      "— having parts orelements strongly holding to each other",
+      "earth's surface inhabited by living things生态环境",
       "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
-      " — the outer boundaryof an area",
     ]
   },
     {
     numb: 676,
-    question: "ethnocentric",
+    question: "ethnocentric:ex, from, out",
     answer: "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
     options: [
-      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
-      " — disease which causes the tissue of thebrain and spinal cord to harden",
-      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "- the highest point or top",
+      "— worthy of beingapplauded",
+      "the primitive layer of cells from the segmentation of the ovum,胚层",
       "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
     ]
   },
     {
     numb: 677,
-    question: "ethnology",
+    question: "ethnology:ex, from, out",
     answer: "the science of people and races,民族学",
     options: [
-      "—- fatherhood",
-      " — a room whereone is exposed to sun light",
+      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
+      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
+      "toxic and damaging to the liver, hepatotoxicity by drugs",
       "the science of people and races,民族学",
-      "— standing steady and firm",
     ]
   },
     {
     numb: 678,
-    question: "esthetician[es-thi-tish-uh n]:",
+    question: "esthetician[es-thi-tish-uh n]::eu, good, well",
     answer: "someone who beautifies, 美学家, give your esthetician resume a refined look",
     options: [
-      "— the remembering ofpast events",
-      "- to sailaround a place",
+      "to lean or lie back; rest in a recumbent position,横卧,she reclined his head on my shoulder",
       "someone who beautifies, 美学家, give your esthetician resume a refined look",
-      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+      "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
+      "— on of the very basic parts ofan atom",
     ]
   },
     {
     numb: 679,
-    question: "aesthetic:",
+    question: "aesthetic::eu, good, well",
     answer: "pertaining to a sense of beauty,审美的, The concept of aesthetic",
     options: [
-      "- the place wheresomeone is",
-      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
       "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
+      "pertaining to the brain,大脑",
+      "a doctor for the teeth",
+      " — having aterribly bad smell",
     ]
   },
     {
     numb: 680,
-    question: "kinesthesia[kin-uh s-thee-zhuh]",
+    question: "kinesthesia[kin-uh s-thee-zhuh]:eu, good, well",
     answer: "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
     options: [
-      "— alongside and always anequal distance apart",
-      "a generator of energy,发电机",
-      "— a person whoplaces him/herself against an action",
+      "affecting one side or involving one side only单方面, examples of unilateral contract example",
+      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
+      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
       "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
     ]
   },
     {
     numb: 681,
-    question: "ergonomics[ur.guh哥.naa.miks]:",
+    question: "ergonomics[ur.guh哥.naa.miks]::ethno, race, people",
     answer: "study of the working environment, human enginering,人体工程学， nomics经济学",
     options: [
+      "- relating to fathers",
       "study of the working environment, human enginering,人体工程学， nomics经济学",
-      "- lasting throughmany years",
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
+      " — ground or land",
+      "- contribution of one's thinking.",
     ]
   },
     {
     numb: 682,
-    question: "energetics",
+    question: "energetics:ethno, race, people",
     answer: "the branch of physics that deals with energy能量学, energetics of chemical reactions",
     options: [
-      "— not able to beconquered, insurmountable",
-      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
-      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
+      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
+      "- to find something outat the end of an investigation",
       "the branch of physics that deals with energy能量学, energetics of chemical reactions",
+      "to fill with light,照亮,解释,",
     ]
   },
     {
     numb: 683,
-    question: "equidistant:",
+    question: "equidistant::ethno, race, people",
     answer: "equal distance",
     options: [
-      "- affecting all",
-      "a statement of equality, 方程， equations and formulas, how to solve equations",
       "equal distance",
-      "- shape having fiveangles and five sides",
+      "a collection of historical materials,档案, the national archives and record administration, archive records",
+      "- to say it didn't happen",
+      "- to write letters or wordson a surface",
     ]
   },
     {
     numb: 684,
-    question: "equanimity:",
+    question: "equanimity::esth/aesth, feeling, sensation, beauty",
     answer: "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
     options: [
+      "a person who commits a crime or some other wrong,作恶者，犯罪，the malefactor who was videotaped stealing money from a cash register",
       "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
-      "the cross itself as a christian emblem, 十字架",
-      "—the process of removing poisons",
-      "particle with a mass between an electron and a proton中子",
+      "kg, ont thousand grams",
+      "happending at the same time",
     ]
   },
     {
     numb: 685,
-    question: "equation:",
+    question: "equation::esth/aesth, feeling, sensation, beauty",
     answer: "a statement of equality, 方程， equations and formulas, how to solve equations",
     options: [
       "a statement of equality, 方程， equations and formulas, how to solve equations",
-      " — a person who rules onbehalf of a king or queen",
-      "- to name someonefor election or to designate",
-      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "an order or instruction",
+      "conversation between two people",
     ]
   },
     {
     numb: 686,
-    question: "epilogue:",
+    question: "epilogue::esth/aesth, feeling, sensation, beauty",
     answer: "a short speech delivered after a play, 结语， how to write an epilogue?",
     options: [
-      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
-      " — a verystrong urge",
+      " — all of thepeople who live in a particular area",
+      "— relating to the eyes",
       "a short speech delivered after a play, 结语， how to write an epilogue?",
-      " — gotten at birth, existingin or formed by nature",
+      "the science of life or living matter in all its forms,生物学",
     ]
   },
     {
     numb: 687,
-    question: "epicenter:",
+    question: "epicenter::erg/ergo, work",
     answer: "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
     options: [
-      "- a variation of an original,to turn it as another translation",
-      "the middle muscle of the heart心机, ",
+      "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
+      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
       "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
-      "a miniature universe, 微观世界",
-    ]
-  },
-    {
-    numb: 688,
-    question: "envision:",
-    answer: "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
-    options: [
-      "to sail around, to go or maneuver around, the ship circumnavigate the world",
-      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
-      "toxic and damaging to the liver, hepatotoxicity by drugs",
       "to honor the memory of, as by a ceremony纪念,the festival commemorates the town's founding",
     ]
   },
     {
+    numb: 688,
+    question: "envision::erg/ergo, work",
+    answer: "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
+    options: [
+      "to picture in the mind, 想象, they envision an equal society, free from poverty and disease",
+      "- standing still, notmoving",
+      " — rule oftechnology where the system of government isbased",
+      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
+    ]
+  },
+    {
     numb: 689,
-    question: "inwards:",
+    question: "inwards::equ/equi, equal, equally",
     answer: "towards the inside,内向,what would it do to inward investment?",
     options: [
       "towards the inside,内向,what would it do to inward investment?",
-      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
-      " — to produce with yourvoice, utter, articulate, sing",
-      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
+      "- inflammation of a mucousmembrane of the nose and throat",
+      "a hard to ignore order",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
     ]
   },
     {
     numb: 690,
-    question: "bicentennial:",
+    question: "bicentennial::equ/equi, equal, equally",
     answer: "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
     options: [
-      "pertaining to pressure, esp. of the atmosphere气压",
-      "— the love of wisdom",
+      "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
+      "— studyof ancient fossils",
+      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
       "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
-      "abnormally low body temperature",
     ]
   },
     {
     numb: 691,
-    question: "centennial:",
+    question: "centennial::equ/equi, equal, equally",
     answer: "of or relating to an age or period of 100 years, 一百周年,the centennial celebration of the railway was held in Lincoin Nebraska.",
     options: [
-      " — to come with a product ofone's own ingenuity",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
-      "the plant life of a particular time or area, flora of China中国植物志",
       "of or relating to an age or period of 100 years, 一百周年,the centennial celebration of the railway was held in Lincoin Nebraska.",
+      " — to come in agathering or assembly of people",
+      "- acrossthe continent",
+      "make larger放大, the lens magnified the image 100 times",
     ]
   },
     {
     numb: 692,
-    question: "perennial:",
+    question: "perennial::ep/epi, on/upon/over/among/at/after/to",
     answer: "lasting through many years,多年生, perennial plants",
     options: [
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-      "- a variation of an original,to turn it as another translation",
-      "relating to sound and vision视听, make a audiovisual presentation",
       "lasting through many years,多年生, perennial plants",
+      "study of the structure of the earth,地质学,the geology of Mars, Lunar geology,",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
+      "happending at the same time",
     ]
   },
     {
     numb: 693,
-    question: "endotherm:",
+    question: "endotherm::ep/epi, on/upon/over/among/at/after/to",
     answer: "a warm blooded animal, therm热量，恒温动物，poeple and mamals are endotherms",
     options: [
+      "the tumor of the liver",
+      "— abnormallyexcessive bowel movement",
+      "a statement of equality, 方程， equations and formulas, how to solve equations",
       "a warm blooded animal, therm热量，恒温动物，poeple and mamals are endotherms",
-      "- shape having fiveangles and five sides",
-      " — relating totechnology; relating to science and industry",
-      "scieence of symbols and icons",
     ]
   },
     {
     numb: 694,
-    question: "endocrine:",
+    question: "endocrine::en, in, inside, inwards",
     answer: "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
     options: [
+      " — a yellow papule ornodule in the skin, containing lipid deposits",
+      "a judge must certify the contract",
       "relating to glands腺体 that secrete分泌 directly into the blood or lymph淋巴, 内分泌, crine, to cause to dry up, shrink",
-      "intense fear of water，",
-      "resulting from heart disease,心源性的,",
-      " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
+      " — a wise person",
     ]
   },
     {
     numb: 695,
-    question: "endogamy:",
+    question: "endogamy::en, in, inside, inwards",
     answer: "the custom to marry within one's clan氏族, tirbe,同族通婚",
     options: [
-      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
-      "-— ability to understandanother's feelings",
-      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
+      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
+      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
       "the custom to marry within one's clan氏族, tirbe,同族通婚",
+      "the system of courts of law in  a country,司法,the importance of a diverse federal judiciary",
     ]
   },
     {
     numb: 696,
-    question: "empathy:",
+    question: "empathy::enn, enni, anni, years",
     answer: "intention to feel like another person",
     options: [
-      " — minutefloating aquatic animals, animal-like organisms",
+      "- actions of a government orpolitical party",
+      " — the outer boundaryof an area",
       "intention to feel like another person",
-      "— partlyconscious",
-      " — somethingthat is the first made or also living portion of aCell",
+      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
     ]
   },
     {
     numb: 697,
-    question: "empower:",
+    question: "empower::enn, enni, anni, years",
     answer: "put into power, to enable or permit",
     options: [
-      "a water container for fish",
+      "to remove bugs from software program",
       "put into power, to enable or permit",
-      "- to go or climb down",
-      " — to destroy orget rid of completely",
+      " — inflammation of thekidneys",
+      " — gotten at birth, existingin or formed by nature",
     ]
   },
     {
     numb: 698,
-    question: "engorge[en-gawrj]因高之",
+    question: "engorge[en-gawrj]因高之:enn, enni, anni, years",
     answer: "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
     options: [
-      "a statement of equality, 方程， equations and formulas, how to solve equations",
-      "— the combined effect",
-      "— alongside and always anequal distance apart",
+      "— a large city",
+      " — fivefold",
+      " -person in his or her eighties",
       "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
     ]
   },
     {
     numb: 699,
-    question: "egoistic:",
+    question: "egoistic::endo, within, inside",
     answer: "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
     options: [
       "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
-      "- sense of knowingright from wrong",
-      "a generator of energy,发电机",
-      " — lens device forseeing distances",
+      "- clearly visible, clear tothe sight or understanding",
+      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
+      "study of the working environment, human enginering,人体工程学， nomics经济学",
     ]
   },
     {
     numb: 700,
-    question: "alterego:",
+    question: "alterego::endo, within, inside",
     answer: "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
     options: [
-      "pertaining to the middle age中shiji",
+      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
+      "- shape having fiveangles and five sides",
+      "— marked as worthy ofattention",
       "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
-      "- a figure with eight sidesand eight angles",
-      "- inflammation ofthe lungs",
     ]
   },
     {
     numb: 701,
-    question: "egomania:",
+    question: "egomania::endo, within, inside",
     answer: "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
     options: [
+      "- the act or fact ofdetaining, putting somebody on hold",
+      "— an addition to analready completed document",
+      "pertaining to the middle age中shiji",
       "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
-      "study of the working environment, human enginering,人体工程学， nomics经济学",
-      "a miniature universe, 微观世界",
-      "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
     ]
   },
     {
     numb: 702,
-    question: "eloquent[el-uh-kwuh nt]:",
+    question: "eloquent[el-uh-kwuh nt]::em, into/cover with, cause,",
     answer: "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
     options: [
       "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
-      "person who moves from place to place",
-      "a part broken off or detached分段,sentence fragment examples and their corrections",
-      "disagreement, 争议, the new movie is a subject of controversy",
+      "— respect foryourself",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+      "— a break in somethingSAN TO ZYGO",
     ]
   },
     {
     numb: 703,
-    question: "emissary[em-uh-ser-ee]:",
+    question: "emissary[em-uh-ser-ee]::em, into/cover with, cause,",
     answer: "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
     options: [
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
+      " — a plant thatgrows only in water",
       "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
-      "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
-      "a doctor for the teeth",
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+      "study of nature and reality形而上学，玄学, metaphysics-stanford encyclopedia of philosophy",
     ]
   },
     {
     numb: 704,
-    question: "dyspepsia[dis-pep-shuh]",
+    question: "dyspepsia[dis-pep-shuh]:em, into/cover with, cause,",
     answer: "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
     options: [
-      "- a lever pushed by the foot",
+      "common protein in muscle tissue,肌球蛋白",
       "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
-      "缩减",
-      " — a three—wheeledmotorcycle",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
+      "- the study ofreligion, god, etc.",
     ]
   },
     {
     numb: 705,
-    question: "dystopia",
+    question: "dystopia:ego, self",
     answer: "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
     options: [
+      "— study of animals",
+      " — showing goodwill and kindnessvolition Lvoh-lish—-uh n",
+      "- to make fun or mock",
       "a society of human misery, oppression and disease, (topia, a place with specified characteristics) 反乌托邦, utopia乌托邦",
-      "the science of people and races,民族学",
-      "- the conquest of anenemy, success or triumph",
-      "— a vehicle withone wheel",
     ]
   },
     {
     numb: 706,
-    question: "dyslexia[dis-lek-see-uh]",
+    question: "dyslexia[dis-lek-see-uh]:ego, self",
     answer: "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
     options: [
-      " — lens device forseeing distances",
-      "an official order, the law mandates that every car have seat belts",
+      "- to put underwater",
       "impairment of the ability to handle words阅读障碍,what dyslexia writing looks like?",
-      "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
+      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
+      "- sense of knowingright from wrong",
     ]
   },
     {
     numb: 707,
-    question: "dynamo[dahy-nuh-moh]",
+    question: "dynamo[dahy-nuh-moh]:ego, self",
     answer: "a generator of energy,发电机",
     options: [
+      "a female airplane pilot女飞行员",
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
+      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
       "a generator of energy,发电机",
-      "- inferior toaccepted standards, less than adequate",
-      " — to apply a rule",
-      "an abnormal fear of women女性恐惧症",
     ]
   },
     {
     numb: 708,
-    question: "dynamic",
+    question: "dynamic:e, out, away",
     answer: "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
     options: [
-      "— an organism that liveson and off another living being",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
+      "belief as to the truth of something,信任,you people have lost your credence with me",
+      "— measles",
       "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
-      "- to represent withwords or pictures",
-      "- empty, not occupied",
     ]
   },
     {
     numb: 709,
-    question: "dynamite",
+    question: "dynamite:e, out, away",
     answer: "a powerful and high explosive,炸药,Fifth yards of track was blown up with dynamite",
     options: [
-      "relating to plants or herbs",
-      "related to remembering a person or event纪念馆,memorial park in san ramon",
       "a powerful and high explosive,炸药,Fifth yards of track was blown up with dynamite",
-      "- feeling sleepy",
+      "malignant dark tumor of the skin",
+      "in the shape of a tree, treelike form，树枝状,",
+      "a slanting line running across a space,对角线, ",
     ]
   },
     {
     numb: 710,
-    question: "enduring",
+    question: "enduring:e, out, away",
     answer: "able to last, patient, long-suffering",
     options: [
-      " — cannibalism",
-      "— a composition for fivevoices or instruments",
-      "skull of vertebrates,颅骨,what does cranium do?",
+      "to work together, to cooperate,合作,the two companies agreed to collaborate",
+      "self-centered, 自我中心的, babies are entirely egocentric",
       "able to last, patient, long-suffering",
+      "— abnormal digestion",
     ]
   },
     {
     numb: 711,
-    question: "duet[dyoo-et]",
+    question: "duet[dyoo-et]:dys, abnormal, bad",
     answer: "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
     options: [
-      "ten years",
-      "a dead body, the actor had to play a corpse laying in a morgue",
-      "person who moves from place to place",
+      "- protection fromfalling",
+      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
       "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
+      "- a list personswho have recently died",
     ]
   },
     {
     numb: 712,
-    question: "duo[dyoo-oh]",
+    question: "duo[dyoo-oh]:dys, abnormal, bad",
     answer: " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
     options: [
-      "a sheltered place to flee to, shelter or protection from danger.避难所",
+      "a mixture of rolled oats and other ingredients, granola, rich in flavor, texture good any time of day",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
       " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
-      "— the combined effect",
+      "self-centered, 自我中心的, babies are entirely egocentric",
     ]
   },
     {
     numb: 713,
-    question: "conduct",
+    question: "conduct:dys, abnormal, bad",
     answer: "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
     options: [
-      "a life story written by another person",
-      "a person who governs with absolute power, a monarch,独裁者",
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
+      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
       "to lead musicians in playing music, personal behavior,指挥，执行，I like the way the company conducts business",
+      "- to carry goods out of aplace to another",
+      "a powerful person, especially in business or industry,富豪，大亨, William was a magnate in the newspaper industry",
     ]
   },
     {
     numb: 714,
-    question: "deduction",
+    question: "deduction:dyn, dyna, dynam, power, energy, strength",
     answer: "a substraction of an amount, 扣除, 10 popular tax deductions",
     options: [
-      "feeling of well being, 快感, I was in a state of euphoria all day",
-      "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
-      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
+      "- any tract of land;region or district",
+      "intention to feel like another person",
       "a substraction of an amount, 扣除, 10 popular tax deductions",
+      "someone working with flowers,  a grower of flowers",
     ]
   },
     {
     numb: 715,
-    question: "donor",
+    question: "donor:dyn, dyna, dynam, power, energy, strength",
     answer: "a person who gives or donates",
     options: [
-      "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
-      "- affecting all",
+      "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
       "a person who gives or donates",
-      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
+      "heavy particle such as proton, neutron, or any elementary particle重子",
+      "- to introduce a new way",
     ]
   },
     {
     numb: 716,
-    question: "contradict",
+    question: "contradict:dyn, dyna, dynam, power, energy, strength",
     answer: "to argue against, 顶撞，抗辩,she dared not contradict him",
     options: [
-      "- to put into words",
+      "a sheltered place to flee to, shelter or protection from danger.避难所",
+      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
       "to argue against, 顶撞，抗辩,she dared not contradict him",
-      " — a yellow papule ornodule in the skin, containing lipid deposits",
-      " — to come aroundor bypass restrictions",
+      "showing romantic love, especially sexual love",
     ]
   },
     {
     numb: 717,
-    question: "dictate",
+    question: "dictate:dur, harden, to last, lasting",
     answer: "speak out loud for another person to write down听写,主宰, the way they dress is dictated by very rigid fashion rules",
     options: [
-      "- the death of tissuedue to disease or injury",
-      "- to build",
-      "- a variation of an original,to turn it as another translation",
       "speak out loud for another person to write down听写,主宰, the way they dress is dictated by very rigid fashion rules",
+      "— more excitedthan one should be",
+      "— to go back to anearlier condition",
+      "- relating to a city, living in acity",
     ]
   },
     {
     numb: 718,
-    question: "diabetes【dahy-uh-bee-tis]",
+    question: "diabetes【dahy-uh-bee-tis]:du_duo_two_twice",
     answer: "associated with abnormally high levels of suger in the blood糖尿病",
     options: [
-      "of or relating to an age or period of 100 years, 一百周年,the centennial celebration of the railway was held in Lincoin Nebraska.",
+      "hostile, ready to fight, given to waging war,好战的，交战的, he was belligerent",
+      "one thousandth of a meter毫米,",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
       "associated with abnormally high levels of suger in the blood糖尿病",
-      "- to give a false, perverted,or disproportionate meaning to",
-      " — rule oftechnology where the system of government isbased",
     ]
   },
     {
     numb: 719,
-    question: "dialog",
+    question: "dialog:du_duo_two_twice",
     answer: "conversation between two people",
     options: [
-      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
-      "unit of frequency,Ghz, 十亿赫兹",
+      "the plant life of a particular time or area, flora of China中国植物志",
       "conversation between two people",
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      "— loving books",
+      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
     ]
   },
     {
     numb: 720,
-    question: "dissect",
+    question: "dissect:duc, duct, lead",
     answer: "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
     options: [
-      "- the act or fact ofdetaining, putting somebody on hold",
-      "— producing loud, full,rich sounds",
-      " — the ability todiscipline yourself",
+      "— half a circle",
+      "an instrument that measures hearing acuteness",
+      " — obsessionwith and usually erotic interest on corpses",
       "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
     ]
   },
     {
     numb: 721,
-    question: "dichromatic",
+    question: "dichromatic:duc, duct, lead",
     answer: "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
     options: [
-      "- relating to heat",
-      "- to spread throughout",
-      "- sense of knowingright from wrong",
       "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
+      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
+      "resembling a human",
     ]
   },
     {
     numb: 722,
-    question: "diploma",
+    question: "diploma:don/donat, give",
     answer: "a certificate,literally a letter folded double 文凭",
     options: [
-      "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
+      "to make alive, to give life to",
+      "— a wise saying or precept; adidactic sentence",
       "a certificate,literally a letter folded double 文凭",
-      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
-      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
+      "to cause air to circulate,通气，to aerate sth is to put air into it",
     ]
   },
     {
     numb: 723,
-    question: "dilemma[dih-lem-uh]",
+    question: "dilemma[dih-lem-uh]:dict, speak",
     answer: "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
     options: [
-      "the surface of the moon",
-      "— producing loud, full,rich sounds",
-      " — having a spontaneousurge to do something",
       "difficult case that requires a choice between two alternatives，困境,15 ethical dilemma examples you see in real world",
+      "- to force someone to act",
+      "— to win someone over,persuade",
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
     ]
   },
     {
     numb: 724,
-    question: "dermatologist",
+    question: "dermatologist:dict, speak",
     answer: "a doctor for the skin",
     options: [
-      "- to speak ordeclare something clearly",
-      "the love of mankind",
-      "- an output of original researchwith a specific view",
+      " — to someone out",
       "a doctor for the skin",
+      " — a motor vehicle that pullsthings",
+      "— on of the very basic parts ofan atom",
     ]
   },
     {
     numb: 725,
-    question: "pachyderm[pak-i-drm]拍k德目",
+    question: "pachyderm[pak-i-drm]拍k德目:dia, through, between, apart, across",
     answer: "a class of animals with very thick skin(elephant, rhinoceros)",
     options: [
-      "a part of element of a larger whole,分数,",
+      " - the best somethingcould be",
+      "someone who beautifies, 美学家, give your esthetician resume a refined look",
       "a class of animals with very thick skin(elephant, rhinoceros)",
-      "pertaining to the brain,大脑",
-      "a message sent by telegraph",
+      "to work out the details精心制作的,she drew an elaborate design",
     ]
   },
     {
     numb: 726,
-    question: "dermatitis[dr-muh-tahy-tis]",
+    question: "dermatitis[dr-muh-tahy-tis]:dia, through, between, apart, across",
     answer: "inflammation炎 of the skin",
     options: [
-      "- hard to understand, notclear or plain; ambiguous",
-      "- the truth, conformityto truth or fact; accuracy",
+      "- the place wheresomeone is",
+      "- the total,highest amount",
       "inflammation炎 of the skin",
-      "— alongside and always anequal distance apart",
+      " — lens device forseeing distances",
     ]
   },
     {
     numb: 727,
-    question: "dental",
+    question: "dental:di/dis, apart, away, not, to the opposite",
     answer: "relating to teeth",
     options: [
-      "a mature white blood cell白细胞",
       "relating to teeth",
-      "- able to be carried",
-      " — piercing smell",
+      "a pipeline for water,沟渠",
+      "science of secret codes, 密码学",
+      "— a composition orgroup of six",
     ]
   },
     {
     numb: 728,
-    question: "dentist",
+    question: "dentist:di/dis, apart, away, not, to the opposite",
     answer: "a doctor for the teeth",
     options: [
-      " — true or real, notmade-up",
-      "— the human spirit or soul",
+      "— a relatively mild disordertypified by excessive anxiety",
+      "发光性",
       "a doctor for the teeth",
-      "- belief inone god",
+      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
     ]
   },
     {
     numb: 729,
-    question: "dentures[den-chrz]",
+    question: "dentures[den-chrz]:di/diplo, two, twice",
     answer: "a set of false teeth, 7 types of dentures with crowns and bridges",
     options: [
-      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
-      "a doctor for the skin",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
+      "- a first draft fromwhich a document is prepared",
       "a set of false teeth, 7 types of dentures with crowns and bridges",
-      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
+      "— relating to the eyes",
     ]
   },
     {
     numb: 730,
-    question: "philodendron",
+    question: "philodendron:di/diplo, two, twice",
     answer: "a climbing plant that grows on trees藤类植物",
     options: [
-      "to make alive, to give life to",
+      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
+      " - afraid offoreigners",
       "a climbing plant that grows on trees藤类植物",
-      "— a group of seven musicians",
-      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
     ]
   },
     {
     numb: 731,
-    question: "dendrochronology",
+    question: "dendrochronology:di/diplo, two, twice",
     answer: "dating events by studying growth rings in trees,树龄学",
     options: [
-      "— be stationed",
+      "- relating to birth",
+      "— the studyof ancient forms of writing",
       "dating events by studying growth rings in trees,树龄学",
-      "— mentally healthy",
-      "— moreconfident than is appropriate",
+      "- a liquid isolated out ofanother",
     ]
   },
     {
     numb: 732,
-    question: "dendriform",
+    question: "dendriform:derm, derma, skin",
     answer: "in the shape of a tree, treelike form，树枝状,",
     options: [
+      "unit of electric power（one billion watts）千兆瓦,",
+      "a life story written by another person",
       "in the shape of a tree, treelike form，树枝状,",
-      " — of or going to the root ororigin; fundamental",
-      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "- every halfof a year",
     ]
   },
     {
     numb: 733,
-    question: "democracy",
+    question: "democracy:derm, derma, skin",
     answer: "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
     options: [
-      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
       "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
-      "— a flowerwith red/pink flowers",
+      "— alongside and always anequal distance apart",
+      "- period offour years",
+      "- relating to fathers",
     ]
   },
     {
     numb: 734,
-    question: "demographic",
+    question: "demographic:derm, derma, skin",
     answer: "the study of people, the science of vital and social statistics",
     options: [
       "the study of people, the science of vital and social statistics",
-      "to make alive, to give life to",
-      "the science of people and races,民族学",
-      "the surface of the moon",
+      "— reddish pigment inbile",
+      "drawing that explains something such as the parts etc，",
+      "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
     ]
   },
     {
     numb: 735,
-    question: "epidemic",
+    question: "epidemic:dent, tooth",
     answer: "disease spreading among people in a region,瘟疫,what is the difference between epidemic and pandemic",
     options: [
-      "- included since birth",
+      "变明亮",
+      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
+      "happending at the same time",
       "disease spreading among people in a region,瘟疫,what is the difference between epidemic and pandemic",
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
-      "to stop from moving",
     ]
   },
     {
     numb: 736,
-    question: "deciliter[des-uh-lee-ter",
+    question: "deciliter[des-uh-lee-ter:dent, tooth",
     answer: "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
     options: [
-      "- a device thatcontrols heat",
+      "the highest ranking bishop(主教),大主教",
+      "the science of people and races,民族学",
       "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
-      "a hard to ignore order",
-      "- to delay something",
+      "- to go back on a promise, tobreak a rule of play",
     ]
   },
     {
     numb: 737,
-    question: "decimate",
+    question: "decimate:dent, tooth",
     answer: "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
     options: [
-      "the treasury of a college or monastery,奖学金，学校金库",
-      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
+      "— a relatively mild disordertypified by excessive anxiety",
+      "— with many colors",
       "reduce dramatically,毁灭，大幅消减,the population was decimated by a plague[plag瘟疫]",
-      "pertaining有关的 to the stomach,胃，he suffered from diabetes and gastric ulcers(溃疡)",
+      "the primitive layer of cells from the segmentation of the ovum,胚层",
     ]
   },
     {
     numb: 738,
-    question: "decibel【..deh..-suh-bel】",
+    question: "decibel【..deh..-suh-bel】:dendr, dendro, dendri, tree",
     answer: "one tenth of the sound volume unit bel,分贝,DB,a whisper is about 30 db(decibel).",
     options: [
-      "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
-      "a higher aspect of oneself, a second self. Spider-Man, who is ther alter ego the Peter Parker",
-      "the study of ancient cultures, the study of antiquity,考古学",
+      "peculiar to a particular language",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
+      "the study of the heart and its functions in health and disease,心脏病学",
       "one tenth of the sound volume unit bel,分贝,DB,a whisper is about 30 db(decibel).",
     ]
   },
     {
     numb: 739,
-    question: "decade",
+    question: "decade:dendr, dendro, dendri, tree",
     answer: "ten years",
     options: [
-      "- a four—footedanimal",
-      "of or involving two sides, two-sided",
+      "— to come between",
+      "someone working with flowers,  a grower of flowers",
+      "flat tongue-shaped pasta扁面条,",
       "ten years",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
     ]
   },
     {
     numb: 740,
-    question: "decathlon[duh.kath.laan]",
+    question: "decathlon[duh.kath.laan]:dendr, dendro, dendri, tree",
     answer: "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
     options: [
-      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
-      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
-      "- a clever but misleadingargument",
+      " — a mixture that forms asmooth solid covering for walls",
+      "— a person fluent in manylanguages",
+      "one over one hundred of a meter",
       "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
     ]
   },
     {
     numb: 741,
-    question: "December",
+    question: "December:dem, demo, people",
     answer: "formerly the tenth month of the roman calendar",
     options: [
-      "— measles",
-      "below the regular light spectrum or invisible spectrum(光谱),红外线， a remote control uses infrared light waves to change channels on your TV",
-      "- hard to understand, notclear or plain; ambiguous",
+      "a set of false teeth, 7 types of dentures with crowns and bridges",
+      " — a beginner, startingto grow",
+      "— nature and shape of one'sbody",
       "formerly the tenth month of the roman calendar",
     ]
   },
     {
     numb: 742,
-    question: "dethrone",
+    question: "dethrone:dem, demo, people",
     answer: "to remove from power, remove from any position",
     options: [
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
       "to remove from power, remove from any position",
-      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
-      "- a digestive enzyme",
-      "only of medium or inferior quality平庸",
+      "feeling of well being, 快感, I was in a state of euphoria all day",
+      "the middle muscle of the heart心机, ",
     ]
   },
     {
     numb: 743,
-    question: "debug",
+    question: "debug:dem, demo, people",
     answer: "to remove bugs from software program",
     options: [
-      "- a person who is new at a job",
-      "study of the working environment, human enginering,人体工程学， nomics经济学",
-      "the study of handwriting,笔迹学",
+      "- an electron tube having twoelectrodes, a cathode and an anode",
+      "- a state in which two thingstouch",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
       "to remove bugs from software program",
     ]
   },
     {
     numb: 744,
-    question: "cyclone",
+    question: "cyclone:deci, one tenth",
     answer: "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
     options: [
+      "- to put into words",
       "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
-      " —working at home remotely via virtual devices",
-      "— the study",
+      "— a person who seesan event",
+      "— to drive someone out of aplace",
     ]
   },
     {
     numb: 745,
-    question: "accumulate",
+    question: "accumulate:deci, one tenth",
     answer: "to gather or pile  up, collect, I seem to have accumulated a lot of books",
     options: [
-      "— a man who rules agroup",
-      "the study and history of words，词汇学,",
+      "- a part in front of aformal document",
       "to gather or pile  up, collect, I seem to have accumulated a lot of books",
-      "inflammation of a joint,关节炎",
+      "- worshipingmore than one god or many gods",
+      "- to end",
     ]
   },
     {
     numb: 746,
-    question: "cumulative",
+    question: "cumulative:deci, one tenth",
     answer: "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
     options: [
-      " — to apply a rule",
-      "— heavy blood flow",
+      "to honor the memory of, as by a ceremony纪念,the festival commemorates the town's founding",
       "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
-      " a pair of normally thought of as being together, couple， penn and teller are a magician duo, a comedy duo",
+      "— the study ofcity life or social life and its problems",
+      "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
     ]
   },
     {
     numb: 747,
-    question: "cryptic",
+    question: "cryptic:dec, deca, deka, ten",
     answer: "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
     options: [
-      "a person traveling to the stars and for spaceflight",
-      "- empty, not occupied",
-      "— the remembering ofpast events",
+      "in the shape of a tree, treelike form，树枝状,",
+      "a king or queen, a person that holds a dominant position,君主",
       "of hidden meaning, mysterious in meaning, ambiguous, 神秘的, most of his conversations are cryptic that I can not follow them.",
+      "- to represent withwords or pictures",
     ]
   },
     {
     numb: 748,
-    question: "cryptography",
+    question: "cryptography:dec, deca, deka, ten",
     answer: "science of secret codes, 密码学",
     options: [
+      "the act or process of forming or the state of being formed.编队",
+      "freedom",
       "science of secret codes, 密码学",
-      "peculiar to a particular language",
-      "relating to the moon，lunar new year",
-      "friendly, pleasant, loveable",
+      "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
     ]
   },
     {
     numb: 749,
-    question: "encrypt",
+    question: "encrypt:dec, deca, deka, ten",
     answer: "encode into secret code",
     options: [
-      " — a substancethat helps prevent body odor",
+      " — distasteful,offensive or revolting",
       "encode into secret code",
-      "- to empty adangerous place",
-      "growing plants in liquid nutrient solution，水培法, what are 6 types of hydroponics?",
+      "- to speak ordeclare something clearly",
+      "— a branchlike part",
     ]
   },
     {
     numb: 750,
-    question: "crucial",
+    question: "crucial:de, reduce, away, down, remove",
     answer: "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
     options: [
-      "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
-      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
       "having the form of a cross, server, trying critical,决定的, it is crucial that we arrive before 8 o'clock",
-      " — the sciencedealing with x-rays or nuclear radiation",
+      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
+      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
+      "a person wild lifestyle or morally or sexually unrestrained, 浪荡子,he is a libertine who lives with his four girl friends",
     ]
   },
     {
     numb: 751,
-    question: "crucifix",
+    question: "crucifix:de, reduce, away, down, remove",
     answer: "the cross itself as a christian emblem, 十字架",
     options: [
-      "put into power, to enable or permit",
+      " — a yellow papule ornodule in the skin, containing lipid deposits",
+      " —existing outside the earth",
+      "swelling of the blood vessels船只，痔疮,",
       "the cross itself as a christian emblem, 十字架",
-      "the science of people and races,民族学",
-      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
     ]
   },
     {
     numb: 752,
-    question: "excruciating",
+    question: "excruciating:cycl_circle_ring",
     answer: "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
     options: [
-      "feeling of well being, 快感, I was in a state of euphoria all day",
       "great pain or anguish, intense suffering, 令人痛苦的, I have an excruciating headache",
-      "- a small platform tostand on",
-      "- self—restraint orabstinence, in regard to sexual activity",
+      "- truth",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "- truth",
     ]
   },
     {
     numb: 753,
-    question: "credence[kreed-ns]",
+    question: "credence[kreed-ns]:cumul_mass_heap",
     answer: "belief as to the truth of something,信任,you people have lost your credence with me",
     options: [
+      "ancestor, forefathers,祖先,",
+      "a king or queen, a person that holds a dominant position,君主",
+      "- the study ofpoisons",
       "belief as to the truth of something,信任,you people have lost your credence with me",
-      "protein used as to combat pathogen causing infection,抗体",
-      "- a four—footedanimal",
-      "— a groupof stars that forms a pattern",
     ]
   },
     {
     numb: 754,
-    question: "credulous[krej-uh-luh s]",
+    question: "credulous[krej-uh-luh s]:cumul_mass_heap",
     answer: "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
     options: [
-      " — a response, areverse movement or tendency",
-      "- clearly visible, clear tothe sight or understanding",
-      "- to stimulate or animate",
+      "a geometrical figure with eight angles八角形,10 octagon examples in real life",
       "believing things too easily, gullible,轻信的,Credulous people are easily misled by false ads",
+      "hatred towards men, 厌恶男性",
+      "- the best, the mostdesirableoptimize Lop—tuh—mahyz",
     ]
   },
     {
     numb: 755,
-    question: "craniology[krey-nee-ol-uh-jee]",
+    question: "craniology[krey-nee-ol-uh-jee]:crypto, hidden, secret",
     answer: "the study or science of skull characteristics，颅骨学",
     options: [
-      "one thousandth of a liter(升)千分之一升",
-      "- a small platform tostand on",
-      "— faster thansound",
       "the study or science of skull characteristics，颅骨学",
+      "to use the mind, think or think about,脑洞大开",
+      "requiring a lot of hard work费力的,when you just start exercising it may seem laborious, but over time it gets easier",
+      "- standing still, notmoving",
     ]
   },
     {
     numb: 756,
-    question: "cranium[krey-nee-uh m]",
+    question: "cranium[krey-nee-uh m]:crypto, hidden, secret",
     answer: "skull of vertebrates,颅骨,what does cranium do?",
     options: [
+      " — the creation ofoffspring that is different from either parent",
+      "speak out beautifully and forcefully, 雄辩, she can speak with an eloquence that is almost inspirational",
       "skull of vertebrates,颅骨,what does cranium do?",
-      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
-      "- a lack of feeling orinterest",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
+      "- the worship ofall gods",
     ]
   },
     {
     numb: 757,
-    question: "cranial[krey-nee-uh l]",
+    question: "cranial[krey-nee-uh l]:crypto, hidden, secret",
     answer: "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
     options: [
-      " umbrella protecting fromthe sun",
       "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
-      "pertaining to courts of law or to judges司法，法庭, The judicial branch, the judiciary is made up of court, supreme, circuit, the local court, and the city court",
-      "the study of mankind",
+      "- to picture mentally,especially some future event",
+      "- to save or keepsomething safe",
+      "the study of ancient cultures, the study of antiquity,考古学",
     ]
   },
     {
     numb: 758,
-    question: "counteract",
+    question: "counteract:cruc_cross",
     answer: "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
     options: [
-      "an undersea boat",
       "a dead body, the actor had to play a corpse laying in a morgue",
-      "a person seeking protection, a person who flees for refuge or safety.",
+      "the act of moving",
       "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
+      "- an electron tube having twoelectrodes, a cathode and an anode",
     ]
   },
     {
     numb: 759,
-    question: "countermand",
+    question: "countermand:cruc_cross",
     answer: "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
     options: [
-      "without distinct form, 无定形的,amorphous solid is a solid that lacks an ordered internal structure, examples include glass, rubber, and plastics",
-      "the treasury of a college or monastery,奖学金，学校金库",
-      "a female who rules a group, a venerable old woman,女族长",
+      "living together, to converse or talk together,公社",
       "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
+      "- protection fromfalling",
+      "— a person who writes outdocuments",
     ]
   },
     {
     numb: 760,
-    question: "counteroffensive",
+    question: "counteroffensive:cruc_cross",
     answer: "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
     options: [
-      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
-      "affecting one side or involving one side only单方面, examples of unilateral contract example",
+      "- the place wheresomeone is",
       "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
-      " — cannibalism",
+      "— government by fourrulers, four joint rulers or chiefstetrose (tet-roz)— a monosaccharide with fourcarbon atoms",
+      "a habit, mannerism that is peculiar to an individual癖好,if a person has an idiosyncracy, he or she has a little quirk, or a funny behavior",
     ]
   },
     {
     numb: 761,
-    question: "cosmonaut",
+    question: "cosmonaut:cred, believe",
     answer: "a Russian astronaut",
     options: [
-      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
-      "a book written by hand",
+      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
+      "- inability to fallasleep",
       "a Russian astronaut",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
+      " — a single, excretory unit inthe kidney",
     ]
   },
     {
     numb: 762,
-    question: "cosmos",
+    question: "cosmos:cred, believe",
     answer: "the universe,宇宙,the cosmos is another name for the universe",
     options: [
-      " — a person in his/her seventies",
-      "affecting one side or involving one side only单方面, examples of unilateral contract example",
-      "- a doctor, one who isskilled in the science of healing the body",
       "the universe,宇宙,the cosmos is another name for the universe",
+      "- an error in naming aperson or thing",
+      "— to move from one place toanother",
+      "— an organism that liveson and off another living being",
     ]
   },
     {
     numb: 763,
-    question: "microcosm",
+    question: "microcosm:cranio, skull",
     answer: "a miniature universe, 微观世界",
     options: [
-      "- a fictitious name",
-      "- to build",
+      "- a lack of feeling orinterest",
       "a miniature universe, 微观世界",
-      "- to cut into two equal parts",
+      " — caused by light,forming an attractive subject for photography",
+      "— on of the very basic parts ofan atom",
     ]
   },
     {
     numb: 764,
-    question: "corpse",
+    question: "corpse:cranio, skull",
     answer: "a dead body, the actor had to play a corpse laying in a morgue",
     options: [
+      "— to move from one place toanother",
+      "having equal or constant temperature, A fridge works isothermally",
       "a dead body, the actor had to play a corpse laying in a morgue",
-      "— a product ofdisintegration or wearing away",
-      "a blue-white metallic chemical element,铬",
-      "inflammation炎 of the skin",
+      "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
     ]
   },
     {
     numb: 765,
-    question: "corporal[kawr-per-uh l]",
+    question: "corporal[kawr-per-uh l]:cranio, skull",
     answer: "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
     options: [
-      " — ground or land",
-      "the group of spectators at a public event",
-      "to oppose the effects of an action, to act in opposition to,抵消,the drug will counteract the poison",
+      "an abnormal fear of women女性恐惧症",
       "of the human body, bodily, physical, 身体的，躯干的, he gives regular corporal punishment and discipline",
+      "— meat—eating",
+      "— abnormallyexcessive bowel movement",
     ]
   },
     {
     numb: 766,
-    question: "contrary",
+    question: "contrary:counter, opposite, contrary, opposing",
     answer: "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
     options: [
-      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
+      "- being of lively, sharingnature",
+      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "- more supplies than isdesirable",
       "not in agreement, 相反, the test will not be easy, on the contrary, it will be very difficult",
-      "the act of moving",
-      "someone working with flowers,  a grower of flowers",
     ]
   },
     {
     numb: 767,
-    question: "controversy",
+    question: "controversy:counter, opposite, contrary, opposing",
     answer: "disagreement, 争议, the new movie is a subject of controversy",
     options: [
-      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
-      "pertaining to the brain,大脑",
       "disagreement, 争议, the new movie is a subject of controversy",
-      " -person in his or her eighties",
+      " — the pure andconcentrated essence of a substance",
+      "to sail around, to go or maneuver around, the ship circumnavigate the world",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
     ]
   },
     {
     numb: 768,
-    question: "cognition[kog-nish-uh n]",
+    question: "cognition[kog-nish-uh n]:counter, opposite, contrary, opposing",
     answer: "process of acquiring knowledge, preception, 认知, 31 examples of cognition",
     options: [
+      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
+      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
+      "- lastingthroughout all time",
       "process of acquiring knowledge, preception, 认知, 31 examples of cognition",
-      "someone who beautifies, 美学家, give your esthetician resume a refined look",
-      "— a vehicle withone wheel",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
     ]
   },
     {
     numb: 769,
-    question: "incognito[in-kog-nee-toh]",
+    question: "incognito[in-kog-nee-toh]:cosm, cosmo, universe",
     answer: "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
     options: [
-      "- at a standstill,fixed",
-      "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
+      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
+      "- empty, not occupied",
+      "pertaining to the middle age中shiji",
       "disguised so no one knows you,隐姓埋名，he remained incognito while living there",
-      "to argue against, 顶撞，抗辩,she dared not contradict him",
     ]
   },
     {
     numb: 770,
-    question: "commemorate[kuh-mem-uh-reyt]",
+    question: "commemorate[kuh-mem-uh-reyt]:cosm, cosmo, universe",
     answer: "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
     options: [
-      "an official order, the law mandates that every car have seat belts",
+      "— moreconfident than is appropriate",
       "to memorize together, 纪念, each year on this date we commemorate our ancestors with a special ceremony",
-      "the plant life of a particular time or area, flora of China中国植物志",
-      "— an electronicthinking device",
+      "— an organism that liveson and off another living being",
+      " — a deviceused to see tiny things",
     ]
   },
     {
     numb: 771,
-    question: "composition[kom-puh-zish-uh n]",
+    question: "composition[kom-puh-zish-uh n]:cosm, cosmo, universe",
     answer: "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
     options: [
-      "an iron containing respiratory pigment of vertebrate red blood cells,血红蛋白",
-      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
+      "the study of handwriting,笔迹学",
       "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
-      "- to go back on a promise, tobreak a rule of play",
+      "the inn is accessible by train and bus, it is a fascinating and accessible book",
     ]
   },
     {
     numb: 772,
-    question: "commune[kuh-myoon]",
+    question: "commune[kuh-myoon]:corp, corpo, body",
     answer: "living together, to converse or talk together,公社",
     options: [
       "living together, to converse or talk together,公社",
-      "- shape with three or morestraight sides",
-      "- to speak ordeclare something clearly",
-      "invertebrates(无脊椎动物) with jointed legs节肢动物, spider, crab",
+      "inflammation of a joint,关节炎",
+      "flat tongue-shaped pasta扁面条,",
+      " — a dentistthat straightens teeth",
     ]
   },
     {
     numb: 773,
-    question: "collision",
+    question: "collision:corp, corpo, body",
     answer: "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
     options: [
-      "— the remembering ofpast events",
-      "- veryadvanced in ideas, design, or techniques",
+      "— a doctor for thefeet",
       "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
-      " — image made onlight-sensitive film",
+      "— a composition orgroup of six",
+      "without color, achromatic colors are all shades of black, white and grey",
     ]
   },
     {
     numb: 774,
-    question: "colloquial[kuh-loh-kwee-uh l]",
+    question: "colloquial[kuh-loh-kwee-uh l]:contra, contro, against, opposite",
     answer: "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
     options: [
+      "attack against an attack, 反击,what if the ukrainian counteroffensive achieves more than expected",
+      "the science of people and races,民族学",
+      "a hard to ignore order",
       "familiar conversation, formed by everyday interaction,口语的, colloquialism is informal everyday language",
-      "— with many colors",
-      "the ability to move objects with you mind",
-      "— partlyconscious",
     ]
   },
     {
     numb: 775,
-    question: "cohousing",
+    question: "cohousing:contra, contro, against, opposite",
     answer: "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
     options: [
-      "- any tract of land;region or district",
-      " — a mixture that forms asmooth solid covering for walls",
+      "— high-spirited and fullof life, lively",
+      "发光体",
       "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
-      "a cell that forms connective tissue,纤维母细胞",
+      "- to pull objects nearer, allure,invite",
     ]
   },
     {
     numb: 776,
-    question: "inclination[in-kluh-ney-shuh n]",
+    question: "inclination[in-kluh-ney-shuh n]:contra, contro, against, opposite",
     answer: "a disposition性情 or bent, a liking or preference,意向，my own inclination would be to look for another job",
     options: [
-      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-      "- a variation of an original,to turn it as another translation",
-      "kb, one thousand bytes",
+      " — to apply a rule",
+      "a chemical used to kill insects",
       "a disposition性情 or bent, a liking or preference,意向，my own inclination would be to look for another job",
+      "no longer working or alive",
     ]
   },
     {
     numb: 777,
-    question: "incline[in-klahyn]",
+    question: "incline[in-klahyn]:cogn, congni, know",
     answer: "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
     options: [
-      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
-      "a boat that carries passengers,渡船, The cars were ferried across the river.",
-      "a tip, token of appreciation, 小费,the gratuity is something given voluntarilly or beyond obligation usually for some service.",
+      "- relating to humanspeech sounds",
       "a surface that slopes or leans, slant,倾斜,she listened with her eyes closed and her head inclined",
+      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
+      "the highest ranking bishop(主教),大主教",
     ]
   },
     {
     numb: 778,
-    question: "recline[ri-klahyn]",
+    question: "recline[ri-klahyn]:cogn, congni, know",
     answer: "to lean or lie back; rest in a recumbent position,横卧,she reclined his head on my shoulder",
     options: [
-      "relating to sound and vision视听, make a audiovisual presentation",
-      "— to keep away from",
-      "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
+      "- an error in naming aperson or thing",
       "to lean or lie back; rest in a recumbent position,横卧,she reclined his head on my shoulder",
+      "being absolutely sure, I feel certain you are doing the right thing",
+      "a fiber optics instrument used to see inside a joint,关节镜",
     ]
   },
     {
     numb: 779,
-    question: "seclude[si-klood]",
+    question: "seclude[si-klood]:com, together, common",
     answer: "to isolate, shut off, keep apart,隔离, this place was quiet and secluded",
     options: [
       "to isolate, shut off, keep apart,隔离, this place was quiet and secluded",
-      "the art or science of good eating.美食,Top molecular gastronomy techoniques and recipes",
-      "a slanting line running across a space,对角线, ",
-      "- to give a false, perverted,or disproportionate meaning to",
+      "— to add remarks",
+      "— as one voice",
+      "- to place or dropsomething",
     ]
   },
     {
     numb: 780,
-    question: "declare[dih-klair]",
+    question: "declare[dih-klair]:com, together, common",
     answer: "to state something clearly,宣布,the government has just declared a state of emerggency",
     options: [
+      "— partlyconscious",
+      "— a doctor for thefeet",
       "to state something clearly,宣布,the government has just declared a state of emerggency",
-      "- any animal organism capableof separate existence",
-      " — a beginner, startingto grow",
-      "lasting through many years,多年生, perennial plants",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
     ]
   },
     {
     numb: 781,
-    question: "clamor[klam-er]",
+    question: "clamor[klam-er]:com, together, common",
     answer: "to shout and make noise, a loud uproar,叫嚣, a clamor outside woke them in the night",
     options: [
-      "— combining twoideas that sharply contradict each other",
+      "- relating to cleanlinessand health",
       "to shout and make noise, a loud uproar,叫嚣, a clamor outside woke them in the night",
-      "- relating to fathers",
-      "one tenth of the sound volume unit bel,分贝,DB,a whisper is about 30 db(decibel).",
+      "- the ability to see, power ofanticipating",
+      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
     ]
   },
     {
     numb: 782,
-    question: "exclaim",
+    question: "exclaim:col, together, jointly",
     answer: "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
     options: [
-      "one thousandth of a bar毫巴，压强单位",
+      "- an umbrella used toprotect from the sun",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
+      " — indirect control by a foreign power",
       "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
-      "to gather or pile  up, collect, I seem to have accumulated a lot of books",
     ]
   },
     {
     numb: 783,
-    question: "proclamation[prok-luh-mey-shuh n]",
+    question: "proclamation[prok-luh-mey-shuh n]:col, together, jointly",
     answer: "something announced offically in public, 公告,city of orlando proclamation format example",
     options: [
-      "— to reply to, usually in a sharpor retaliatory way",
+      " — usesmanipulation of the skeleton to restore health",
       "something announced offically in public, 公告,city of orlando proclamation format example",
-      "easily bending",
-      "- a newborn child,especially the first few weeks",
+      " — maintenance ofpublic health and cleanliness",
+      "the group of spectators at a public event",
     ]
   },
     {
     numb: 784,
-    question: "circumnavigate",
+    question: "circumnavigate:col, together, jointly",
     answer: "to sail around, to go or maneuver around, the ship circumnavigate the world",
     options: [
-      "— relating tosomething in the past",
+      "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
       "to sail around, to go or maneuver around, the ship circumnavigate the world",
-      "a disconnection, the state of being disjoined",
-      "- the conquest of anenemy, success or triumph",
+      "the inn is accessible by train and bus, it is a fascinating and accessible book",
+      "opposing social norm, 反社会的",
     ]
   },
     {
     numb: 785,
-    question: "circumscribe",
+    question: "circumscribe:co, together, joint",
     answer: "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
     options: [
-      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
-      "- a plant growingindependently on the surface of another",
+      "— the act of rubbingtogether or wearing down",
+      "- sixfold",
+      "- a lack of feeling orinterest",
       "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
-      "— loving books",
     ]
   },
     {
     numb: 786,
-    question: "circumspect",
+    question: "circumspect:cline, lean",
     answer: "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
     options: [
-      "- to give a false, perverted,or disproportionate meaning to",
+      "a book written by hand",
+      "affecting one side or involving one side only单方面, examples of unilateral contract example",
       "looking around watchful and discreet,谨慎的, she promises to be more circumspect in the future",
-      "- period offour years",
-      "to sail around, to go or maneuver around, the ship circumnavigate the world",
+      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
     ]
   },
     {
     numb: 787,
-    question: "homicide[hom-uh-sahyd]",
+    question: "homicide[hom-uh-sahyd]:cline, lean",
     answer: "the killing of one human being by another, 杀人",
     options: [
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
+      "one who studies languages, he was already a good linguist, understanding 4 languages",
       "the killing of one human being by another, 杀人",
-      "— abnormallyexcessive bowel movement",
-      "- to be against something",
-      "pertaining to the skull, 颅骨，what are the 12 cranial nerves?",
+      "- relating to time,enduring for a time only",
     ]
   },
     {
     numb: 788,
-    question: "incisor[in-sahy-zer]",
+    question: "incisor[in-sahy-zer]:cline, lean",
     answer: "a sharp tooth for cutting food, 门牙",
     options: [
+      "conversation between two people",
+      "to undergo a change变异,how to use mutate function in R",
+      " — appealing to a lot ofpeople",
       "a sharp tooth for cutting food, 门牙",
-      "— measles",
-      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
-      "- to picture mentally,especially some future event",
     ]
   },
     {
     numb: 789,
-    question: "insecticide",
+    question: "insecticide:clud, clus, close",
     answer: "a chemical used to kill insects",
     options: [
-      "- a time withoutwork, empty of duty or release from duty",
-      "- a fictitious name",
-      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
+      "inside or into a vein(静脉),静脉,intravenous injection",
+      "— a person who tells astory",
+      "- any animal organism capableof separate existence",
       "a chemical used to kill insects",
     ]
   },
     {
     numb: 790,
-    question: "chrysanthemum[kri-san-thuh-muh m]",
+    question: "chrysanthemum[kri-san-thuh-muh m]:clar, clear",
     answer: " flowers with golden/yellow color streaks or center,菊花",
     options: [
-      "intention to feel like another person",
-      "a person who perceives all colors as a single hue, 色盲, people suffering form monochromacy might mix green and blue",
+      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      "an arrangement or combining parts to form a whole,组成，a human class is a composition of heart and lungs,",
       " flowers with golden/yellow color streaks or center,菊花",
-      "- a state in which two thingstouch",
+      "— decided byonly one person or nation",
     ]
   },
     {
     numb: 791,
-    question: "helichrysum[hel-i-krahy-suh m]",
+    question: "helichrysum[hel-i-krahy-suh m]:claim, clam, shout, speak out",
     answer: "flowers with golden color streaks or center,腊菊",
     options: [
+      "ten years",
       "flowers with golden color streaks or center,腊菊",
-      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
-      "underlying framework of a system",
-      "sounding alike, 同音词,",
+      "a waiting room",
+      "name of a flower, an imaginary undying flower,苋菜,",
     ]
   },
     {
     numb: 792,
-    question: "chrysolite[kris-uh-lahyt]",
+    question: "chrysolite[kris-uh-lahyt]:claim, clam, shout, speak out",
     answer: "a yellowish gem,橄榄石",
     options: [
-      "- eating all foods",
+      "— one wholoves humanity",
+      " umbrella protecting fromthe sun",
+      "— with no specialcharacteristics",
       "a yellowish gem,橄榄石",
-      "a machine noting strength and duration of earthquakes,地震仪",
-      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
     ]
   },
     {
     numb: 793,
-    question: "chronological [kron-l-oj-i--k]",
+    question: "chronological [kron-l-oj-i--k]:claim, clam, shout, speak out",
     answer: "arranged in the order of time, 按时间顺序",
     options: [
-      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
-      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
-      "- the combined total of everything",
+      "- the act ofdestroying something that was built",
       "arranged in the order of time, 按时间顺序",
+      "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
+      "— between the stars",
     ]
   },
     {
     numb: 794,
-    question: "synchronize[sing-kruh-nahyz]",
+    question: "synchronize[sing-kruh-nahyz]:circum, circle, around, about",
     answer: "happending at the same time",
     options: [
-      "— knowing all things",
-      "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
-      "someone working with trees,树艺师",
+      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
       "happending at the same time",
+      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "- the worship ofall gods",
     ]
   },
     {
     numb: 795,
-    question: "achromatic[ak-ruh-mat-ik]",
+    question: "achromatic[ak-ruh-mat-ik]:circum, circle, around, about",
     answer: "without color, achromatic colors are all shades of black, white and grey",
     options: [
       "without color, achromatic colors are all shades of black, white and grey",
-      " - a rock that forms sheets,similar to slate",
-      "any instrument that measures atomospheric pressure气压表",
-      "a water container for fish",
+      "- to drag attention awayfrom something",
+      " —- a fruit, such as acoconut, having a hard woody pericarp",
+      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
     ]
   },
     {
     numb: 796,
-    question: "chromium[kroh-mee-uh m]",
+    question: "chromium[kroh-mee-uh m]:circum, circle, around, about",
     answer: "a blue-white metallic chemical element,铬",
     options: [
-      "optical device with two lenses,双筒望远镜",
-      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
-      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
+      "motion picture making",
       "a blue-white metallic chemical element,铬",
+      " -— surgery ofthe nose",
+      "- an insulated jar thatkeeps heat in",
     ]
   },
     {
     numb: 797,
-    question: "chromatics[kroh-mat-iks]",
+    question: "chromatics[kroh-mat-iks]:cide, cise, cut, kill",
     answer: "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
     options: [
-      "a message sent by telegraph",
+      "plant-eating, examples of large herbivors include cows, elk, and buffalo.",
+      "— requiring small amounts ofmoisture",
+      "- a time withoutwork, empty of duty or release from duty",
       "the study of color,色彩学, the chromatic scale is a musical scale that uses all the musical pitches(音调)",
-      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
-      "the science of female reproductive health妇科",
     ]
   },
     {
     numb: 798,
-    question: "ascertain[as-er-teyn]",
+    question: "ascertain[as-er-teyn]:cide, cise, cut, kill",
     answer: "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
     options: [
       "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
-      "relating to teeth",
-      "origin, classification, characteristics，种族的,definitions for racial and ethnic categories",
-      "relating to the heart",
+      " — aftersomeone's death",
+      "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
+      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
     ]
   },
     {
     numb: 799,
-    question: "certain",
+    question: "certain:cide, cise, cut, kill",
     answer: "being absolutely sure, I feel certain you are doing the right thing",
     options: [
-      "a part broken off or detached分段,sentence fragment examples and their corrections",
+      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
       "being absolutely sure, I feel certain you are doing the right thing",
-      "associated with abnormally high levels of suger in the blood糖尿病",
-      "— an electronicthinking device",
+      "— faster thansound",
+      "inside or into a vein(静脉),静脉,intravenous injection",
     ]
   },
     {
     numb: 800,
-    question: "certify",
+    question: "certify:chrys_chryso_gold_yellow",
     answer: "a judge must certify the contract",
     options: [
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
-      " — somethingthat bears or diffuses a scent",
+      "hostile, ready to fight, given to waging war,好战的，交战的, he was belligerent",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+      "— something built orconstructed, as a building, bridge, or dam",
       "a judge must certify the contract",
-      "发光体",
     ]
   },
     {
     numb: 801,
-    question: "cerebral[suh-ree-bruh l]",
+    question: "cerebral[suh-ree-bruh l]:chrys_chryso_gold_yellow",
     answer: "pertaining to the brain,大脑",
     options: [
-      "— one whowalks",
-      "— a relatively mild disordertypified by excessive anxiety",
+      " — the study ofbones",
       "pertaining to the brain,大脑",
-      "something announced offically in public, 公告,city of orlando proclamation format example",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
+      "a person traveling to the stars and for spaceflight",
     ]
   },
     {
     numb: 802,
-    question: "cerebrate[ser-uh-breyt]",
+    question: "cerebrate[ser-uh-breyt]:chrys_chryso_gold_yellow",
     answer: "to use the mind, think or think about,脑洞大开",
     options: [
-      "a polygon with ten angles, a decagon has 10 equal sides",
-      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
       "to use the mind, think or think about,脑洞大开",
-      "— to get ready in advance",
+      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
+      " — to someone out",
+      "- relating to cleanlinessand health",
     ]
   },
     {
     numb: 803,
-    question: "cerebrospinal[suh-ree-broh-spahyn-l]",
+    question: "cerebrospinal[suh-ree-broh-spahyn-l]:chron_chrono_time",
     answer: "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
     options: [
-      "- an actual or constructivesitting of a body",
-      "— having parts orelements strongly holding to each other",
       "pertaining相关的，附属的 to the brain and the spinal cord脑脊髓",
-      "one thousandth of a liter(升)千分之一升",
+      " — the sciencedealing with x-rays or nuclear radiation",
+      " — a three—wheeledmotorcycle",
+      "to work out the details精心制作的,she drew an elaborate design",
     ]
   },
     {
     numb: 804,
-    question: "encephalitis[en-sef-uh-lahy-tis]",
+    question: "encephalitis[en-sef-uh-lahy-tis]:chron_chrono_time",
     answer: "inflammation(炎症) of the substance in the brain,脑炎,",
     options: [
-      "- to break into aconversation or event, to disturb",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
-      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "hatred towards men, 厌恶男性",
       "inflammation(炎症) of the substance in the brain,脑炎,",
+      "- actions of a government orpolitical party",
+      "gradually building up by accumulation or successive additions，累积的，the cumulative effect of using so many chemicals on the land could be disastrous",
     ]
   },
     {
     numb: 805,
-    question: "cephalic[suh-fal-ik]",
+    question: "cephalic[suh-fal-ik]:chrom, chromo, chromat, chromato,chros, color, pigment",
     answer: "situated or directed toward the head,头部的",
     options: [
-      " — usesmanipulation of the skeleton to restore health",
+      "- actions of a government orpolitical party",
       "situated or directed toward the head,头部的",
-      "- relating to fathers",
-      "- a cure for alldiseases or problems",
+      "the inn is accessible by train and bus, it is a fascinating and accessible book",
+      "the surface of the moon",
     ]
   },
     {
     numb: 806,
-    question: "cephalopod[sef-uh-luh-pod]",
+    question: "cephalopod[sef-uh-luh-pod]:chrom, chromo, chromat, chromato,chros, color, pigment",
     answer: "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
     options: [
-      "the study of handwriting,笔迹学",
-      "to burn with a hot instrument,烙，灼烧",
+      "the structure as visible when cut up for analysis,解刨学",
+      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
+      "to draw around, to draw a line around, encircle,限定, you must circumscribe your TV=watching time to one hour daily",
       "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
-      "— the love of words",
     ]
   },
     {
     numb: 807,
-    question: "egocentric",
+    question: "egocentric:chrom, chromo, chromat, chromato,chros, color, pigment",
     answer: "self-centered, 自我中心的, babies are entirely egocentric",
     options: [
+      "being absolutely sure, I feel certain you are doing the right thing",
+      " — hardening of the arterial walls",
+      "underlying framework of a system",
       "self-centered, 自我中心的, babies are entirely egocentric",
-      "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
-      "operated by force created by a liquid or water液压,equipment such as cranes, forklifts, jacks, pumps and fall arrest safety harnesses use hydraulics to lift and lower objects.",
-      "- the first of a kind",
     ]
   },
     {
     numb: 808,
-    question: "eccentric",
+    question: "eccentric:cert, sure",
     answer: "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
     options: [
-      "— respect foryourself",
-      "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
+      "- relating to humanspeech sounds",
       "not having a common center, not according to norm,偏心，古怪，怪癖, he is an eccentric character who likes wearing a beret贝雷帽 and dark glasses",
-      " — an eye doctor",
+      "optical device with two lenses,双筒望远镜",
+      "mollusks(软体动物) like octopus having tentacles attached to the head,触须与头直接相连的动物，章鱼",
     ]
   },
     {
     numb: 809,
-    question: "centrifugal",
+    question: "centrifugal:cert, sure",
     answer: "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
     options: [
-      "a class of animals with very thick skin(elephant, rhinoceros)",
-      "l- a group of greenpigments found in leaves",
-      "- to force someone to act",
       "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
+      "- theoriespresumed without proof of a scientific nature",
+      "— to come between",
+      "- a four—footedanimal",
     ]
   },
     {
     numb: 810,
-    question: "centennial[sen-ten-ee-uh l]",
+    question: "centennial[sen-ten-ee-uh l]:cert, sure",
     answer: "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
     options: [
-      "- a proposition for discussion orput an unifying view",
-      "- to cause tooccur at the same time",
-      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
       "the one hundredth anniversary,百年纪念, the centenial olympics was in Altanta, Georgia",
+      "to lean or lie back; rest in a recumbent position,横卧,she reclined his head on my shoulder",
+      " — of or going to the root ororigin; fundamental",
+      "- to eat quickly and withgreat fervor",
     ]
   },
     {
     numb: 811,
-    question: "centimeter",
+    question: "centimeter:cerebr, cerebro, brain",
     answer: "one over one hundred of a meter",
     options: [
+      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
+      "— meaning no orexpressing refusal",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
       "one over one hundred of a meter",
-      "— a person who foretells thefuture",
-      "- to put underwater",
-      "- to go or climb down",
     ]
   },
     {
     numb: 812,
-    question: "exceed",
+    question: "exceed:cerebr, cerebro, brain",
     answer: "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
     options: [
-      "a trustee,受托人，监护人,Attorneys have a fiduciary duty to their clients,",
+      " - a rock that forms sheets,similar to slate",
+      "being both male and female,雌雄同体的",
+      "— standing steady and firm",
       "to go beyond the limits, the cost must not exceed 10 dollars, the cost exceeded our estimate",
-      "towards the inside,内向,what would it do to inward investment?",
-      "- to cut into two equal parts",
     ]
   },
     {
     numb: 813,
-    question: "recede",
+    question: "recede:cerebr, cerebro, brain",
     answer: "to go back, 后退，归还, the painful memories gradually receded in her mind, as the boat picked up speed, the coastline receded into the distance",
     options: [
-      "— a branchlike part",
       "to go back, 后退，归还, the painful memories gradually receded in her mind, as the boat picked up speed, the coastline receded into the distance",
-      "- to be against something",
-      "muscle fatigue or weakness肌无力,",
+      "flat tongue-shaped pasta扁面条,",
+      " — the outer boundaryof an area",
+      "- viruses thatare causing the common cold",
     ]
   },
     {
     numb: 814,
-    question: "accessible",
+    question: "accessible:cephal, cephalo, head",
     answer: "the inn is accessible by train and bus, it is a fascinating and accessible book",
     options: [
-      "an abnormally low glucose(葡萄糖) in the blood低血糖",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
-      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
       "the inn is accessible by train and bus, it is a fascinating and accessible book",
+      "to stop from moving",
+      "one's insanity as related to the moon",
     ]
   },
     {
     numb: 815,
-    question: "cauterize[kaw-tuh-rahyz]",
+    question: "cauterize[kaw-tuh-rahyz]:cephal, cephalo, head",
     answer: "to burn with a hot instrument,烙，灼烧",
     options: [
-      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
-      "— loving books",
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
       "to burn with a hot instrument,烙，灼烧",
-      " — the smallest possible unit oflight",
+      "not in its correct historical time, 不合时宜，",
     ]
   },
     {
     numb: 816,
-    question: "caustic",
+    question: "caustic:cephal, cephalo, head",
     answer: "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
     options: [
-      "- a fourth of a gallon",
-      "- at a standstill,fixed",
+      "to cut apart piece by piece, to examine the structure，解刨, we dissect a frog in science class",
       "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
-      "- belief inone god",
+      "— an act of exposingsomething as invalid or baseless",
+      "— a person who writes outdocuments",
     ]
   },
     {
     numb: 817,
-    question: "holocaust",
+    question: "holocaust:centr, centro, centri, center",
     answer: "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
     options: [
+      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      "able to communicate in multiple languages, 5 examples of multilingual websites that did everything right",
       "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
-      "a shy person who keeps within himself or herself, signs of an introvert personality",
-      "- being something in nameonly but not in reality",
-      "- belief inone god",
+      "— a story",
     ]
   },
     {
     numb: 818,
-    question: "cataclysm[kat-uh-kliz-uh m]",
+    question: "cataclysm[kat-uh-kliz-uh m]:centr, centro, centri, center",
     answer: "an extensive flood, complete deluge,灾难，剧变",
     options: [
-      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-      "existing or occuring within the boundaries of a state",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
+      "easily bending",
       "an extensive flood, complete deluge,灾难，剧变",
-      "goverment of the people, the supreme power is vested in the people，民主, voting is one way to participate in our democraacy",
     ]
   },
     {
     numb: 819,
-    question: "catalog",
+    question: "catalog:centr, centro, centri, center",
     answer: "a complete list of items,目录",
     options: [
-      "the study of handwriting,笔迹学",
       "a complete list of items,目录",
-      "- any tract of land;region or district",
-      "- a lack of feeling orinterest",
+      "to make young again, restore to youthful vigor, appearance恢复活力, the spa treatment rejuvenated me",
+      "— an act of exposingsomething as invalid or baseless",
+      "- inferior toaccepted standards, less than adequate",
     ]
   },
     {
     numb: 820,
-    question: "catastrophe[kuh-tas-truh-fee]",
+    question: "catastrophe[kuh-tas-truh-fee]:cent, centi, hundred, hundredth",
     answer: "turning for the worst, a substantial disaster,灾难",
     options: [
+      "- to tell a story",
+      "— one wholoves humanity",
+      "to remove from power, remove from any position",
       "turning for the worst, a substantial disaster,灾难",
-      "not changing",
-      "— to move from one place toanother",
-      "- any tract of land;region or district",
     ]
   },
     {
     numb: 821,
-    question: "carnivorous[kahr-niv-er-uh s]",
+    question: "carnivorous[kahr-niv-er-uh s]:cent, centi, hundred, hundredth",
     answer: "flesh-eating,食肉的, Lions and tigers are carnivores",
     options: [
-      "an extensive flood, complete deluge,灾难，剧变",
-      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
+      "of or involving two sides, two-sided",
+      " — loud,unpleasant sounds",
       "flesh-eating,食肉的, Lions and tigers are carnivores",
-      " — the outer boundaryof an area",
+      "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
     ]
   },
     {
     numb: 822,
-    question: "carnal[kahr-nl]",
+    question: "carnal[kahr-nl]:cede, ceed, cess, go, yield",
     answer: "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
     options: [
-      "— a wise saying or precept; adidactic sentence",
-      "- a statementforetelling the future",
-      "the science of female reproductive health妇科",
       "pertaining to the body or flesh, sensual,肉体的，性欲的，he did not have much use for religion, perferring to spend time on more carnal pursuits",
+      "half a line of poetry半行,",
+      "underlying framework of a system",
+      "— to drive someone out of aplace",
     ]
   },
     {
     numb: 823,
-    question: "incarnate[in-kahr-neyt]",
+    question: "incarnate[in-kahr-neyt]:cede, ceed, cess, go, yield",
     answer: "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
     options: [
-      "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
-      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
-      " — a room whereone is exposed to sun light",
+      " — distasteful,offensive or revolting",
+      "one over one hundred of a meter",
+      "a scientific observer of the celestial(天上的) bodies,天文学家",
       "given bodily form, especially a human form化身, if you encounter sb who pulls off butterflies wings for fun, that person as evil incarnate",
     ]
   },
     {
     numb: 824,
-    question: "cardiac",
+    question: "cardiac:cede, ceed, cess, go, yield",
     answer: "relating to the heart",
     options: [
-      "- period offour years",
-      "inflammation of a joint,关节炎",
-      "- the total,highest amount",
+      "- to save something",
+      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
       "relating to the heart",
+      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
     ]
   },
     {
     numb: 825,
-    question: "cardiogenic",
+    question: "cardiogenic:caust_caut, to burn",
     answer: "resulting from heart disease,心源性的,",
     options: [
       "resulting from heart disease,心源性的,",
-      "a substraction of an amount, 扣除, 10 popular tax deductions",
-      "a machine noting strength and duration of earthquakes,地震仪",
-      "- inflammation ofthe lungs",
+      "- standing still, notmoving",
+      "— a person who writes outdocuments",
+      "- to be against something",
     ]
   },
     {
     numb: 826,
-    question: "cardiology",
+    question: "cardiology:caust_caut, to burn",
     answer: "the study of the heart and its functions in health and disease,心脏病学",
     options: [
-      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-      "measurement, pertaining to the meter",
-      "- relating to fathers",
       "the study of the heart and its functions in health and disease,心脏病学",
+      "invertebrates(无脊椎动物) with jointed legs节肢动物, spider, crab",
+      "- a figure with eight sidesand eight angles",
+      "outside the earth, extraterrestrial life",
     ]
   },
     {
     numb: 827,
-    question: "intercept",
+    question: "intercept:caust_caut, to burn",
     answer: "to stop or interrupt, x intercept轴, y intercept formula,",
     options: [
-      "one thousandth of a meter毫米,",
-      " — to wind somethingbackward",
+      "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      "— to show approval ofespecially by clapping the hands",
       "to stop or interrupt, x intercept轴, y intercept formula,",
-      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
     ]
   },
     {
     numb: 828,
-    question: "perceive[per-seev]",
+    question: "perceive[per-seev]:cata, down, against completely, intensive",
     answer: "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
     options: [
-      "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
+      "- being of lively, sharingnature",
+      "pertaining to the brain,大脑",
       "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
-      "— the love of wisdom",
-      "an outgoing person, 性格外向的, extrovert personality",
+      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
     ]
   },
     {
     numb: 829,
-    question: "captivating[kap-tuh-veyt]",
+    question: "captivating[kap-tuh-veyt]:cata, down, against completely, intensive",
     answer: "taking hold of, to attract and hold the attention,迷人的, her voice was absolutely captivating",
     options: [
+      "to cause air to circulate,通气，to aerate sth is to put air into it",
       "taking hold of, to attract and hold the attention,迷人的, her voice was absolutely captivating",
-      " — a verystrong urge",
-      "— to place out into the openfor all to see",
-      "— the only one of its kind",
+      "to isolate, shut off, keep apart,隔离, this place was quiet and secluded",
+      "- theoriespresumed without proof of a scientific nature",
     ]
   },
     {
     numb: 830,
-    question: "candid",
+    question: "candid:cata, down, against completely, intensive",
     answer: "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
     options: [
-      "one of the commonest minerals, calcium carbonate,方解石",
-      "a chemical used to kill insects",
+      "the inn is accessible by train and bus, it is a fascinating and accessible book",
+      "abnormal in crease of white blood cells in the blood白血病",
+      "— deep red color and a preciousstone of the same color",
       "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
-      "— a person fluent in manylanguages",
     ]
   },
     {
     numb: 831,
-    question: "incandescent[in-kuh n-des-uh nt]",
+    question: "incandescent[in-kuh n-des-uh nt]:carn, carni, flesh, meat",
     answer: "white, glowing, or luminous with intense heat，白织灯",
     options: [
-      "cohousing usually involves a small number of homes in any arrangement that are grouped closely together, 公共住宅区, ",
-      "— faster thansound",
-      "- a four—footedanimal",
       "white, glowing, or luminous with intense heat，白织灯",
+      "to work together, to cooperate,合作,the two companies agreed to collaborate",
+      " — yellowishdiscoloration (as of the skin or cerebrospinalfluid)",
+      "- the systematic arrangementof words",
     ]
   },
     {
     numb: 832,
-    question: "calcite[kal-sahyt]",
+    question: "calcite[kal-sahyt]:carn, carni, flesh, meat",
     answer: "one of the commonest minerals, calcium carbonate,方解石",
     options: [
+      "— knowing all things",
       "one of the commonest minerals, calcium carbonate,方解石",
-      "— poisonous",
-      "— one whowalks",
-      "- silly, causinglaughter",
+      "make larger, to swallow greedily, glut or gorge咽喉,肿胀的充血的,what to do if you experience engorgement?",
+      "—- done alone, by yourself",
     ]
   },
     {
     numb: 833,
-    question: "calcium[kal-see-uh m]",
+    question: "calcium[kal-see-uh m]:carn, carni, flesh, meat",
     answer: "a malleable silvery-white element of the alkaline earth group,钙",
     options: [
-      "- lastingthroughout all time",
+      "- sixfold",
       "a malleable silvery-white element of the alkaline earth group,钙",
-      "happending at the same time",
-      "— an addition to analready completed document",
+      "a malleable silvery-white element of the alkaline earth group,钙",
+      "- to delay something",
     ]
   },
     {
     numb: 834,
-    question: "bursar[bur-sahr]",
+    question: "bursar[bur-sahr]:cardi, cardio, heart",
     answer: "a treasurer, especially of a college or university,大学财务主管",
     options: [
-      "to bend course because of hitting something, 偏转，打偏, They are trying to defliect attention from the troubled economy. The ball deflicted off his shoulder",
-      "object made by a person's skill, 人工制品,15 examples of cultural artifact",
       "a treasurer, especially of a college or university,大学财务主管",
-      "- a liquid isolated out ofanother",
+      "- standing still, notmoving",
+      "— an element whichproduces a red solution",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
     ]
   },
     {
     numb: 835,
-    question: "bursary",
+    question: "bursary:cardi, cardio, heart",
     answer: "the treasury of a college or monastery,奖学金，学校金库",
     options: [
-      "a complete change of form, 变态，morphosis形态变化，5 animals that go through metamorphosis like tadpole to a frog and caterpillar to a butterfly",
-      "the love of mankind",
+      "the state of being a mother,产妇,the boy was born at the city's maternity hospital",
+      " - afraid offoreigners",
+      "- the ability to see, power ofanticipating",
       "the treasury of a college or monastery,奖学金，学校金库",
-      "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
     ]
   },
     {
     numb: 836,
-    question: "disburse",
+    question: "disburse:cardi, cardio, heart",
     answer: "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
     options: [
-      "having equal or constant temperature, A fridge works isothermally",
-      "feeling of well being, 快感, I was in a state of euphoria all day",
-      "— relating to stars",
+      "— opposite of fair",
+      "— a break in somethingSAN TO ZYGO",
       "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
+      "- to make somethinglike new again",
     ]
   },
     {
     numb: 837,
-    question: "blastula[blas-chuh-luh]",
+    question: "blastula[blas-chuh-luh]:capt, cept, ceive, take, hold",
     answer: "the early developmental stage of an animal,囊胚",
     options: [
-      "- inflammation ofthe lungs",
-      "- the ability to see, power ofanticipating",
+      "- to speak ordeclare something clearly",
+      "having equal or constant temperature, A fridge works isothermally",
+      "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
       "the early developmental stage of an animal,囊胚",
-      "- the conquest of anenemy, success or triumph",
     ]
   },
     {
     numb: 838,
-    question: "fibroblast[fahy-bruh-blast]",
+    question: "fibroblast[fahy-bruh-blast]:capt, cept, ceive, take, hold",
     answer: "a cell that forms connective tissue,纤维母细胞",
     options: [
-      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
+      "something announced offically in public, 公告,city of orlando proclamation format example",
       "a cell that forms connective tissue,纤维母细胞",
-      "a person who is fleeing, from prosecution, 逃犯,The fugitive hoped he could cross the border the police caught up with him.",
-      "— partlyconscious",
+      "the study of mankind",
+      "—- fatherhood",
     ]
   },
     {
     numb: 839,
-    question: "blastoderm[blas-tuh-durm]",
+    question: "blastoderm[blas-tuh-durm]:capt, cept, ceive, take, hold",
     answer: "the primitive layer of cells from the segmentation of the ovum,胚层",
     options: [
-      "- period offour years",
-      " - afraid offoreigners",
-      "- to move on, over, orthrough water, air, or land in a ship",
+      "the study of mankind",
+      "without color, achromatic colors are all shades of black, white and grey",
       "the primitive layer of cells from the segmentation of the ovum,胚层",
+      "— to drive someone out of aplace",
     ]
   },
     {
     numb: 840,
-    question: "biography",
+    question: "biography:cand, glowing, iridescent",
     answer: "a life story written by another person",
     options: [
-      "a strom with circling winds, a tropical cyclone with wind speeds of over 65km",
-      "a prolonged talk or discourse by a single speaker独白,he subjected me to a monologue on his last stay in hospital",
+      "- to say it didn't happen",
+      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
       "a life story written by another person",
-      "a short expression of a general truth,格言",
+      "the love of mankind",
     ]
   },
     {
     numb: 841,
-    question: "biology",
+    question: "biology:cand, glowing, iridescent",
     answer: "the science of life or living matter in all its forms,生物学",
     options: [
-      "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
-      " — gotten at birth, existingin or formed by nature",
-      "kg, ont thousand grams",
+      "- any animal organism capableof separate existence",
+      "of or involving two sides, two-sided",
+      "— the arrangement ofleaves on a stem",
       "the science of life or living matter in all its forms,生物学",
     ]
   },
     {
     numb: 842,
-    question: "biosphere",
+    question: "biosphere:calc, stone",
     answer: "earth's surface inhabited by living things生态环境",
     options: [
-      " — a substancethat helps prevent body odor",
-      "a point where two or more things are joined, 交界处, your body has nerve junctions= the places where you nerves come together. cell junction",
+      "- a device to talk to adistant person",
+      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
       "earth's surface inhabited by living things生态环境",
-      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
+      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
     ]
   },
     {
     numb: 843,
-    question: "bibliography",
+    question: "bibliography:calc, stone",
     answer: "a list of books used as sources, a list of materials,参考书目",
     options: [
+      "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
+      "a cell that forms connective tissue,纤维母细胞",
       "a list of books used as sources, a list of materials,参考书目",
-      " — a three—wheeledmotorcycle",
-      "沉浸, to put or dip something into a liquid, he immersed himself in the culture of the island",
-      "the treasury of a college or monastery,奖学金，学校金库",
     ]
   },
     {
     numb: 844,
-    question: "bibliomania[bib-lee-oh-mey-nee-uh]",
+    question: "bibliomania[bib-lee-oh-mey-nee-uh]:burs, pouch, purse",
     answer: "an extreme love of books, 藏书狂",
     options: [
-      "- more supplies than isdesirable",
+      "not in its correct historical time, 不合时宜，",
+      "— to place out into the openfor all to see",
       "an extreme love of books, 藏书狂",
-      "- a plant growingindependently on the surface of another",
-      "a single block or piece of stone of considerable size巨石/巨大的, Monolithic architecture",
+      "- self—restraint orabstinence, in regard to sexual activity",
     ]
   },
     {
     numb: 845,
-    question: "bibliophile[bib-lee-uh-fahyl]",
+    question: "bibliophile[bib-lee-uh-fahyl]:burs, pouch, purse",
     answer: "a person who loves and collects books,图书搜藏者",
     options: [
-      "- the act or fact ofdetaining, putting somebody on hold",
-      "— to drive someone out of aplace",
-      "having many trees, of or relating to trees, an arborous roof",
       "a person who loves and collects books,图书搜藏者",
+      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
+      "on the shore, we shall put you ashore on the first island that we see",
+      "- included since birth",
     ]
   },
     {
     numb: 846,
-    question: "biannual",
+    question: "biannual:burs, pouch, purse",
     answer: "happening twice a year, semiannual,一年两次，或者两年一次, the olymipic games are biannual",
     options: [
+      "- a stand or frame with threelegs",
+      "— knowing all things",
       "happening twice a year, semiannual,一年两次，或者两年一次, the olymipic games are biannual",
-      "— combining twoideas that sharply contradict each other",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
-      "a doctor for the skin",
+      "- to give a false, perverted,or disproportionate meaning to",
     ]
   },
     {
     numb: 847,
-    question: "binoculars",
+    question: "binoculars:blast, blasto, cell, primitive, immature cell",
     answer: "optical device with two lenses,双筒望远镜",
     options: [
-      "a mad love of oneself,自大狂,a true egomaniac has a psychological disorder that makes him believe that he is great",
       "optical device with two lenses,双筒望远镜",
-      "- clearly visible, clear tothe sight or understanding",
-      "pertaining to the middle age中shiji",
+      "- the combined total of everything",
+      "- a government that rules",
+      "underlying framework of a system",
     ]
   },
     {
     numb: 848,
-    question: "benefactor",
+    question: "benefactor:blast, blasto, cell, primitive, immature cell",
     answer: "person who gives money to a cause, kindly helper恩人",
     options: [
-      "— pain along a nerve",
-      "- to cut into two equal parts",
+      "a certificate,literally a letter folded double 文凭",
       "person who gives money to a cause, kindly helper恩人",
-      "in the shape of a tree, treelike form，树枝状,",
+      "intention to feel like another person",
+      "- an insulated jar thatkeeps heat in",
     ]
   },
     {
     numb: 849,
-    question: "beneficial",
+    question: "beneficial:blast, blasto, cell, primitive, immature cell",
     answer: "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
     options: [
-      "— to name anumber of items on a list",
+      "outside the earth, extraterrestrial life",
+      "extremely tiny, 微小的,",
+      " — an eye doctor",
       "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
-      "- relating to time,enduring for a time only",
-      "to stop from moving",
     ]
   },
     {
     numb: 850,
-    question: "benevolent",
+    question: "benevolent:bio, life, living matter",
     answer: "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
     options: [
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
       "showing kindness or goodwill, charitable仁慈,help the old woman with her groceries is an act of benevolence",
-      "pertaining to a sense of beauty,审美的, The concept of aesthetic",
-      "- a first draft fromwhich a document is prepared",
-      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
+      "any instrument that measures atomospheric pressure气压表",
+      "- the study ofreligion, god, etc.",
     ]
   },
     {
     numb: 851,
-    question: "bellicose",
+    question: "bellicose:bio, life, living matter",
     answer: "warlike, aggressively hostile,好战的",
     options: [
-      "disagreement, 争议, the new movie is a subject of controversy",
-      " — a substancethat helps prevent body odor",
-      "— to go back to anearlier condition",
       "warlike, aggressively hostile,好战的",
+      "an instrument that measures time",
+      "measurement, pertaining to the meter",
+      "an insane person疯子,a person suffering from mania",
     ]
   },
     {
     numb: 852,
-    question: "belligerent[buh-lij-er-uh nt]",
+    question: "belligerent[buh-lij-er-uh nt]:bio, life, living matter",
     answer: "hostile, ready to fight, given to waging war,好战的，交战的, he was belligerent",
     options: [
-      "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
-      "total devastation, especially by fire, 大屠杀, why remembering the holocaust is a human rights",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
+      "a boat basin offering dockage and other service for small craft码头, if you live in a harbor town, you can walk down the marina to watch boats come and go",
       "hostile, ready to fight, given to waging war,好战的，交战的, he was belligerent",
-      "any instrument that measures atomospheric pressure气压表",
     ]
   },
     {
     numb: 853,
-    question: "rebel[reb-uh l]",
+    question: "rebel[reb-uh l]:bibli, biblio, book",
     answer: "a person who resists any authority,造反，反叛，叛逆",
     options: [
-      "- an electron tube having twoelectrodes, a cathode and an anode",
-      "— as one voice",
       "a person who resists any authority,造反，反叛，叛逆",
-      " — having aquarrelsome or aggressive nature",
+      "- a device thatcontrols heat",
+      "- shape having fiveangles and five sides",
+      "a short expression of a general truth,格言",
     ]
   },
     {
     numb: 854,
-    question: "baric[bar-ik]",
+    question: "baric[bar-ik]:bibli, biblio, book",
     answer: "pertaining to pressure, esp. of the atmosphere气压",
     options: [
-      "- extremely high",
-      "the middle muscle of the heart心机, ",
+      "- the study ofpoisons",
+      " — to apply a rule",
       "pertaining to pressure, esp. of the atmosphere气压",
-      "- to delay something",
+      "heavy particle such as proton, neutron, or any elementary particle重子",
     ]
   },
     {
     numb: 855,
-    question: "barometer[buh-rom-i-ter]",
+    question: "barometer[buh-rom-i-ter]:bibli, biblio, book",
     answer: "any instrument that measures atomospheric pressure气压表",
     options: [
+      "to give milk or produce milk哺乳，泌乳,乳酸盐，to prevent and cure osteomalacia, you should take more calcium lactate.",
+      "- a newborn child,especially the first few weeks",
       "any instrument that measures atomospheric pressure气压表",
-      " — loud,unpleasant sounds",
-      "peculiar to a particular language",
-      "— something built orconstructed, as a building, bridge, or dam",
+      "not redeemable可赎回的,不可挽回的,without intervention, the country could fall into irredeemable chaos",
     ]
   },
     {
     numb: 856,
-    question: "baryon[bar-ee-on]",
+    question: "baryon[bar-ee-on]:bi, bin, two, twice, once in every two",
     answer: "heavy particle such as proton, neutron, or any elementary particle重子",
     options: [
-      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
-      "- lastingthroughout all time",
+      "— on of the very basic parts ofan atom",
       "heavy particle such as proton, neutron, or any elementary particle重子",
-      "— aiding to normalize digestion",
+      "the surface of the moon",
+      "— a portion of a writtendocument that presents a distinct idea",
     ]
   },
     {
     numb: 857,
-    question: "aviary[ey-vee-er-ee]",
+    question: "aviary[ey-vee-er-ee]:bi, bin, two, twice, once in every two",
     answer: "a large enclosure for birds, 大鸟笼，鸟舍",
     options: [
-      "- the matter thatsettles to the bottom of a liquid",
+      " -outgrowth; consequence; implication to branchout",
       "a large enclosure for birds, 大鸟笼，鸟舍",
-      "— something new (for anitem or thing)",
-      "resembling a woman，妇科,medical definition of gynecoid pelvis骨盆",
+      "- relating to cleanlinessand health",
+      "the process of moving to another place移民",
     ]
   },
     {
     numb: 858,
-    question: "aviatrix[ey-vee-ey-triks]",
+    question: "aviatrix[ey-vee-ey-triks]:bi, bin, two, twice, once in every two",
     answer: "a female airplane pilot女飞行员",
     options: [
-      "— not able to beconquered, insurmountable",
-      "to melt by heating, a tube, a cord or the like,保险丝, a fuse is protective device in an electric plug or circult",
-      "— faster thansound",
+      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
+      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
+      "— opposite of fair",
       "a female airplane pilot女飞行员",
     ]
   },
     {
     numb: 859,
-    question: "aviation[ey-vee-ey-shuh]",
+    question: "aviation[ey-vee-ey-shuh]:bene, good, well",
     answer: "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
     options: [
-      "the act of moving",
-      " — having aterribly bad smell",
       "the art of designing or operating aircraft,航空, 3 type of aviation: commericial, general, and military aviation",
-      "- an edible root of the mustardfamily",
+      "— to reply to, usually in a sharpor retaliatory way",
+      "to stop or interrupt, x intercept轴, y intercept formula,",
+      "- to name someonefor election or to designate",
     ]
   },
     {
     numb: 860,
-    question: "autocrat[aw-tuh-krat]",
+    question: "autocrat[aw-tuh-krat]:bene, good, well",
     answer: "a person who governs with absolute power, a monarch,独裁者",
     options: [
-      "- to climb upwardcrescendolkri-shen—doh",
-      " — having aquarrelsome or aggressive nature",
+      "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
+      "— a prediction of whatwill happen",
+      "- a liquid isolated out ofanother",
       "a person who governs with absolute power, a monarch,独裁者",
-      "measurement, pertaining to the meter",
     ]
   },
     {
     numb: 861,
-    question: "audible[aw-duh-buh l]",
+    question: "audible[aw-duh-buh l]:bene, good, well",
     answer: "loud enough to be heard, actually heard",
     options: [
-      "— relating to the eyes",
       "loud enough to be heard, actually heard",
-      "of or relating to an age or period of 100 years, 一百周年,the centennial celebration of the railway was held in Lincoin Nebraska.",
-      " — aconversation where discussion turned againsteach other",
+      "speaking beautifully and forcefully, 雄辩的有说服力的, she can speak with an eloquence that is almost inspirational",
+      "- to delay something",
+      "a machine noting strength and duration of earthquakes,地震仪",
     ]
   },
     {
     numb: 862,
-    question: "audience[aw-dee-uh ns]",
+    question: "audience[aw-dee-uh ns]:bell, belli, war",
     answer: "the group of spectators at a public event",
     options: [
-      "— the study ofcity life or social life and its problems",
-      "an undersea boat",
-      "a doctor who treat children,choose a new pediatrician for you new baby",
+      "a king or queen, a person that holds a dominant position,君主",
+      "- period offour years",
       "the group of spectators at a public event",
+      "- to find something outat the end of an investigation",
     ]
   },
     {
     numb: 863,
-    question: "audiovisual[aw-dee-oh-vizh-oo-uh l]",
+    question: "audiovisual[aw-dee-oh-vizh-oo-uh l]:bell, belli, war",
     answer: "relating to sound and vision视听, make a audiovisual presentation",
     options: [
-      "- relating to a navy or warships",
-      "a bending in the voices's tone or pitch，曲折,She spoke with no inflection, ",
-      "relating to sound and vision视听, make a audiovisual presentation",
+      "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
       "a disposition性情 or bent, a liking or preference,意向，my own inclination would be to look for another job",
+      "relating to sound and vision视听, make a audiovisual presentation",
+      "- silly, causinglaughter",
     ]
   },
     {
     numb: 864,
-    question: "astronaut",
+    question: "astronaut:bell, belli, war",
     answer: "a person traveling to the stars and for spaceflight",
     options: [
-      "a slanting line running across a space,对角线, ",
-      " — rule oftechnology where the system of government isbased",
-      "fear of height恐高症",
       "a person traveling to the stars and for spaceflight",
+      "the area between the chest and the waist(腰部)上腹",
+      "loud enough to be heard, actually heard",
+      " - the best somethingcould be",
     ]
   },
     {
     numb: 865,
-    question: "astronomer[uh-stron-uh-mer]",
+    question: "astronomer[uh-stron-uh-mer]:bar, baro, pressure, weight",
     answer: "a scientific observer of the celestial(天上的) bodies,天文学家",
     options: [
-      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
-      "inside or into a vein(静脉),静脉,intravenous injection",
-      "- relating to the body",
+      "- to make somethinglike new again",
       "a scientific observer of the celestial(天上的) bodies,天文学家",
+      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "a representative of a country or group sent away on a mission, he flew to China as the personal emissary of the President.",
     ]
   },
     {
     numb: 866,
-    question: "asterisk",
+    question: "asterisk:bar, baro, pressure, weight",
     answer: "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
     options: [
-      "pertaining有关的 to the stomach,胃，he suffered from diabetes and gastric ulcers(溃疡)",
-      "clam temperament, evenness of temper,镇静,沉着，冷静, The defeat was taken with equanimity by the leadership",
       "a star shaped sign used as a reference tool星状物, An asterisk is a star-shaped symbol (*) that has a few uses in writing",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "- an insulated jar thatkeeps heat in",
+      " — a motor vehicle that pullsthings",
+      "easy to break",
     ]
   },
     {
     numb: 867,
-    question: "artisan[ahr-tuh-zuh n]",
+    question: "artisan[ahr-tuh-zuh n]:bar, baro, pressure, weight",
     answer: "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
     options: [
-      "the act or process of forming or the state of being formed.编队",
-      "affecting one side or involving one side only单方面, examples of unilateral contract example",
-      "— above average,better in quality",
+      " — a three—wheeledmotorcycle",
+      "skull of vertebrates,颅骨,what does cranium do?",
       "a person skilled in a craft, a craftperson,工匠，艺人, top 10 artisans of the world",
+      " — to come in agathering or assembly of people",
     ]
   },
     {
     numb: 868,
-    question: "arthoscope[ahr-thruh-skohp]",
+    question: "arthoscope[ahr-thruh-skohp]:avi, avia, bird",
     answer: "a fiber optics instrument used to see inside a joint,关节镜",
     options: [
-      "a doctor for the teeth",
-      "— a person who foretells thefuture",
-      "— a person who foretells thefuture",
+      "— knowing all things",
       "a fiber optics instrument used to see inside a joint,关节镜",
+      "motion picture making",
+      "- to put into words",
     ]
   },
     {
     numb: 869,
-    question: "arthritis[ahr-thrahy-tis]",
+    question: "arthritis[ahr-thrahy-tis]:avi, avia, bird",
     answer: "inflammation of a joint,关节炎",
     options: [
-      "- to delay something",
-      "- to cut into two equal parts",
-      "clotting凝血 of the blood,出血,",
+      "— pain along a nerve",
+      " -person in his or her eighties",
       "inflammation of a joint,关节炎",
+      "unit measuring light, 光通量单位",
     ]
   },
     {
     numb: 870,
-    question: "arthropod[ahr-thruh-pod]",
+    question: "arthropod[ahr-thruh-pod]:avi, avia, bird",
     answer: "invertebrates(无脊椎动物) with jointed legs节肢动物, spider, crab",
     options: [
-      "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
-      " flowers with golden/yellow color streaks or center,菊花",
+      "a departure from the main issue, subject，题外话,talking about the money now would be a digression from the main purpose of this meeting",
+      "- to break into aconversation or event, to disturb",
       "invertebrates(无脊椎动物) with jointed legs节肢动物, spider, crab",
-      " — of or going to the root ororigin; fundamental",
+      "— reddish pigment inbile",
     ]
   },
     {
     numb: 871,
-    question: "archaeology[ahr-kee-ol-uh-jee]",
+    question: "archaeology[ahr-kee-ol-uh-jee]:auto, self, same, one",
     answer: "the study of ancient cultures, the study of antiquity,考古学",
     options: [
-      "something announced offically in public, 公告,city of orlando proclamation format example",
-      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
-      "- acrossthe continent",
+      "— opposite of fair",
       "the study of ancient cultures, the study of antiquity,考古学",
+      "— a passage before themain part",
+      "the killing of one human being by another, 杀人",
     ]
   },
     {
     numb: 872,
-    question: "archaic[ahr-key-ik]",
+    question: "archaic[ahr-key-ik]:auto, self, same, one",
     answer: "in an earlier period, prior to development,古老, because my archaic computer is no longer useful to me, I am giving it away for free",
     options: [
-      "easily bending",
-      "young, youthful, juvenile readers",
-      "a statement of equality, 方程， equations and formulas, how to solve equations",
+      "- to make sure thatsomething is true",
+      "to throw a remark into a discussion,that is an interesting idea, he interjected, but I do not think you have considered all of the details ",
+      "easy to break",
       "in an earlier period, prior to development,古老, because my archaic computer is no longer useful to me, I am giving it away for free",
     ]
   },
     {
     numb: 873,
-    question: "archive[ahr-kahyv]",
+    question: "archive[ahr-kahyv]:audio, audi, hear",
     answer: "a collection of historical materials,档案, the national archives and record administration, archive records",
     options: [
-      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
+      "malignant dark tumor of the skin",
       "a collection of historical materials,档案, the national archives and record administration, archive records",
-      "— standing steady and firm",
-      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
+      "— combining twoideas that sharply contradict each other",
+      "sounding alike, 同音词,",
     ]
   },
     {
     numb: 874,
-    question: "archbishop[ahrch-bish-uh p]",
+    question: "archbishop[ahrch-bish-uh p]:audio, audi, hear",
     answer: "the highest ranking bishop(主教),大主教",
     options: [
-      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
       "the highest ranking bishop(主教),大主教",
-      "a malleable silvery-white element of the alkaline earth group,钙",
-      " — gotten at birth, existingin or formed by nature",
+      "excessively or meticulously critical, overcritical，挑剔,he was a asarcastic, hypercritical man",
+      "- relating to humanspeech sounds",
+      " — emittingradiation",
     ]
   },
     {
     numb: 875,
-    question: "archienemy[ahrch-en-uh-mee]",
+    question: "archienemy[ahrch-en-uh-mee]:audio, audi, hear",
     answer: "worst enemy",
     options: [
-      "someone who destroys religious images and trditional beliefs",
+      "soil based agriculture, gardening or farming in soil,农业, The art or science of cultivating the earth, agriculture.",
+      "to cry out loudly and suddenly,惊呼, millions of kids exclaim in joy",
+      "formerly the tenth month of the roman calendar",
       "worst enemy",
-      "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
-      "- relating to fathers",
     ]
   },
     {
     numb: 876,
-    question: "matriarch[mey-tree-ahrk]",
+    question: "matriarch[mey-tree-ahrk]:astro, aster, star, outer space",
     answer: "a female who rules a group, a venerable old woman,女族长",
     options: [
-      "athletic competition with ten events of discipline十项全能, how to organize decathlon training?",
+      "— to win someone over,persuade",
+      "— relating to someone whohas supernatural mental abilities",
       "a female who rules a group, a venerable old woman,女族长",
-      "able to last, patient, long-suffering",
-      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
+      "- a time withoutwork, empty of duty or release from duty",
     ]
   },
     {
     numb: 877,
-    question: "monarch[mon-ahrk]",
+    question: "monarch[mon-ahrk]:astro, aster, star, outer space",
     answer: "a king or queen, a person that holds a dominant position,君主",
     options: [
-      "young, youthful, juvenile readers",
-      "- viruses thatare causing the common cold",
+      "a doctor who treat children,choose a new pediatrician for you new baby",
       "a king or queen, a person that holds a dominant position,君主",
-      "— relating to stars",
+      "a short expression of a general truth,格言",
+      "a complete list of items,目录",
     ]
   },
     {
     numb: 878,
-    question: "arborist[ahr-ber-ist]",
+    question: "arborist[ahr-ber-ist]:astro, aster, star, outer space",
     answer: "someone working with trees,树艺师",
     options: [
+      "- a government that rules",
+      "— to name anumber of items on a list",
       "someone working with trees,树艺师",
-      "the ability to move objects with you mind",
-      "to find out something with certainty,查明, they were unable to ascertain the cause of the fire",
-      " — a plant thatgrows only in water",
+      " — the study ofbones",
     ]
   },
     {
     numb: 879,
-    question: "arbor[ahr-ber]",
+    question: "arbor[ahr-ber]:art, skill",
     answer: "a shady area formed by trees,凉亭",
     options: [
-      "— respect foryourself",
-      "- relating to the body",
       "a shady area formed by trees,凉亭",
-      "— be stationed",
+      "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
+      "protein used as to combat pathogen causing infection,抗体",
+      "- viruses thatare causing the common cold",
     ]
   },
     {
     numb: 880,
-    question: "arborous",
+    question: "arborous:art, skill",
     answer: "having many trees, of or relating to trees, an arborous roof",
     options: [
-      "smashing together, a clash, conflict,碰撞，冲突,a traffic collision",
       "having many trees, of or relating to trees, an arborous roof",
-      "ten years",
-      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
+      " — a deviceused to see tiny things",
+      "resembling a human",
+      "feeling of well being, 快感, I was in a state of euphoria all day",
     ]
   },
     {
     numb: 881,
-    question: "aquarium[uh-kwair-ee-uh m]",
+    question: "aquarium[uh-kwair-ee-uh m]:arthr, arthro, joint",
     answer: "a water container for fish",
     options: [
-      "loss of the ability to understand written or printed language, patients with this form of alexia can read with difficult",
-      " — the pure andconcentrated essence of a substance",
-      "- a five—pointed starformerly used as a symbolic figure in magic",
+      "— the study",
+      " — an eye doctor",
+      "grand, making a splendid appearance or show,华丽的, You have done a magnificent job",
       "a water container for fish",
     ]
   },
     {
     numb: 882,
-    question: "aquatic",
+    question: "aquatic:arthr, arthro, joint",
     answer: "relating to water, take place or practiced on or in water",
     options: [
-      "a person who resists any authority,造反，反叛，叛逆",
-      "- relating to fathers",
+      " — the pure andconcentrated essence of a substance",
+      "capable of burning or eating away living tissue,腐蚀性的, the chemical was so caustic that it ate through the pipes",
+      "- inability to fallasleep",
       "relating to water, take place or practiced on or in water",
-      "an error in naming 误称, Chinese Checkers跳棋 is a misnomer, the game isn't form of checkers, nor is it from China",
     ]
   },
     {
     numb: 883,
-    question: "aqueduct[ak-wi-duhkt]",
+    question: "aqueduct[ak-wi-duhkt]:arthr, arthro, joint",
     answer: "a pipeline for water,沟渠",
     options: [
-      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
-      "to bring an honor to someone, to ocnsult together, compare opinions,授予，协商，商谈, He conferred with hill and others in the office.",
-      "kg, ont thousand grams",
+      " — distasteful,offensive or revolting",
       "a pipeline for water,沟渠",
+      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
+      "having a pleasant sound, many lullabies are example of euphony because they are designed to lull a baby to sleep.",
     ]
   },
     {
     numb: 884,
-    question: "aphorism",
+    question: "aphorism:arch, archa, archi, primitive, ancient",
     answer: "a short expression of a general truth,格言",
     options: [
-      "a governing body consisting of old people,老人政治,",
-      "the sugar contained in milk lactic acid like glucose and galactose,乳糖,lactose intolerance乳糖不耐,",
-      "缩减",
+      "- veryadvanced in ideas, design, or techniques",
+      "having equality of measure， 等距,isometric exercises help maintain strength, include leg lift or plank",
       "a short expression of a general truth,格言",
+      "the study of handwriting,笔迹学",
     ]
   },
     {
     numb: 885,
-    question: "apostrophe[uh-pos-truh-fee]",
+    question: "apostrophe[uh-pos-truh-fee]:arch, archa, archi, primitive, ancient",
     answer: "a small dash used in place of an omitted letter,撇号",
     options: [
-      "a small dash used in place of an omitted letter,撇号",
-      "to dip something completely into  water,淹没，the town was submerged by the flood.",
-      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      "— measles",
+      "— an athletic contestthat includes five events",
       "- a state in which two thingstouch",
+      "a small dash used in place of an omitted letter,撇号",
     ]
   },
     {
     numb: 886,
-    question: "antibody",
+    question: "antibody:arch, archa, archi, primitive, ancient",
     answer: "protein used as to combat pathogen causing infection,抗体",
     options: [
+      "- an athletic contestwith three events",
+      "- relating to cleanlinessand health",
+      "art of public speaking，演说, I need more training in order to improve my elocution",
       "protein used as to combat pathogen causing infection,抗体",
-      "— an element whichproduces a red solution",
-      "the cross itself as a christian emblem, 十字架",
-      " — ground or land",
     ]
   },
     {
     numb: 887,
-    question: "antisocial",
+    question: "antisocial:arch, archi, chief, most important, rule",
     answer: "opposing social norm, 反社会的",
     options: [
-      "a list of books used as sources, a list of materials,参考书目",
       "opposing social norm, 反社会的",
-      "not in its correct historical time, 不合时宜，",
-      "— with no specialcharacteristics",
+      "on the shore, we shall put you ashore on the first island that we see",
+      "heavy particle such as proton, neutron, or any elementary particle重子",
+      "to breathe out,呼气, she held her breath for a moment and then exhaled.",
     ]
   },
     {
     numb: 888,
-    question: "anthropology",
+    question: "anthropology:arch, archi, chief, most important, rule",
     answer: "the study of mankind",
     options: [
+      " — an eye doctor",
       "the study of mankind",
-      "drawing that explains something such as the parts etc，",
-      "warlike, aggressively hostile,好战的",
-      "- inferior toaccepted standards, less than adequate",
+      "soak in a liquid so as to extract the soluble properties注入,She has infused her followers with confidence.",
+      "flesh-eating,食肉的, Lions and tigers are carnivores",
     ]
   },
     {
     numb: 889,
-    question: "philanthropy",
+    question: "philanthropy:arch, archi, chief, most important, rule",
     answer: "the love of mankind",
     options: [
-      "one over one hundred of a meter",
-      "- the worship ofall gods",
       "the love of mankind",
-      "- a fictitious name",
+      "flat tongue-shaped pasta扁面条,",
+      "- a figure with threesides and three angles",
+      " - the best somethingcould be",
     ]
   },
     {
     numb: 890,
-    question: "amaranth[am-uh-ranth]",
+    question: "amaranth[am-uh-ranth]:arch, archi, chief, most important, rule",
     answer: "name of a flower, an imaginary undying flower,苋菜,",
     options: [
-      "— meaning no orexpressing refusal",
+      "— one whowalks",
+      "a musical composition for two voices or instruments二重唱,their final duet was a melody of sweet rapture.",
       "name of a flower, an imaginary undying flower,苋菜,",
-      "a malleable silvery-white element of the alkaline earth group,钙",
-      " — having a spontaneousurge to do something",
+      "the surface of the moon",
     ]
   },
     {
     numb: 891,
-    question: "anthozoan[an-thuh-zoh-uh n]",
+    question: "anthozoan[an-thuh-zoh-uh n]:arbor, tree",
     answer: "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
     options: [
-      "made up of unrelated parts混杂,sand, oil and water, and chicken noodle soup are examples of heterogeneous mixtures vs homogeneous",
+      "— the human spirit or soul",
+      "one hundred liters(升),百公升, in this establishment about 20 hectoliters of wine can be produced annually",
+      "— to keep away from",
       "half plant, half animal, like anemones海葵 and corals, 珊瑚虫类",
-      "an extreme love of books, 藏书狂",
-      "intended for reformation, serving or designed to reform,感化院, the school was home to some, reformatory and prision to others",
     ]
   },
     {
     numb: 892,
-    question: "antecede[an-tuh-seed]",
+    question: "antecede[an-tuh-seed]:arbor, tree",
     answer: "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
     options: [
-      "heavy particle such as proton, neutron, or any elementary particle重子",
-      " — all of thepeople who live in a particular area",
-      "a state of dark emotions忧郁的, she was in melancholy mood",
+      "- a government that rules",
+      "— period of theStone Age",
       "to come before sth in time, 前言，先例，上文提到的，the dog is barking, in this sentence, the antecedent is the dog",
+      "ten years",
     ]
   },
     {
     numb: 893,
-    question: "antemeridian[an-tee-muh-rid-ee-uhn]",
+    question: "antemeridian[an-tee-muh-rid-ee-uhn]:arbor, tree",
     answer: "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
     options: [
+      "- the transmissionof programming, in the form of still or video",
+      " —- a fruit, such as acoconut, having a hard woody pericarp",
       "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
-      "one over one hundred of a meter",
-      "—- fatherhood",
-      " — to someone out",
+      " — loud,unpleasant sounds",
     ]
   },
     {
     numb: 894,
-    question: "anteroom",
+    question: "anteroom:aqu, aqua, water",
     answer: "a waiting room",
     options: [
-      " — a plant thatgrows only in water",
+      "— having parts orelements strongly holding to each other",
+      "an abnormally low glucose(葡萄糖) in the blood低血糖",
       "a waiting room",
-      "- a four—footedanimal",
-      "a large enclosure for birds, 大鸟笼，鸟舍",
+      "a chemical used to kill insects",
     ]
   },
     {
     numb: 895,
-    question: "animate[an-uh-meyt]",
+    question: "animate[an-uh-meyt]:aqu, aqua, water",
     answer: "to make alive, to give life to",
     options: [
-      "a tenth of a liter升10cm*10cm*10cm, 十分之一升",
-      "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
-      "focusing on the ethnicity of people民族中心主义的,14 best examples of ethnocentrism, one is thinking you don't have an accent,",
+      "abnormal digestion, indigestion, pepsia消化，dyspepsia不消化",
+      " — lackingfriendliness, not friendly",
+      " — true or real, notmade-up",
       "to make alive, to give life to",
     ]
   },
     {
     numb: 896,
-    question: "equanimity",
+    question: "equanimity:aqu, aqua, water",
     answer: "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
     options: [
-      "— to disagree with whatanother person thinks",
+      "middle america",
+      "— moreconfident than is appropriate",
+      " — to produce with yourvoice, utter, articulate, sing",
       "of balanced spirit, mental or emotional stability镇静，冷静，沉着",
-      "towards the inside,内向,what would it do to inward investment?",
-      "a yellowish gem,橄榄石",
     ]
   },
     {
     numb: 897,
-    question: "androgynous[an-droj-uh-nuhs]",
+    question: "androgynous[an-droj-uh-nuhs]:apo, apho, away, off, separate",
     answer: "being both male and female,雌雄同体的",
     options: [
-      " umbrella protecting fromthe sun",
-      "a doctor for the teeth",
       "being both male and female,雌雄同体的",
-      "flesh-eating,食肉的, Lions and tigers are carnivores",
+      "resembling a human",
+      "- the worship ofall gods",
+      "- the conquest of anenemy, success or triumph",
     ]
   },
     {
     numb: 898,
-    question: "android[an-droid]",
+    question: "android[an-droid]:apo, apho, away, off, separate",
     answer: "resembling a human",
     options: [
-      "a polygon with ten angles, a decagon has 10 equal sides",
+      " — a beginner, startingto grow",
+      "— not able to beconquered, insurmountable",
       "resembling a human",
-      "— the love of words",
-      "a sheltered place to flee to, shelter or protection from danger.避难所",
+      "发光体",
     ]
   },
     {
     numb: 899,
-    question: "misandry",
+    question: "misandry:anti, against, opposite of",
     answer: "hatred towards men, 厌恶男性",
     options: [
-      "the study of the history of a family,家谱,130 genealogy chart samples ideas",
       "hatred towards men, 厌恶男性",
-      "process of acquiring knowledge, preception, 认知, 31 examples of cognition",
-      "- to cause tooccur at the same time",
+      "chemical in the brain able to transform pain内啡肽,endorphins are released during painful experiences, also in pleasure moment, having sex, or exercising",
+      "- shape having fiveangles and five sides",
+      "a certificate,literally a letter folded double 文凭",
     ]
   },
     {
     numb: 900,
-    question: "anatomy[uh-nat-uh-mee]",
+    question: "anatomy[uh-nat-uh-mee]:anti, against, opposite of",
     answer: "the structure as visible when cut up for analysis,解刨学",
     options: [
-      "— pain along a nerve",
+      "one thousandth of a meter毫米,",
+      "a short expression of a general truth,格言",
+      "a white, crystalline amino acid亮氨酸, leucine is one of the 3 essential branched chain amino acids, leucine food",
       "the structure as visible when cut up for analysis,解刨学",
-      " — obsessionwith and usually erotic interest on corpses",
-      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
     ]
   },
     {
     numb: 901,
-    question: "anachronism",
+    question: "anachronism:anthrop, anthropo, human",
     answer: "not in its correct historical time, 不合时宜，",
     options: [
-      "one of the commonest minerals, calcium carbonate,方解石",
+      "l- a group of greenpigments found in leaves",
+      "the center of an earthquake, Wall street might be said to lie at the epicenter of the financial center",
+      "producing a good effect, advantageous, helpful,有益,regular exercise has many beneficial health effects",
       "not in its correct historical time, 不合时宜，",
-      "displaying two colors，双色的,example of dichromatic substances are pumpkin see oil",
-      "an official order, the law mandates that every car have seat belts",
     ]
   },
     {
     numb: 902,
-    question: "amiable[ey-mee-uh-buh l]",
+    question: "amiable[ey-mee-uh-buh l]:anthrop, anthropo, human",
     answer: "friendly, pleasant, loveable",
     options: [
+      "the highest ranking bishop(主教),大主教",
       "friendly, pleasant, loveable",
-      "resembling fat油脂,examples of lipids are waxes, oils,  sterols, fat-soluble vitamins",
-      "- a small platform tostand on",
-      "a sheltered place to flee to, shelter or protection from danger.避难所",
+      " — loud,unpleasant sounds",
+      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
     ]
   },
     {
     numb: 903,
-    question: "amity[am-i-tee]",
+    question: "amity[am-i-tee]:anth, antho, flower",
     answer: "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
     options: [
-      " — without sense",
+      "moving outward from a center, 离心式, centrifugal forces examples: a bike making a turn",
+      "— a person fluent in manylanguages",
       "friendly and peaceful relations, peaceful harmony和睦, the two groups had lived in perfect amity for many years",
-      "medical care for feet足病学,what do podiatrists do?",
-      "— the remembering ofpast events",
+      "place trust in someone, have faith信任某人,将秘密告诉某人, he confided his secret to a frienc",
     ]
   },
     {
     numb: 904,
-    question: "amorous[am-er-uh s]",
+    question: "amorous[am-er-uh s]:anth, antho, flower",
     answer: "showing romantic love, especially sexual love",
     options: [
-      " — attracted toforeigners",
+      "- sixfold",
+      "— a doctorconcerned with the proper alignment of thebones",
+      "a sheltered place to flee to, shelter or protection from danger.避难所",
       "showing romantic love, especially sexual love",
-      "— relating tosomething in the past",
-      "name of a flower, an imaginary undying flower,苋菜,",
     ]
   },
     {
     numb: 905,
-    question: "ambidextrous[am-bi-dek-struh s]",
+    question: "ambidextrous[am-bi-dek-struh s]:ante, before, in front",
     answer: "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
     options: [
+      "one half of the earth or sphere半球",
+      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
       "able to use both hands equally,灵巧的, he is a promising, ambidextrous young golfer",
-      "- eating all foods",
-      "— the act of rubbingtogether or wearing down",
-      "— being turned towardsown thoughts, a shy person",
+      "- hard to understand, notclear or plain; ambiguous",
     ]
   },
     {
     numb: 906,
-    question: "ambiguous[am-big-yoo-uh s]",
+    question: "ambiguous[am-big-yoo-uh s]:ante, before, in front",
     answer: "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
     options: [
-      "study of the earth's surface,地理,",
       "having more than one meaning,模糊的, it means you are being unclear or inexact, ambiguity is a funny thing",
-      " — inflammation of thekidneys",
-      "to stop from moving",
+      "of the same kind or nature, essentially alike,均质，均一,相似,相融,examples of homogeneous mixtures: saltwater, coffee and milk, air ",
+      "- to force someone to act",
+      "—existing at the same time",
     ]
   },
     {
     numb: 907,
-    question: "ambivalence[am-biv-uh-luh ns]",
+    question: "ambivalence[am-biv-uh-luh ns]:ante, before, in front",
     answer: "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
     options: [
+      "scieence of symbols and icons",
       "conflicting or opposite feelings toward a person or thing, 矛盾心理, you may feel ambivalent about going out on Friday night",
-      " — unclearexpressions, usually to avoid commitment andmislead",
-      "— having parts orelements strongly holding to each other",
-      "- to carry goods out of aplace to another",
-    ]
-  },
-    {
-    numb: 908,
-    question: "neuralgia[noo-ral-juh]",
-    answer: "pain caused by a nerve神经痛,what is the most common neuralgia?",
-    options: [
-      "- contribution of one's thinking.",
-      "no longer working or alive",
-      "pain caused by a nerve神经痛,what is the most common neuralgia?",
-      " — a motor vehicle that pullsthings",
-    ]
-  },
-    {
-    numb: 909,
-    question: "analgesic[an-l-jee-zik]",
-    answer: "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
-    options: [
-      "- to proclaim harshcriticism",
-      "outside the earth, extraterrestrial life",
-      "— the study",
-      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
-    ]
-  },
-    {
-    numb: 910,
-    question: "nostaglia[no-stal-juh]",
-    answer: "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
-    options: [
-      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
-      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
-      "medichine pertaining to the elderly,老年医学,what is gerontology and geriatrics?",
-      "a line connecting points of equal barometric气压计 pressure，等压线,or isobars are atoms of different elemetns with different atomic numbers same mass number",
-    ]
-  },
-    {
-    numb: 911,
-    question: "agrobusiness[ag-ruh-biz-nis]",
-    answer: "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
-    options: [
-      "to argue against, 顶撞，抗辩,she dared not contradict him",
-      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
-      "able to be taken or that can be moved, 可拆卸的, examples of functions with a removable discontinuity",
-      "— corrode a surface",
-    ]
-  },
-    {
-    numb: 912,
-    question: "agrarian[uh-grair-ee-uh n]",
-    answer: "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-    options: [
-      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
-      "- to say it didn't happen",
-      "- the first of a kind",
-      "— faster thansound",
-    ]
-  },
-    {
-    numb: 913,
-    question: "aerate[air-eyt]",
-    answer: "to cause air to circulate,通气，to aerate sth is to put air into it",
-    options: [
-      "to cause air to circulate,通气，to aerate sth is to put air into it",
-      " — gotten at birth, existingin or formed by nature",
-      "- a clever but misleadingargument",
-      "kb, one thousand bytes",
-    ]
-  },
-    {
-    numb: 914,
-    question: "aerial[air-ee-uhl]",
-    answer: "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
-    options: [
-      "someone working with trees,树艺师",
-      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
-      "correspondence in form, manner, or character，一致性,10 everyday life examples of conformity",
-      "— a person who writes outdocuments",
-    ]
-  },
-    {
-    numb: 915,
-    question: "aerospace[air-oh-speys]",
-    answer: "the air space, the atmosphere,航空, aerospace industry",
-    options: [
-      " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
-      "the sensation of bodily movement,动觉, through your sense of kinesthesis, you can tell where different parts of your body are located",
-      "the air space, the atmosphere,航空, aerospace industry",
-      "- feeling sleepy",
-    ]
-  },
-    {
-    numb: 916,
-    question: "acrobat[ak-ruh-bat]",
-    answer: "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
-    options: [
-      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
-      "metric unit equaling ten thousand square meters, 公顷,Here is what a hectare really looks like.",
-      " — a mixture that forms asmooth solid covering for walls",
-      " — a species ofanimals with a big horn on the snout",
-    ]
-  },
-    {
-    numb: 917,
-    question: "acronym[ak-ruh-nim]",
-    answer: "a word formed from the first letters of a word, 首字母缩略词",
-    options: [
-      "a word formed from the first letters of a word, 首字母缩略词",
-      "in an earlier period, prior to development,古老, because my archaic computer is no longer useful to me, I am giving it away for free",
-      "- an output of original researchwith a specific view",
-      " — a beginner, startingto grow",
-    ]
-  },
-    {
-    numb: 918,
-    question: "acrophobia[ak-ruh-foh-bee-uh]",
-    answer: "fear of height恐高症",
-    options: [
-      "psychologically abnormal egostism, 自大狂, a true egomaniac has a pyschological disorder that makes him believe that he is the greatest.",
-      "fear of height恐高症",
-      "a person who resists any authority,造反，反叛，叛逆",
-      "inside or into a vein(静脉),静脉,intravenous injection",
-    ]
-  },
-    {
-    numb: 919,
-    question: "abduct",
-    answer: "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
-    options: [
-      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
-      "不道德的",
-      " — desiring or eatingfood in great quantities",
-      "not rational, deprived被剥夺的 of reason, rational and irrational numbers",
-    ]
-  },
-    {
-    numb: 920,
-    question: "afire[uh-fahyuh r]",
-    answer: "on fire, aflame, the whole mill was afire ",
-    options: [
-      "friendly, pleasant, loveable",
-      "on fire, aflame, the whole mill was afire ",
-      "unusually or abnormally active，过度活跃,hyperactivity may mean extreme restlessness or talking too much",
-      "the surface of the moon",
-    ]
-  },
-    {
-    numb: 921,
-    question: "ashore[uh-shawr]",
-    answer: "on the shore, we shall put you ashore on the first island that we see",
-    options: [
-      "a large enclosure for birds, 大鸟笼，鸟舍",
-      "the act of moving",
-      "on the shore, we shall put you ashore on the first island that we see",
+      "warlike, aggressively hostile,好战的",
       "- an umbrella used toprotect from the sun",
     ]
   },
     {
+    numb: 908,
+    question: "neuralgia[noo-ral-juh]:anim_life_spirit",
+    answer: "pain caused by a nerve神经痛,what is the most common neuralgia?",
+    options: [
+      "a little grain, a small particle, pellet,颗粒, some examples of granular materials are snow, nuts, rice, sand",
+      "- any tract of land;region or district",
+      "pain caused by a nerve神经痛,what is the most common neuralgia?",
+      "— the love of words",
+    ]
+  },
+    {
+    numb: 909,
+    question: "analgesic[an-l-jee-zik]:anim_life_spirit",
+    answer: "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+    options: [
+      "- to give a false, perverted,or disproportionate meaning to",
+      "- truth",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+      "the killing of one human being by another, 杀人",
+    ]
+  },
+    {
+    numb: 910,
+    question: "nostaglia[no-stal-juh]:andr/andro, man/male",
+    answer: "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+    options: [
+      " — a device thatrecords and amplifies sound",
+      "- relating to the body",
+      "aching for the familiar yearning for happiness,思旧, I was overcome with acute nostalgia for my days in college",
+      "introduction to the major performance, 序幕,前奏曲,The dark cloud were a prelude to the storm",
+    ]
+  },
+    {
+    numb: 911,
+    question: "agrobusiness[ag-ruh-biz-nis]:andr/andro, man/male",
+    answer: "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+    options: [
+      "related to remembering a person or event纪念馆,memorial park in san ramon",
+      "having equal or constant temperature, A fridge works isothermally",
+      "an extreme love of books, 藏书狂",
+      "making money by utilizing land,农业企业,what is the biggest agribusiness company?",
+    ]
+  },
+    {
+    numb: 912,
+    question: "agrarian[uh-grair-ee-uh n]:andr/andro, man/male",
+    answer: "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+    options: [
+      "- half the earthspherically shaped like a ball",
+      "relating to the management of land, 农业的, An agrarian country makes its money from farming ",
+      "- inflammation of a mucousmembrane of the nose and throat",
+      "- the worship ofall gods",
+    ]
+  },
+    {
+    numb: 913,
+    question: "aerate[air-eyt]:ana, up/back/against/again/throughout",
+    answer: "to cause air to circulate,通气，to aerate sth is to put air into it",
+    options: [
+      "the group of spectators at a public event",
+      "a person who resists any authority,造反，反叛，叛逆",
+      "freedom",
+      "to cause air to circulate,通气，to aerate sth is to put air into it",
+    ]
+  },
+    {
+    numb: 914,
+    question: "aerial[air-ee-uhl]:ana, up/back/against/again/throughout",
+    answer: "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
+    options: [
+      "name of a flower, an imaginary undying flower,苋菜,",
+      "— more excitedthan one should be",
+      "to cancel a previous order,撤销,收回,he countermanded his instructions to his staff officer",
+      "relating to the air, produced by the air,天线， things that are aerial are happening in the air, birds, planes are all aerial things",
+    ]
+  },
+    {
+    numb: 915,
+    question: "aerospace[air-oh-speys]:ami, amo, love",
+    answer: "the air space, the atmosphere,航空, aerospace industry",
+    options: [
+      "the air space, the atmosphere,航空, aerospace industry",
+      "— meaning no orexpressing refusal",
+      " — a substancethat helps prevent body odor",
+      "—the process of removing poisons",
+    ]
+  },
+    {
+    numb: 916,
+    question: "acrobat[ak-ruh-bat]:ami, amo, love",
+    answer: "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
+    options: [
+      "— deep red color and a preciousstone of the same color",
+      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
+      " — a supporter of therights of people",
+      "- a list personswho have recently died",
+    ]
+  },
+    {
+    numb: 917,
+    question: "acronym[ak-ruh-nim]:ami, amo, love",
+    answer: "a word formed from the first letters of a word, 首字母缩略词",
+    options: [
+      "a word formed from the first letters of a word, 首字母缩略词",
+      " — minutefloating aquatic animals, animal-like organisms",
+      "- to pull objects nearer, allure,invite",
+      "to expend especially from a public fund,支付，支出, the money will be disbursed on the basis of need",
+    ]
+  },
+    {
+    numb: 918,
+    question: "acrophobia[ak-ruh-foh-bee-uh]:ambi, amphi, both, on both sides, around",
+    answer: "fear of height恐高症",
+    options: [
+      "of or relating to an age or period of 200 years, 两百周年, in 1976, the US celebrated its bicentennial",
+      "open and sincere, frank, outspoken,坦率，坦白,she spoke candidly about some of the difficulties she had been experiencing",
+      "- to give of vaporwith waste through the skin or a membranespirit Lspir—it",
+      "fear of height恐高症",
+    ]
+  },
+    {
+    numb: 919,
+    question: "abduct:ambi, amphi, both, on both sides, around",
+    answer: "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
+    options: [
+      "take away by force, especially to kidnap,诱拐,she was charged with abducting a six-month-old child",
+      "— abnormallyexcessive bowel movement",
+      "self-centered,自私的,how to spot an egotistical personality and protect yourself from it.",
+      "to dig out, to make hollow by removing the inner part,挖掘，开凿,they excavate an acient city. they begin excavating the backyard for their new pool",
+    ]
+  },
+    {
+    numb: 920,
+    question: "afire[uh-fahyuh r]:ambi, amphi, both, on both sides, around",
+    answer: "on fire, aflame, the whole mill was afire ",
+    options: [
+      "— using the force of air",
+      "to move someone to action or promote to move forward, 激励, 35 examples of motivations in workplace",
+      "— doctorspecializing in the nerves",
+      "on fire, aflame, the whole mill was afire ",
+    ]
+  },
+    {
+    numb: 921,
+    question: "ashore[uh-shawr]:alg, algo, pain",
+    answer: "on the shore, we shall put you ashore on the first island that we see",
+    options: [
+      "study of the microscopic structure of tissues组织学, histology, microscopy, anatomy解刨学 and disease",
+      "the cross itself as a christian emblem, 十字架",
+      " — to come with a product ofone's own ingenuity",
+      "on the shore, we shall put you ashore on the first island that we see",
+    ]
+  },
+    {
     numb: 922,
-    question: "aside[uh-sahyd]",
+    question: "aside[uh-sahyd]:alg, algo, pain",
     answer: "on the side, on or to one side, he took her aside to speak to her privately",
     options: [
-      "— a group of seven musicians",
-      "an outgoing person, 性格外向的, extrovert personality",
-      "— between the stars",
+      "— a doctor for thefeet",
       "on the side, on or to one side, he took her aside to speak to her privately",
+      "an error in printing, please accept our aologies for the misprint in the memo announcing our office christmas party",
+      "- to eat quickly and withgreat fervor",
     ]
   },
     {
     numb: 923,
-    question: "abridge",
+    question: "abridge:alg, algo, pain",
     answer: "删节",
     options: [
-      "- at a standstill,fixed",
-      "a verse诗 measured in six六部格诗",
-      "on the side, on or to one side, he took her aside to speak to her privately",
+      "fithfulness,忠诚，忠实,保真度,Couples that have a long track record of fidelity often stay together longer than those who don't",
       "删节",
+      " —existing outside the earth",
+      "words with same spelling but different meanings and sometimes in pronunciation同字不同音，同字不同意,",
     ]
   },
     {
     numb: 924,
-    question: "abbreviate",
+    question: "abbreviate:agr, agri, agro, framing",
     answer: "缩减",
     options: [
-      "发光体",
       "缩减",
-      "someone working with trees,树艺师",
-      " — aconversation where discussion turned againsteach other",
+      "inflammation(炎症) of the substance in the brain,脑炎,",
+      "- to break into aconversation or event, to disturb",
+      "very talkative，贫嘴,after drinking four beers, his quite wife becomes quite loquacious",
     ]
   },
     {
     numb: 925,
-    question: "amoral",
+    question: "amoral:agr, agri, agro, framing",
     answer: "不道德的",
     options: [
       "不道德的",
-      "existing or occuring within the boundaries of a state",
-      "to mislead, deceive，迷惑, I was angry with him for trying to delude me",
-      "before noon,上午的, the antemeridian brunch was held before noon so that more people could attend",
+      "to take notice of something, to recognize, discern, 感知，察觉，感觉, I perceive heat, color, sound, odor, flavor in my five senses",
+      "an instrument that measures time",
+      "an act or instance of changing the direction of a moving ship,调动,演习.she maneuver her car into the tiny garage",
     ]
   },
     {
     numb: 926,
-    question: "anonymous",
+    question: "anonymous:act, do",
     answer: "匿名的",
     options: [
-      "having physical energy or power, forceful, energetic,动力的，变化的，business innovation is a dynamic process",
-      "- a person who fitseyeglassesautopsylaw-top—see",
-      "to add water to, 水合物,what are hydrates? a hydrate is any compound has absorbed water molecules from its environment",
+      "- period offour years",
       "匿名的",
+      "scieence of symbols and icons",
+      "a dark, pathetic drama情景剧, 11 melodrama examples to study",
     ]
   },
     {
     numb: 927,
-    question: "abyss[uh-bis]",
+    question: "abyss[uh-bis]:act, do",
     answer: " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
     options: [
-      "one half of the earth or sphere半球",
+      "a drug that makes one pain free, 镇痛药, analgesics are a group of drugs that include aspirin, Tylenol, and ibuprofen",
+      "one tenth of the sound volume unit bel,分贝,DB,a whisper is about 30 db(decibel).",
       " without bottom, a deep, immeasurable space深渊,深沟, the abyss between two nations",
-      " — maintenance ofpublic health and cleanliness",
-      "— a portion of a writtendocument that presents a distinct idea",
+      "worst enemy",
     ]
   },
     {
     numb: 928,
-    question: "anhydrous[an-hahy-druh s]",
+    question: "anhydrous[an-hahy-druh s]:act, do",
     answer: "without water",
     options: [
-      " — cannibalism",
-      "a high walker, a skilled performer of gymnastic feats杂技演员, a circus acrobat",
       "without water",
-      "a malleable silvery-white element of the alkaline earth group,钙",
+      "the custom to marry within one's clan氏族, tirbe,同族通婚",
+      "in the shape of a tree, treelike form，树枝状,",
+      "— a group of seven musicians",
     ]
   },
 ];
