@@ -1,3 +1,4 @@
+
 //selecting all required elements
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
@@ -13,6 +14,7 @@ const timeCount = document.querySelector(".timer .timer_sec");
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
+    start_btn.remove();
 }
 
 // if exitQuiz button clicked
@@ -91,7 +93,7 @@ next_btn.onclick = ()=>{
 // getting questions and options from array
 function showQuetions(index){
     const que_text = document.querySelector(".que_text");
-
+    console.log(index)
     //creating a new span and div tag for question and option and passing the value using array index
     let que_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
     let option_tag = '<div class="option"><span>'+ questions[index].options[0] +'</span></div>'
@@ -100,7 +102,8 @@ function showQuetions(index){
     + '<div class="option"><span>'+ questions[index].options[3] +'</span></div>';
     que_text.innerHTML = que_tag; //adding new span tag inside que_tag
     option_list.innerHTML = option_tag; //adding new div tag inside option_tag
-
+    console.log(index);
+    console.log(questions[index].numb);
     const option = option_list.querySelectorAll(".option");
 
     // set onclick attribute to all available options
@@ -208,5 +211,6 @@ function startTimerLine(time){
 function queCounter(index){
     //creating a new span tag and passing the question number and total question
     let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
+    console.log(questions.length);
     bottom_ques_counter.innerHTML = totalQueCounTag;  //adding new span tag inside bottom_ques_counter
 }
