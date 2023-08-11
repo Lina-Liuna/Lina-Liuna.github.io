@@ -25,12 +25,22 @@ exit_btn.onclick = ()=>{
 
 continue_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box
-    select_box.classList.add("inputnum");
-    UserInput()
-    getValue()
+    quiz_box.classList.add("inputnum"); //show quiz box
+    showQuetions(0); //calling showQestions function
+    queCounter(1); //passing 1 parameter to queCounter
+    startTimer(10); //calling startTimer function
+    startTimerLine(0); //calling startTimerLine function
 }
 
-
+// if continueQuiz button clicked
+continue_btn.onclick = ()=>{
+    info_box.classList.remove("activeInfo"); //hide info box
+    quiz_box.classList.add("activeQuiz"); //show quiz box
+    showQuetions(0); //calling showQestions function
+    queCounter(1); //passing 1 parameter to queCounter
+    startTimer(10); //calling startTimer function
+    startTimerLine(0); //calling startTimerLine function
+}
 
 let timeValue =  10;
 let que_count = 0;
@@ -39,7 +49,6 @@ let userScore = 0;
 let counter;
 let counterLine;
 let widthValue = 0;
-let userinputvalue = 0
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
@@ -91,45 +100,6 @@ next_btn.onclick = ()=>{
     }
 }
 
-
-// getting questions and options from array
-function UserInput(){
-
-    // Select the element with the class "user_input_info"
-    const user_input_info = document.querySelector(".que_text");
-
-    // Log the selected element to the console
-    console.log(user_input_info);
-
-    // Create a new <span> element with the text "Please input a start quiz number"
-    let que_tag = '<span>' + 'Please input a start quiz number' + '</span>';
-    let option_tag = '<div class="option"><span>'+ 'test'+'</span></div>'
-    + '<div class="option"><span>'+ 'test' +'</span></div>'
-    + '<div class="option"><span>'+ 'test' +'</span></div>'
-    + '<div class="option"><span>'+ 'test' +'</span></div>';
-    user_input_info.innerHTML = que_tag; //adding new span tag inside que_tag
-    option_list.innerHTML = option_tag; //adding new div tag inside option_tag
-
-
-    const option = option_list.querySelectorAll(".option");
-
-}
-
-function getValue() {
-    // Get the input element
-    const inputElement = document.getElementById("numberInput");
-
-    // Get the value of the input
-    const inputValue = inputElement.value;
-    console.log(inputElement)
-    // Display the value in the console
-    console.log("User input value:", inputValue);
-
-    userinputvalue = inputValue;
-    console.log(userinputvalue)
-
-    // You can use inputValue in your code as needed
-}
 // getting questions and options from array
 function showQuetions(index){
     const que_text = document.querySelector(".que_text");

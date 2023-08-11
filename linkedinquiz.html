@@ -22,12 +22,31 @@
             <div class="info">3. You can't select any option once time goes off.</div>
             <div class="info">4. You can't exit from the Quiz while you're playing.</div>
             <div class="info">5. You'll get points on the basis of your correct answers.</div>
+            <div class="info">6. Enter a quiz number to start.</div>
         </div>
         <div class="buttons">
             <button class="quit">Exit Quiz</button>
             <button class="restart">Continue</button>
         </div>
     </div>
+
+     <!-- Info Box -->
+    <div class="select_box">
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+
+        </section>
+        <div class="info-list">
+           <input type="number" id="numberInput" name="numberInput">
+        </div>
+        <div class="buttons">
+            <button class="input_btn" onclick="getValue()">Get Input Value</button>
+        </div>
+    </div>
+
+
 
     <!-- Quiz Box -->
     <div class="quiz_box">
