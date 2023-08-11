@@ -91,7 +91,6 @@ next_btn.onclick = ()=>{
     }
 }
 
-
 // getting questions and options from array
 function UserInput(){
 

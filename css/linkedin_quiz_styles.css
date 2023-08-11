@@ -294,7 +294,24 @@ footer .total_que span p{
 footer .total_que span p:first-child{
     padding-left: 0px;
 }
-
+input_btn {
+    height: 40px;
+    padding: 0 13px;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 5px;
+    background: #00cc00;
+    border: 1px solid #009933;
+    line-height: 10px;
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.95);
+    transition: all 0.3s ease;
+}
 footer button{
     height: 40px;
     padding: 0 13px;
