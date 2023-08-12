@@ -11,6 +11,7 @@ const option_list = document.querySelector(".option_list");
 const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
+const userinput_btn = select_box.querySelector(".user_info .buttons .input_btn")
 
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
@@ -91,9 +92,32 @@ next_btn.onclick = ()=>{
     }
 }
 
+
+userinput_btn.onclick = ()=>{
+    userinputvalue = 0
+    getValue()
+    select_box.remove();
+    quiz_box.classList.add("activeQuiz"); //show quiz box
+    result_box.classList.remove("activeResult"); //hide result box
+    timeValue = 10;
+    que_count = userinputvalue - 1;
+    que_numb = userinputvalue;
+    userScore = 0
+    widthValue = 0;
+    showQuetions(userinputvalue - 1)
+    queCounter(que_numb); //passing que_numb value to queCounter
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+    startTimer(timeValue); //calling startTimer function
+    startTimerLine(widthValue); //calling startTimerLine function
+    timeText.textContent = "Time Left"; //change the timeText to Time Left
+    next_btn.classList.remove("show"); //hide the next button
+
+}
+
 // getting questions and options from array
 function UserInput(){
-
+    select_box.classList.add("showselectivebox");
     // Select the element with the class "user_input_info"
     const user_input_info = document.querySelector(".que_text");
 
@@ -110,7 +134,6 @@ function UserInput(){
     option_list.innerHTML = option_tag; //adding new div tag inside option_tag
 
 
-    const option = option_list.querySelectorAll(".option");
 
 }
 
@@ -126,6 +149,7 @@ function getValue() {
 
     userinputvalue = inputValue;
     console.log(userinputvalue)
+    select_box.classList.remove("activeResult"); //hide result box
 
     // You can use inputValue in your code as needed
 }
@@ -241,7 +265,7 @@ function startTimerLine(time){
     function timer(){
         time += 1; //upgrading time value with 1
         time_line.style.width = time + "px"; //increasing width of time_line with px by time value
-        if(time > 549){ //if time value is greater than 549
+        if(time > 290 + 60){ //if time value is greater than 549
             clearInterval(counterLine); //clear counterLine
         }
     }
