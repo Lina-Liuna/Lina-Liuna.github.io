@@ -40,7 +40,7 @@ let userScore = 0;
 let counter;
 let counterLine;
 let widthValue = 0;
-let userinputvalue = 1
+let userinputvalue = 0
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
@@ -94,7 +94,7 @@ next_btn.onclick = ()=>{
 
 
 userinput_btn.onclick = ()=>{
-    userinputvalue = 1
+    userinputvalue = 0
     getValue()
     select_box.remove();
     quiz_box.classList.add("activeQuiz"); //show quiz box
