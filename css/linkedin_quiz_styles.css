@@ -50,7 +50,6 @@ body{
     cursor: pointer;
 }
 
-.select_box,
 .info_box{
     width: 540px;
     background: #fff;
@@ -102,6 +101,53 @@ body{
     font-size: 25px;
     font-weight: 600;
 }
+
+.select_box{
+    width: 480px;
+    background: #fff;
+    border-radius: 5px;
+    transform: translate(-50%, -50%) scale(0.9);
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+
+}
+
+.select_box .user_info {
+    /* Add other styling for the select_box container as needed */
+    display: flex;
+    align-items: left;
+    justify-content: flex-start;
+}
+
+.select_box .user_info .info-list {
+    margin: 5px 0;
+    font-size: 17px;
+}
+
+.select_box .buttons {
+    /* Position the button container */
+    /* Add other styling for the button container as needed */
+}
+
+.select_box .user_info .buttons button {
+    padding: 0px 3px;
+    margin: 5px 2px; /* Adjust the horizontal margin to decrease spacing */
+    height: 40px;
+    width: 180px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #33ff33;
+    transition: all 0.3s ease;
+    /* Position the button inside the box */
+    position: relative; /* Set the position of the button to "absolute" */
+}
+
+
 .info_box .buttons{
     height: 60px;
     display: flex;
@@ -294,24 +340,7 @@ footer .total_que span p{
 footer .total_que span p:first-child{
     padding-left: 0px;
 }
-input_btn {
-    height: 40px;
-    padding: 0 13px;
-    font-size: 18px;
-    font-weight: 400;
-    cursor: pointer;
-    border: none;
-    outline: none;
-    color: #fff;
-    border-radius: 5px;
-    background: #00cc00;
-    border: 1px solid #009933;
-    line-height: 10px;
-    opacity: 0;
-    pointer-events: none;
-    transform: scale(0.95);
-    transition: all 0.3s ease;
-}
+
 footer button{
     height: 40px;
     padding: 0 13px;
@@ -404,6 +433,22 @@ footer button.show{
 }
 
 .buttons button.restart:hover{
+    background: #00b33c;
+}
+
+.buttons button.input_btn{
+    height: 30px;
+    padding: 0 15px;
+    font-size: 18px;
+    font-weight: 40;
+    cursor: pointer;
+    top: 10px; /* Adjust the top distance as needed */
+    right: 10px; /* Adjust the right distance as needed */
+    color: #fff;
+    background: #00cc00;;
+}
+
+.buttons button.input_btn:hover{
     background: #00b33c;
 }
 

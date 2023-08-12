@@ -23,14 +23,6 @@ exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box
 }
 
-continue_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
-    quiz_box.classList.add("inputnum"); //show quiz box
-    showQuetions(0); //calling showQestions function
-    queCounter(1); //passing 1 parameter to queCounter
-    startTimer(10); //calling startTimer function
-    startTimerLine(0); //calling startTimerLine function
-}
 
 // if continueQuiz button clicked
 continue_btn.onclick = ()=>{
@@ -99,6 +91,7 @@ next_btn.onclick = ()=>{
         showResult(); //calling showResult function
     }
 }
+
 
 // getting questions and options from array
 function showQuetions(index){
