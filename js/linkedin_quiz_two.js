@@ -1,6 +1,7 @@
 
 //selecting all required elements
-const start_btn = document.querySelector(".start_buttons .start_btn_one");
+const start_btn = document.querySelector(".start_buttons .start_btn_two");
+const start_btn_s = document.querySelector(".start_buttons");
 const info_box = document.querySelector(".info_box");
 const select_box = document.querySelector(".select_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -13,15 +14,13 @@ const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const userinput_btn = select_box.querySelector(".user_info .buttons .input_btn")
 
-// if startQuiz button clicked
-start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
-    start_btn.remove();
-}
+info_box.classList.add("activeInfo"); //show info box
+start_btn.remove();
+start_btn_s.remove()
 
-// if exitQuiz button clicked
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box
+    window.location.href = "/Users/linaliu/code/Lina-Liuna.github.io/linkedinquiz.html";
 }
 
 continue_btn.onclick = ()=>{

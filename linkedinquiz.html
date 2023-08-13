@@ -11,7 +11,36 @@
 </head>
 <body>
     <!-- start Quiz button -->
-    <div class="start_btn"><button>Seven Days English Vocabulary boost quiz</button></div>
+    <div class="start_buttons">
+        <button class="start_btn_one">Seven Days English Vocabulary boost quiz</button>
+        <button class="start_btn_two">TOEFL Power Vocab</button>
+    </div>
+    <script>
+        // Function to load a JavaScript file
+        function loadScript(url) {
+            const script = document.createElement("script");
+            script.src = url;
+            document.head.appendChild(script);
+        }
+
+        // Get the buttons
+        const start_btn_one = document.querySelector(".start_btn_one");
+        const start_btn_two = document.querySelector(".start_btn_two");
+
+        // Add event listeners to the buttons
+        start_btn_one.addEventListener("click", function() {
+            // Load the first JavaScript file when the first button is clicked
+            loadScript("js/linkedin_quiz.js");
+            loadScript("js/linked_quizdata.js");
+
+        });
+
+        start_btn_two.addEventListener("click", function() {
+            // Load the second JavaScript file when the second button is clicked
+            loadScript("js/linkedin_quiz_two.js");
+            loadScript("js/linked_TOEFL_Power_Vocab.js");
+        });
+    </script>
 
     <!-- Info Box -->
     <div class="info_box">
@@ -93,11 +122,6 @@
         </div>
     </div>
 
-    <!-- Inside this JavaScript file I've inserted Questions and Options only -->
-    <script src="js/linked_quizdata.js"></script>
-
-    <!-- Inside this JavaScript file I've coded all Quiz Codes -->
-    <script src="js/linkedin_quiz.js"></script>
 
 
 </body>

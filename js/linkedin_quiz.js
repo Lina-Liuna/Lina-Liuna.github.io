@@ -1,6 +1,7 @@
 
 //selecting all required elements
 const start_btn = document.querySelector(".start_buttons .start_btn_one");
+const start_btn_s = document.querySelector(".start_buttons");
 const info_box = document.querySelector(".info_box");
 const select_box = document.querySelector(".select_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -13,15 +14,38 @@ const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const userinput_btn = select_box.querySelector(".user_info .buttons .input_btn")
 
-// if startQuiz button clicked
-start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
-    start_btn.remove();
+info_box.classList.add("activeInfo"); //show info box
+start_btn.remove();
+start_btn_s.remove()
+
+function returnToParentDirectory() {
+    // Get the current URL
+    const currentUrl = window.location.href;
+
+    // Find the last slash to remove the current file or directory name
+    const lastSlashIndex = currentUrl.lastIndexOf("/");
+    const parentDirectoryUrl = currentUrl.substring(0, lastSlashIndex);
+
+    // Navigate to the parent directory's URL
+    window.location.href = parentDirectoryUrl;
 }
 
+// Function to load content from a specific URL and replace the current content
+function loadContentAndReplace(url) {
+    const xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            // Replace the current content with the loaded content
+            document.body.innerHTML = xhr.responseText;
+        }
+    };
+    xhr.open("GET", url, true);
+    xhr.send();
+}
 // if exitQuiz button clicked
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box
+    window.location.href = "/Users/linaliu/code/Lina-Liuna.github.io/linkedinquiz.html";
 }
 
 continue_btn.onclick = ()=>{
