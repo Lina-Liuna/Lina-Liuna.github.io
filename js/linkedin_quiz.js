@@ -45,7 +45,7 @@ function loadContentAndReplace(url) {
 // if exitQuiz button clicked
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box
-    window.location.href = "/Users/linaliu/code/Lina-Liuna.github.io/linkedinquiz.html";
+    window.location.href = "../linkedinquiz.html";
 }
 
 continue_btn.onclick = ()=>{
