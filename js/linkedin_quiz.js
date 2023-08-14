@@ -17,6 +17,7 @@ const userAgent = navigator.userAgent.toLowerCase();
 
 if (userAgent.includes('mac')) {
     console.log('User is on macOS');
+    quiz_box.style.width = '500px';
 } else if (userAgent.includes('win')) {
     console.log('User is on Windows');
 } else if (userAgent.includes('iphone') || userAgent.includes('ipad')) {
@@ -136,6 +137,10 @@ userinput_btn.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); //show quiz box
     result_box.classList.remove("activeResult"); //hide result box
     timeValue = 10;
+
+    if (userinputvalue == ""){
+      userinputvalue = 1
+    }
     que_count = userinputvalue - 1;
     que_numb = userinputvalue;
     userScore = 0
@@ -193,6 +198,10 @@ function getValue() {
 function showQuetions(index){
     const que_text = document.querySelector(".que_text");
     console.log(index)
+    if(index == -1){
+        index = 0;
+        questions[0].numb = 1;
+    }
     //creating a new span and div tag for question and option and passing the value using array index
     let que_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
     let option_tag = '<div class="option"><span>'+ questions[index].options[0] +'</span></div>'
