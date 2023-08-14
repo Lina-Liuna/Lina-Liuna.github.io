@@ -14,16 +14,28 @@ const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const userinput_btn = select_box.querySelector(".user_info .buttons .input_btn")
 const userAgent = navigator.userAgent.toLowerCase();
+let counterLine_length = 350
 
 if (userAgent.includes('mac')) {
     console.log('User is on macOS');
-    quiz_box.style.width = '500px';
+    quiz_box.style.width = '700px';
+    counterLine_length = 700
+    interval_delay = 16
 } else if (userAgent.includes('win')) {
     console.log('User is on Windows');
+    quiz_box.style.width = '700px';
+    counterLine_length = 700
+    interval_delay = 16
 } else if (userAgent.includes('iphone') || userAgent.includes('ipad')) {
     console.log('User is on iOS');
+    quiz_box.style.width = '350px';
+    counterLine_length = 350
+    interval_delay = 29
 } else if (userAgent.includes('android')) {
     console.log('User is on Android');
+    quiz_box.style.width = '350px';
+    counterLine_length = 350
+    interval_delay = 29
 } else {
     console.log('Unknown platform');
 }
@@ -306,11 +318,11 @@ function startTimer(time){
 }
 
 function startTimerLine(time){
-    counterLine = setInterval(timer, 29);
+    counterLine = setInterval(timer, interval_delay);
     function timer(){
         time += 1; //upgrading time value with 1
         time_line.style.width = time + "px"; //increasing width of time_line with px by time value
-        if(time > 290 + 60){ //if time value is greater than 549
+        if(time > counterLine_length){ //if time value is greater than 549
             clearInterval(counterLine); //clear counterLine
         }
     }
