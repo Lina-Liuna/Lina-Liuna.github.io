@@ -13,7 +13,19 @@ const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const userinput_btn = select_box.querySelector(".user_info .buttons .input_btn")
+const userAgent = navigator.userAgent.toLowerCase();
 
+if (userAgent.includes('mac')) {
+    console.log('User is on macOS');
+} else if (userAgent.includes('win')) {
+    console.log('User is on Windows');
+} else if (userAgent.includes('iphone') || userAgent.includes('ipad')) {
+    console.log('User is on iOS');
+} else if (userAgent.includes('android')) {
+    console.log('User is on Android');
+} else {
+    console.log('Unknown platform');
+}
 info_box.classList.add("activeInfo"); //show info box
 start_btn.remove();
 start_btn_s.remove()
