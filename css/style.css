@@ -268,6 +268,35 @@ nav {
   color: #222;
 }
 
+.hover-underline-animation {
+  font-family:'Trebuchet MS';
+  display: inline-block;
+  position: relative;
+  color: white;
+  font-weight: bolder;
+  font-size: 40px;
+  text-shadow: 2px 2px 5px rgb(250, 184, 4);
+}
+
+.hover-underline-animation:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: wheat;
+  color: white;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  color: white;
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
 footer { 
   width: 930px;
   font: 140% 'News Cycle', arial, sans-serif;
