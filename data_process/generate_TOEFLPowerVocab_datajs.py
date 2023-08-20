@@ -1,24 +1,19 @@
 import sys
 sys.path.append('/Users/linaliu/code/EnglishSkills/')
 
-from english_skills_books import seven_days_english_vocabulary_boost_and_basic_grammer as sevendays_voc
+from english_skills_books import TOEFLPowerVocab as TOEFL_voc
 
 import random
 
 
 def get_words_dict_list():
     voc_dict = {}
-    for dict in  sevendays_voc.words_list:
-        voc_dict.update(dict['n'])
+    for dict in  TOEFL_voc.words_list:
+        voc_dict.update(dict)
     return voc_dict
 
 
-def get_words_roots_meaning():
-    root_list = []
-    for root in sevendays_voc.words_list:
-        root_list.extend([root['g']] * len(root['n']))
 
-    return  root_list
 
 def get_random_item(vocdicts):
     # Get a random key from the dictionary
@@ -31,7 +26,7 @@ def get_random_item(vocdicts):
 
 
 
-def generate_question_str(root, key, value, vocdicts, question_no):
+def generate_question_str( key, value, vocdicts, question_no):
     optionlist = []
     value = value.replace('"', '')
     optionlist.append(value)
@@ -39,7 +34,7 @@ def generate_question_str(root, key, value, vocdicts, question_no):
     optionlist.append(get_random_item(vocdicts))
     optionlist.append(get_random_item(vocdicts))
     random_number = random.randint(0, 3)
-    qstr = f"    {{\n    numb: {question_no},\n    question: \"{key}:{root}\",\n    answer: \"{value}\",\n    options: [\n      \"{optionlist[random_number]}\",\n"
+    qstr = f"    {{\n    numb: {question_no},\n    question: \"{key}\",\n    answer: \"{value}\",\n    options: [\n      \"{optionlist[random_number]}\",\n"
 
     optionlist.remove(optionlist[random_number])
     random_number = random.randint(0,2)
@@ -52,11 +47,11 @@ def generate_question_str(root, key, value, vocdicts, question_no):
 
     return qstr
 
-def generate_all_strs(vocdicts, rootlists):
+def generate_all_strs(vocdicts ):
     voc_strs = "\n\nlet questions = [\n"
-    for index, ((key, value), root) in enumerate(zip(vocdicts.items(), rootlists), start=1):
-        print(root)
-        voc_strs += generate_question_str(root, key, value, vocdicts, index)
+    for index, (key, value) in enumerate(vocdicts.items(), start=1):
+
+        voc_strs += generate_question_str( key, value, vocdicts, index)
     voc_strs += "];\n"
     return voc_strs
 
@@ -65,10 +60,10 @@ def all_strs2file(strs, file_path):
         file.write(strs)
 
 sevendays_voc_list = get_words_dict_list()
-roots_strs = get_words_roots_meaning()
-words_strs = generate_all_strs(sevendays_voc_list, roots_strs)
+print(sevendays_voc_list)
+words_strs = generate_all_strs(sevendays_voc_list)
 
-filepath = "/Users/linaliu/code/Lina-Liuna.github.io/js/linked_quizdata.js"
+filepath = "/Users/linaliu/code/Lina-Liuna.github.io/js/linked_TOEFL_Power_Vocab.js"
 all_strs2file(words_strs, filepath)
 
 

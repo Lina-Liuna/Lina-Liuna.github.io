@@ -9,7 +9,7 @@ def convert_png_to_webp(input_path, output_path):
         print(f"Error converting {input_path}: {e}")
 
 # Specify the input PNG file path and output WebP file path
-input_png_file = 'Users/linaliu/code/Lina-Liuna.github.io/Grade1.html/images/auntylina_icon.png'  # Replace with your PNG file path
-output_webp_file = 'Users/linaliu/code/Lina-Liuna.github.io/Grade1.html/images/auntylina_icon.webp'  # Replace with the desired output WebP file path
+input_png_file = '/Users/linaliu/code/Lina-Liuna.github.io/images/auntylina_icon.png'  # Replace with your PNG file path
+output_webp_file = '/Users/linaliu/code/Lina-Liuna.github.io/images/auntylina_icon.webp'  # Replace with the desired output WebP file path
 
 convert_png_to_webp(input_png_file, output_webp_file)

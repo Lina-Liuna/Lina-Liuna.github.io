@@ -288,7 +288,6 @@ function startTimer(time){
     }
 }
 
-
 function startTimerLine(time){
     counterLine = setInterval(timer, interval_delay);
     function timer(){

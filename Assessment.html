@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/linkedin_quiz_styles.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 </head>
 <body>
-$END$
+    <!-- start Quiz button -->
+    <button id="start_btn">Click me to go to the next page</button>
+    <script>
+        document.getElementById("start_btn").addEventListener("click", function() {
+        window.location.href = "linkedinquiz.html"; // Change the URL to the desired HTML page
+        });
+    </script>
 </body>
 </html>
