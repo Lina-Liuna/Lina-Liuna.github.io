@@ -259,7 +259,7 @@ label {
 }
 
 .body-style {
-	background-image: url("https://res.cloudinary.com/dkak37mek/image/upload/v1631569685/alfons-morales-YLSwjSy7stw-unsplash_jdnjxk.webp?raw=true");
+	background-image:  url(../images/1.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: rgba(0, 0, 0, 0.9);
@@ -886,7 +886,7 @@ strong {
 	z-index: 1;
 	perspective: 600px;
 	box-shadow: 0 4px 6px var(--shadow);
-	background-image: var(--background);
+	background-image: url(../images/1.webp);
 }
 
 .loader div ul {
@@ -3077,3 +3077,9 @@ select {
 	border-color: #ffc96b;
 	text-decoration: none;
   }
+
+
+#content
+{
+padding: 0em 2.0em 0em 2.0em;
+}
